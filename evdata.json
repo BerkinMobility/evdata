@@ -1,234 +1,728 @@
 {
-	"data": [
-		{
-			"id": "0",
-			"brand": "Mercedes-Benz",
-			"model": "EQC 400 4Matic",
-			"price": 66069,
-			"body": "SUV",
-			"battery_size": 80.0,
-			"range": 370,
-			"consumption": 21.6,
-			"engine_power": 300,
-			"newton_meter": 760,
-			"acceleration": 5.1,
-			"speed": 180,
-			"drive_train": "Allrad",
-			"weight": 2495,
-			"seats": 5,
-			"trunk": 500,
-			"url": "https://ev-database.de/pkw/1337/Mercedes-EQC-400-4MATIC",
-			"ac_charging":
-			{
-				"ports":
-					[
-					"Typ2"
-					],
-				"max_power": 11.0,
-				"power_per_charging_point":
-					{
-					"1.0": 1.0,
-					"2.0": 2.0,
-					"2.3": 2.3,
-					"3.7": 3.7,
-					"7.4": 7.4,
-					"11": 11.0,
-					"16": 16.0,
-					"11": 11.0,
-					"22": 22.0
-					}
-			},
-			"exclusive_charging_curve": true,
-			"dc_charging":
-			{
-				"ports":
-					[
-					"CCS"
-					],
-				"max_power": 125.0,
-				"charging_curve":
-				[
-					{
-					"percentage": 0,
-					"power": 105.0,
-					},
-					{
-					"percentage": 39,
-					"power": 125.0,
-					},
-					{
-					"percentage": 70,
-					"power": 87.0,
-					},
-					{
-					"percentage": 84,
-					"power": 68.0,
-					},
-					{
-					"percentage": 100,
-					"power": 25.0,
-					}
-				],
-			},
-		},
-		{
-			"id": "1",
-			"brand": "BMW",
-			"model": "i4 M50",
-			"price": 69900,
-			"body": "Stufenheck",
-			"battery_size": 80.7,
-			"range": 450,
-			"consumption": 17.9,
-			"engine_power": 400,
-			"newton_meter": 795,
-			"acceleration": 3.9,
-			"speed": 225,
-			"drive_train": "Allrad",
-			"weight": 2290,
-			"seats": 5,
-			"trunk": 470,
-			"url": "https://ev-database.de/pkw/1519/BMW-i4-M50",
-			"ac_charging":
-			{
-				"ports":
-					[
-					"Typ2"
-					],
-				"max_power": 11.0,
-				"power_per_charging_point":
-					{
-					"1.0": 1.0,
-					"2.0": 2.0,
-					"2.3": 2.3,
-					"3.7": 3.7,
-					"7.4": 7.4,
-					"11": 11.0,
-					"16": 16.0,
-					"11": 11.0,
-					"22": 22.0
-					}
-			},
-			"exclusive_charging_curve": false,
-			"dc_charging":
-			{
-				"ports":
-					[
-					"CCS"
-					],
-				"max_power": 200.0,
-				"charging_curve":
-				[
-					{
-					"percentage": 0,
-					"power": 180.0,
-					},
-					{
-					"percentage": 75,
-					"power": 200.0,
-					},
-					{
-					"percentage": 100,
-					"power": 40.0,
-					}
-				],
-			},
-		},
-		{
-			"id": "2",
-			"brand": "Opel",
-			"model": "Corsa-e",
-			"price": 29000,
-			"body": "Steilheck",
-			"battery_size": 45.0,
-			"range": 275,
-			"consumption": 16.4,
-			"engine_power": 100,
-			"newton_meter": 260,
-			"acceleration": 8.1,
-			"speed": 150,
-			"drive_train": "Front",
-			"weight": 1530,
-			"seats": 5,
-			"trunk": 309,
-			"url": "https://ev-database.de/pkw/1192/Opel-Corsa-e",
-			"exclusive_charging_curve": true,
-			"ac_charging":
-			{
-				"ports":
-					[
-					"Typ2"
-					],
-				"max_power": 7.4,
-				"power_per_charging_point":
-					{
-					"1.0": 1.0,
-					"2.0": 2.0,
-					"2.3": 2.3,
-					"3.7": 3.7,
-					"7.4": 7.4,
-					"11": 7.4,
-					"16": 7.4,
-					"11": 7.4,
-					"22": 7.4
-					}
-			},
-			"dc_charging":
-			{
-				"ports":
-					[
-					"CCS"
-					],
-				"max_power": 99.0,
-				"charging_curve":
-				[
-					{
-					"percentage": 0,
-					"power": 99.0,
-					},
-					{
-					"percentage": 16,
-					"power": 99.0,
-					},
-					{
-					"percentage": 21,
-					"power": 75.0,
-					},
-					{
-					"percentage": 48,
-					"power": 53.0,
-					},
-					{
-					"percentage": 67,
-					"power": 53.0,
-					},
-					{
-					"percentage": 68,
-					"power": 41.0,
-					},
-					{
-					"percentage": 72,
-					"power": 41.0,
-					},
-					{
-					"percentage": 73,
-					"power": 2.0
-					},
-					{
-					"percentage": 83,
-					"power": 27.0
-					},
-					{
-					"percentage": 84,
-					"power": 11.0
-					},
-					{
-					"percentage": 100,
-					"power": 11.0,
-					}
-				],
-			},
-		},
-		
-	]
+    "data": [
+        {
+            "id": 0,
+            "brand": "Mercedes-Benz",
+            "model": "EQC 400 4Matic",
+            "price": 66069,
+            "body": "SUV",
+            "battery_size": 80.0,
+            "range": 370,
+            "consumption": 21.6,
+            "engine_power": 300,
+            "newton_meter": 760,
+            "acceleration": 5.1,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2495,
+            "seats": 5,
+            "trunk": 500,
+            "url": "https://ev-database.de/pkw/1337/Mercedes-EQC-400-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 125.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 105.0
+                    },
+                    {
+                        "percentage": 39,
+                        "power": 125.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 87.0
+                    },
+                    {
+                        "percentage": 84,
+                        "power": 68.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "brand": "BMW",
+            "model": "i4 M50",
+            "price": 69900,
+            "body": "Stufenheck",
+            "battery_size": 80.7,
+            "range": 450,
+            "consumption": 17.9,
+            "engine_power": 400,
+            "newton_meter": 795,
+            "acceleration": 3.9,
+            "speed": 225,
+            "drive_train": "Allrad",
+            "weight": 2290,
+            "seats": 5,
+            "trunk": 470,
+            "url": "https://ev-database.de/pkw/1519/BMW-i4-M50",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 200.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 180.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 200.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 40.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "brand": "Opel",
+            "model": "Corsa-e",
+            "price": 29000,
+            "body": "Steilheck",
+            "battery_size": 45.0,
+            "range": 275,
+            "consumption": 16.4,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 8.1,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1530,
+            "seats": 5,
+            "trunk": 309,
+            "url": "https://ev-database.de/pkw/1192/Opel-Corsa-e",
+            "exclusive_charging_curve": true,
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 16,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 21,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 48,
+                        "power": 53.0
+                    },
+                    {
+                        "percentage": 67,
+                        "power": 53.0
+                    },
+                    {
+                        "percentage": 68,
+                        "power": 41.0
+                    },
+                    {
+                        "percentage": 72,
+                        "power": 41.0
+                    },
+                    {
+                        "percentage": 73,
+                        "power": 2.0
+                    },
+                    {
+                        "percentage": 83,
+                        "power": 27.0
+                    },
+                    {
+                        "percentage": 84,
+                        "power": 11.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 11.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "brand": "Volkswagen",
+            "model": "ID.5 GTX",
+            "price": 55000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 410,
+            "consumption": 18.8,
+            "engine_power": 220,
+            "newton_meter": 460,
+            "acceleration": 6.3,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2225,
+            "seats": 5,
+            "trunk": 549,
+            "url": "https://ev-database.de/pkw/1558/Volkswagen-ID5-GTX",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 135.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 121.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 27.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "brand": "Volkswagen",
+            "model": "ID.5 Pro Performance",
+            "price": 50000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 430,
+            "consumption": 17.9,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 8.4,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2125,
+            "seats": 5,
+            "trunk": 549,
+            "url": "https://ev-database.de/pkw/1557/Volkswagen-ID5-Pro-Performance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 135.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 121.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 27.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "brand": "Volkswagen",
+            "model": "ID.5 Pro",
+            "price": 47500,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 430,
+            "consumption": 17.9,
+            "engine_power": 128,
+            "newton_meter": 310,
+            "acceleration": 10.4,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2125,
+            "seats": 5,
+            "trunk": 549,
+            "url": "https://ev-database.de/pkw/1556/Volkswagen-ID5-Pro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 135.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 121.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 27.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "brand": "Tesla",
+            "model": "Model 3",
+            "price": 46560,
+            "body": "Stufenheck",
+            "battery_size": 57.0,
+            "range": 380,
+            "consumption": 15.0,
+            "engine_power": 239,
+            "newton_meter": 420,
+            "acceleration": 6.1,
+            "speed": 225,
+            "drive_train": "Heck",
+            "weight": 1850,
+            "seats": 5,
+            "trunk": 561,
+            "url": "https://ev-database.de/pkw/1555/Tesla-Model-3",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 153.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "brand": "Citroen",
+            "model": "e-Berlingo XL",
+            "price": 41040,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 195,
+            "consumption": 23.1,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 11.7,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1876,
+            "seats": 7,
+            "trunk": 806,
+            "url": "https://ev-database.de/pkw/1547/Citroen-e-Berlingo-XL",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "brand": "Citroen",
+            "model": "e-Berlingo M",
+            "price": 36590,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 200,
+            "consumption": 22.5,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 11.7,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1739,
+            "seats": 5,
+            "trunk": 571,
+            "url": "https://ev-database.de/pkw/1546/Citroen-e-Berlingo-M",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "brand": "Opel",
+            "model": "Combo-e Life L2",
+            "price": 42400,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 195,
+            "consumption": 23.1,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 11.7,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1884,
+            "seats": 7,
+            "trunk": 806,
+            "url": "https://ev-database.de/pkw/1545/Opel-Combo-e-Life-L2",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 18.9
+                    }
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "brand": "Opel",
+            "model": "Combo-e Life L1",
+            "price": 38100,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 200,
+            "consumption": 22.5,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 11.7,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1764,
+            "seats": 7,
+            "trunk": 571,
+            "url": "https://ev-database.de/pkw/1544/Opel-Combo-e-Life-L1",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "brand": "Mercedes-Benz",
+            "model": "EQV 250 Extralang",
+            "price": 68711,
+            "body": "Kleinbus",
+            "battery_size": 60.0,
+            "range": 215,
+            "consumption": 27.9,
+            "engine_power": 150,
+            "newton_meter": 362,
+            "acceleration": 12.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2531,
+            "seats": 7,
+            "trunk": 1410,
+            "url": "https://ev-database.de/pkw/1543/Mercedes-EQV-250-Extralang",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 80.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 16.0
+                    }
+                ]
+            }
+        }
+    ]
 }
