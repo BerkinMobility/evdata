@@ -723,6 +723,120 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "12",
+            "brand": "Porsche",
+            "model": "Taycan GTS Sport Turismo",
+            "price": 132786,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 435,
+            "consumption": 19.2,
+            "engine_power": 440,
+            "newton_meter": 850,
+            "acceleration": 3.7,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2385,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1561/Porsche-Taycan-GTS-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "brand": "Porsche",
+            "model": "Taycan GTS",
+            "price": 131834,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 460,
+            "consumption": 18.2,
+            "engine_power": 440,
+            "newton_meter": 850,
+            "acceleration": 3.7,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2385,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1560/Porsche-Taycan-GTS",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
         }
     ]
 }
