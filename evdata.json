@@ -837,6 +837,1260 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "14",
+            "brand": "Mercedes-Benz",
+            "model": "EQB 300 4MATIC",
+            "price": 57000,
+            "body": "SUV",
+            "battery_size": 66.5,
+            "range": 335,
+            "consumption": 19.9,
+            "engine_power": 168,
+            "newton_meter": 390,
+            "acceleration": 8.0,
+            "speed": 160,
+            "drive_train": "Allrad",
+            "weight": 2175,
+            "seats": 7,
+            "trunk": 495,
+            "url": "https://ev-database.de/pkw/1559/Mercedes-EQB-300-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "brand": "Mercedes-Benz",
+            "model": "EQV 250 Lang",
+            "price": 67818,
+            "body": "Kleinbus",
+            "battery_size": 60.0,
+            "range": 215,
+            "consumption": 27.9,
+            "engine_power": 150,
+            "newton_meter": 362,
+            "acceleration": 12.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2501,
+            "seats": 7,
+            "trunk": 1030,
+            "url": "https://ev-database.de/pkw/1542/Mercedes-EQV-250-Lang",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 80.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 16.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "16",
+            "brand": "MG",
+            "model": "ZS EV Maximal Reichweite",
+            "price": 37990,
+            "body": "SUV",
+            "battery_size": 68.3,
+            "range": 370,
+            "consumption": 18.5,
+            "engine_power": 115,
+            "newton_meter": 280,
+            "acceleration": 8.4,
+            "speed": 175,
+            "drive_train": "Front",
+            "weight": 1620,
+            "seats": 5,
+            "trunk": 448,
+            "url": "https://ev-database.de/pkw/1541/MG-ZS-EV-Maximal-Reichweite",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 92.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 82.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 92.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 18.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": "17",
+            "brand": "MG",
+            "model": "ZS EV Standard Reichweite",
+            "price": 33990,
+            "body": "SUV",
+            "battery_size": 48.0,
+            "range": 260,
+            "consumption": 18.5,
+            "engine_power": 130,
+            "newton_meter": 280,
+            "acceleration": 8.6,
+            "speed": 175,
+            "drive_train": "Front",
+            "weight": 1570,
+            "seats": 5,
+            "trunk": 448,
+            "url": "https://ev-database.de/pkw/1540/MG-ZS-EV-Standard-Reichweite",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 75.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 67.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 75
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 15
+                    }
+                ]
+            }
+        },
+        {
+            "id": "18",
+            "brand": "Volvo",
+            "model": "XC40 Recharge Pure Electric",
+            "price": 48650,
+            "body": "SUV",
+            "battery_size": 67.0,
+            "range": 315,
+            "consumption": 21.3,
+            "engine_power": 170,
+            "newton_meter": 330,
+            "acceleration": 7.4,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2023,
+            "seats": 5,
+            "trunk": 419,
+            "url": "https://ev-database.de/pkw/1539/Volvo-XC40-Recharge-Pure-Electric",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 150.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 30.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "brand": "Mercedes-Benz",
+            "model": "EQE 350",
+            "price": 70000,
+            "body": "Stufenheck",
+            "battery_size": 90.0,
+            "range": 535,
+            "consumption": 16.8,
+            "engine_power": 215,
+            "newton_meter": 530,
+            "acceleration": 3.7,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2100,
+            "seats": 5,
+            "trunk": 430,
+            "url": "https://ev-database.de/pkw/1538/Mercedes-EQE-350",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 153.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "20",
+            "brand": "Mercedes-AMG",
+            "model": "EQS 53 4MATIC+",
+            "price": 175000,
+            "body": "Stufenheck",
+            "battery_size": 107.8,
+            "range": 565,
+            "consumption": 19.1,
+            "engine_power": 560,
+            "newton_meter": 1020,
+            "acceleration": 3.4,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2655,
+            "seats": 5,
+            "trunk": null,
+            "url": "https://ev-database.de/pkw/1537/Mercedes-EQS-AMG-53-4MATICplus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 200.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 180.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 200.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 40.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "21",
+            "brand": "Renault",
+            "model": "Megane E-Tech EV40 130hp",
+            "price": 35000,
+            "body": "SUV",
+            "battery_size": 40.0,
+            "range": 245,
+            "consumption": 16.3,
+            "engine_power": 96,
+            "newton_meter": 250,
+            "acceleration": 10.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 1625,
+            "seats": 5,
+            "trunk": 440,
+            "url": "https://ev-database.de/pkw/1536/Renault-Megane-E-Tech-EV40-130PS",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22",
+            "brand": "BMW",
+            "model": "iX3",
+            "price": 67300,
+            "body": "SUV",
+            "battery_size": 74.0,
+            "range": 385,
+            "consumption": 19.2,
+            "engine_power": 210,
+            "newton_meter": 400,
+            "acceleration": 6.8,
+            "speed": 180,
+            "drive_train": "Heck",
+            "weight": 2260,
+            "seats": 5,
+            "trunk": 510,
+            "url": "https://ev-database.de/pkw/1535/BMW-iX3",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 155.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 139.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 155.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 31.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "brand": "Volkswagen",
+            "model": "ID.3 Pro Performance",
+            "price": 36960,
+            "body": "Steilheck",
+            "battery_size": 58.0,
+            "range": 350,
+            "consumption": 16.6,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 7.3,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1812,
+            "seats": 5,
+            "trunk": 385,
+            "url": "https://ev-database.de/pkw/1532/Volkswagen-ID3-Pro-Performance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 128.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 115.2
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 128.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.6
+                    }
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "brand": "Volkswagen",
+            "model": "ID.3 Pro",
+            "price": 35460,
+            "body": "Steilheck",
+            "battery_size": 58.0,
+            "range": 350,
+            "consumption": 16.6,
+            "engine_power": 107,
+            "newton_meter": 275,
+            "acceleration": 9.6,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1812,
+            "seats": 5,
+            "trunk": 385,
+            "url": "https://ev-database.de/pkw/1531/Volkswagen-ID3-Pro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 128.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 115.2
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 128.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.6
+                    }
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "brand": "Audi",
+            "model": "Q4 Sportback e-tron 40",
+            "price": 49500,
+            "body": "SUV",
+            "battery_size": 76.6,
+            "range": 425,
+            "consumption": 18.0,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 8.5,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2120,
+            "seats": 5,
+            "trunk": 525,
+            "url": "https://ev-database.de/pkw/1528/Audi-Q4-Sportback-e-tron-40",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "brand": "Audi",
+            "model": "Q4 e-tron 45 quattro",
+            "price": 50900,
+            "body": "SUV",
+            "battery_size": 76.6,
+            "range": 385,
+            "consumption": 19.9,
+            "engine_power": 195,
+            "newton_meter": 425,
+            "acceleration": 6.9,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2210,
+            "seats": 5,
+            "trunk": 520,
+            "url": "https://ev-database.de/pkw/1527/Audi-Q4-e-tron-45-quattro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "brand": "Tesla",
+            "model": "Model 3 Maximale Reichweite",
+            "price": 53560,
+            "body": "Stufenheck",
+            "battery_size": 76.0,
+            "range": 490,
+            "consumption": 15.5,
+            "engine_power": 340,
+            "newton_meter": 493,
+            "acceleration": 4.4,
+            "speed": 233,
+            "drive_train": "Allrad",
+            "weight": 1919,
+            "seats": 5,
+            "trunk": 561,
+            "url": "https://ev-database.de/pkw/1525/Tesla-Model-3-Maximale-Reichweite",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "brand": "MG",
+            "model": "Marvel R",
+            "price": 42990,
+            "body": "SUV",
+            "battery_size": 65.0,
+            "range": 340,
+            "consumption": 19.1,
+            "engine_power": 132,
+            "newton_meter": 410,
+            "acceleration": 7.9,
+            "speed": 200,
+            "drive_train": "Heck",
+            "weight": 1810,
+            "seats": 5,
+            "trunk": 357,
+            "url": "https://ev-database.de/pkw/1524/MG-Marvel-R",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 92.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 82.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 92.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 18.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "brand": "Peugeot",
+            "model": "e-Rifter L2 50kWh",
+            "price": 42590,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 195,
+            "consumption": 23.1,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 11.7,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1884,
+            "seats": 7,
+            "trunk": 806,
+            "url": "https://ev-database.de/pkw/1523/Peugeot-e-Rifter-L2-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "brand": "Peugeot",
+            "model": "e-Rifter L1 50kWh",
+            "price": 37590,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 200,
+            "consumption": 22.5,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 11.7,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1765,
+            "seats": 7,
+            "trunk": 571,
+            "url": "https://ev-database.de/pkw/1522/Peugeot-e-Rifter-L1-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "brand": "Renault",
+            "model": "Megane E-Tech EV60 220hp",
+            "price": 40000,
+            "body": "SUV",
+            "battery_size": 60.0,
+            "range": 360,
+            "consumption": 16.7,
+            "engine_power": 160,
+            "newton_meter": 300,
+            "acceleration": 7.4,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 1725,
+            "seats": 5,
+            "trunk": 440,
+            "url": "https://ev-database.de/pkw/1521/Renault-Megane-E-Tech-EV60-220hp",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "brand": "Volvo",
+            "model": "XC40 Recharge Twin Pure Electric",
+            "price": 59250,
+            "body": "SUV",
+            "battery_size": 75.0,
+            "range": 340,
+            "consumption": 22.1,
+            "engine_power": 300,
+            "newton_meter": 660,
+            "acceleration": 4.9,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2188,
+            "seats": 5,
+            "trunk": 419,
+            "url": "https://ev-database.de/pkw/1520/Volvo-XC40-Recharge-Twin-Pure-Electric",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 151.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 135.9
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 151.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 30.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "brand": "CUPRA",
+            "model": "Born 170kW - 77kWh",
+            "price": 43000,
+            "body": "Steilheck",
+            "battery_size": 77.0,
+            "range": 450,
+            "consumption": 17.1,
+            "engine_power": 170,
+            "newton_meter": 310,
+            "acceleration": 7.0,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1950,
+            "seats": 5,
+            "trunk": null,
+            "url": "https://ev-database.de/pkw/1518/CUPRA-Born-170-kW---77-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "brand": "CUPRA",
+            "model": "Born 170kW - 58kWh",
+            "price": 39000,
+            "body": "Steilheck",
+            "battery_size": 58.0,
+            "range": 345,
+            "consumption": 16.8,
+            "engine_power": 170,
+            "newton_meter": 310,
+            "acceleration": 6.6,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1825,
+            "seats": 5,
+            "trunk": null,
+            "url": "https://ev-database.de/pkw/1517/CUPRA-Born-170-kW---58-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "brand": "CUPRA",
+            "model": "Born 150kW - 58kWh",
+            "price": 37220,
+            "body": "Steilheck",
+            "battery_size": 58.0,
+            "range": 350,
+            "consumption": 16.6,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 7.3,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1811,
+            "seats": 5,
+            "trunk": 385,
+            "url": "https://ev-database.de/pkw/1516/CUPRA-Born-150-kW---58-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
         }
     ]
 }
