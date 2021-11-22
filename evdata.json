@@ -1196,7 +1196,7 @@
             "drive_train": "Allrad",
             "weight": 2655,
             "seats": 5,
-            "trunk": 0,
+            "trunk": 1,
             "url": "https://ev-database.de/pkw/1537/Mercedes-EQS-AMG-53-4MATICplus",
             "ac_charging": {
                 "ports": [
@@ -1937,7 +1937,7 @@
             "drive_train": "Heck",
             "weight": 1950,
             "seats": 5,
-            "trunk": 0,
+            "trunk": 1,
             "url": "https://ev-database.de/pkw/1518/CUPRA-Born-170-kW---77-kWh",
             "ac_charging": {
                 "ports": [
@@ -1994,7 +1994,7 @@
             "drive_train": "Heck",
             "weight": 1825,
             "seats": 5,
-            "trunk": 0,
+            "trunk": 1,
             "url": "https://ev-database.de/pkw/1517/CUPRA-Born-170-kW---58-kWh",
             "ac_charging": {
                 "ports": [
