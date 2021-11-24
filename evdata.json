@@ -4239,6 +4239,1545 @@
             "exclusive_charging_curve": false,
             "dc_charging": {
                 "ports": [
+                    "Supercharger"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 74,
+            "brand": "Tesla",
+            "model": "Model X Maximale Reichweite",
+            "price": 105990,
+            "body": "SUV",
+            "battery_size": 90.0,
+            "range": 475,
+            "consumption": 18.9,
+            "engine_power": 500,
+            "newton_meter": 1,
+            "acceleration": 3.9,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2352,
+            "seats": 7,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1407/Tesla-Model-X-Maximale-Reichweite",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 16.5,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 16.5,
+                    "43": 16.5
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "Supercharger"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 75,
+            "brand": "Tesla",
+            "model": "Model S Plaid",
+            "price": 126990,
+            "body": "Fließheck",
+            "battery_size": 90.0,
+            "range": 535,
+            "consumption": 16.8,
+            "engine_power": 760,
+            "newton_meter": 1,
+            "acceleration": 2.1,
+            "speed": 322,
+            "drive_train": "Allrad",
+            "weight": 2162,
+            "seats": 5,
+            "trunk": 793,
+            "url": "https://ev-database.de/pkw/1405/Tesla-Model-S-Plaid",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 16.5,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 16.5,
+                    "43": 16.5
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "Supercharger"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 76,
+            "brand": "Tesla",
+            "model": "Model S Maximale Reichweite",
+            "price": 96990,
+            "body": "Fließheck",
+            "battery_size": 90.0,
+            "range": 555,
+            "consumption": 16.2,
+            "engine_power": 500,
+            "newton_meter": 1,
+            "acceleration": 3.2,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2069,
+            "seats": 5,
+            "trunk": 793,
+            "url": "https://ev-database.de/pkw/1404/Tesla-Model-S-Maximale-Reichweite",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 16.5,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 16.5,
+                    "43": 16.5
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "Supercharger"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 77,
+            "brand": "Porsche",
+            "model": "Taycan Plus",
+            "price": 89244,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 460,
+            "consumption": 18.2,
+            "engine_power": 350,
+            "newton_meter": 357,
+            "acceleration": 5.4,
+            "speed": 230,
+            "drive_train": "Heck",
+            "weight": 2205,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1394/Porsche-Taycan-Plus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 78,
+            "brand": "Porsche",
+            "model": "Taycan",
+            "price": 83520,
+            "body": "Stufenheck",
+            "battery_size": 71.0,
+            "range": 395,
+            "consumption": 18.0,
+            "engine_power": 300,
+            "newton_meter": 345,
+            "acceleration": 5.4,
+            "speed": 230,
+            "drive_train": "Heck",
+            "weight": 2125,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1393/Porsche-Taycan",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 225.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 202.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 45.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 79,
+            "brand": "Audi",
+            "model": "e-tron Sportback 55 quattro",
+            "price": 83750,
+            "body": "SUV",
+            "battery_size": 86.5,
+            "range": 375,
+            "consumption": 23.1,
+            "engine_power": 300,
+            "newton_meter": 664,
+            "acceleration": 5.7,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 2595,
+            "seats": 5,
+            "trunk": 615,
+            "url": "https://ev-database.de/pkw/1356/Audi-e-tron-Sportback-55-quattro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 155.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 139.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 155.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 31.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 80,
+            "brand": "Audi",
+            "model": "e-tron 55 quattro",
+            "price": 81500,
+            "body": "SUV",
+            "battery_size": 86.5,
+            "range": 365,
+            "consumption": 23.7,
+            "engine_power": 300,
+            "newton_meter": 664,
+            "acceleration": 5.7,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 2595,
+            "seats": 5,
+            "trunk": 660,
+            "url": "https://ev-database.de/pkw/1355/Audi-e-tron-55-quattro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 155.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 139.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 155.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 31.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 81,
+            "brand": "Peugeot",
+            "model": "e-Traveller L3 75kWh",
+            "price": 58230,
+            "body": "Kleinbus",
+            "battery_size": 68.0,
+            "range": 260,
+            "consumption": 26.2,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2167,
+            "seats": 9,
+            "trunk": 989,
+            "url": "https://ev-database.de/pkw/1354/Peugeot-e-Traveller-L3-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 82,
+            "brand": "Peugeot",
+            "model": "e-Traveller L2 75kWh",
+            "price": 57440,
+            "body": "Kleinbus",
+            "battery_size": 68.0,
+            "range": 265,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2140,
+            "seats": 9,
+            "trunk": 603,
+            "url": "https://ev-database.de/pkw/1353/Peugeot-e-Traveller-L2-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 83,
+            "brand": "Peugeot",
+            "model": "e-Traveller L3 50kWh",
+            "price": 56690,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1989,
+            "seats": 8,
+            "trunk": 989,
+            "url": "https://ev-database.de/pkw/1352/Peugeot-e-Traveller-L3-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 84,
+            "brand": "Peugeot",
+            "model": "e-Traveller L2 50kWh",
+            "price": 55900,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1969,
+            "seats": 8,
+            "trunk": 603,
+            "url": "https://ev-database.de/pkw/1351/Peugeot-e-Traveller-L2-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 85,
+            "brand": "Peugeot",
+            "model": "e-Traveller L1 50kWh",
+            "price": 50880,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1932,
+            "seats": 9,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1350/Peugeot-e-Traveller-L1-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 86,
+            "brand": "Opel",
+            "model": "Zafira-e Life L 75kWh",
+            "price": 60625,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2167,
+            "seats": 9,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1349/Opel-Zafira-e-Life-L-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 87,
+            "brand": "Opel",
+            "model": "Zafira-e Life M 75kWh",
+            "price": 59800,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2140,
+            "seats": 9,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1348/Opel-Zafira-e-Life-M-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 88,
+            "brand": "Opel",
+            "model": "Zafira-e Life L 50kWh",
+            "price": 54625,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 175,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1989,
+            "seats": 9,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1347/Opel-Zafira-e-Life-L-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 89,
+            "brand": "Opel",
+            "model": "Zafira-e Life M 50kWh",
+            "price": 53800,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1969,
+            "seats": 9,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1346/Opel-Zafira-e-Life-M-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 90,
+            "brand": "Opel",
+            "model": "Zafira-e Life S 50kWh",
+            "price": 56700,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1932,
+            "seats": 9,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1345/Opel-Zafira-e-Life-S-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 91,
+            "brand": "Citroen",
+            "model": "e-SpaceTourer XL 75kWh",
+            "price": 58230,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2167,
+            "seats": 9,
+            "trunk": 912,
+            "url": "https://ev-database.de/pkw/1344/Citroen-e-SpaceTourer-XL-75kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 92,
+            "brand": "Citroen",
+            "model": "e-SpaceTourer M 75kWh",
+            "price": 57440,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2140,
+            "seats": 9,
+            "trunk": 507,
+            "url": "https://ev-database.de/pkw/1343/Citroen-e-SpaceTourer-M-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 93,
+            "brand": "Citroen",
+            "model": "e-SpaceTourer XL 50kWh",
+            "price": 52230,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 175,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1989,
+            "seats": 9,
+            "trunk": 912,
+            "url": "https://ev-database.de/pkw/1342/Citroen-e-SpaceTourer-XL-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 94,
+            "brand": "Citroen",
+            "model": "e-SpaceTourer M 50kWh",
+            "price": 51440,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1969,
+            "seats": 9,
+            "trunk": 507,
+            "url": "https://ev-database.de/pkw/1341/Citroen-e-SpaceTourer-M-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 95,
+            "brand": "Citroen",
+            "model": "e-SpaceTourer XS 50 kWh",
+            "price": 50880,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1932,
+            "seats": 9,
+            "trunk": 140,
+            "url": "https://ev-database.de/pkw/1340/Citroen-e-SpaceTourer-XS-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 96,
+            "brand": "Kia",
+            "model": "e-Niro 39kWh",
+            "price": 35290,
+            "body": "SUV",
+            "battery_size": 39.2,
+            "range": 235,
+            "consumption": 16.7,
+            "engine_power": 100,
+            "newton_meter": 395,
+            "acceleration": 9.8,
+            "speed": 155,
+            "drive_train": "Front",
+            "weight": 1667,
+            "seats": 5,
+            "trunk": 451,
+            "url": "https://ev-database.de/pkw/1339/Kia-e-Niro-39-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 50.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 45.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 10.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 97,
+            "brand": "Kia",
+            "model": "e-Niro 64kWh",
+            "price": 39090,
+            "body": "SUV",
+            "battery_size": 64.0,
+            "range": 370,
+            "consumption": 17.3,
+            "engine_power": 150,
+            "newton_meter": 395,
+            "acceleration": 7.8,
+            "speed": 167,
+            "drive_train": "Front",
+            "weight": 1812,
+            "seats": 5,
+            "trunk": 451,
+            "url": "https://ev-database.de/pkw/1338/Kia-e-Niro-64-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 77.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 69.3
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 77.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 15.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 98,
+            "brand": "Fiat",
+            "model": "500 3+1",
+            "price": 29560,
+            "body": "Steilheck",
+            "battery_size": 37.3,
+            "range": 245,
+            "consumption": 15.2,
+            "engine_power": 87,
+            "newton_meter": 220,
+            "acceleration": 9.0,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1500,
+            "seats": 4,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1328/Fiat-500-3plus1",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 85.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 76.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 17.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 99,
+            "brand": "Fiat",
+            "model": "500 Limousine 24kWh",
+            "price": 23560,
+            "body": "Steilheck",
+            "battery_size": 23.8,
+            "range": 165,
+            "consumption": 14.4,
+            "engine_power": 70,
+            "newton_meter": 1,
+            "acceleration": 9.5,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1350,
+            "seats": 4,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1327/Fiat-500-Limousine-24kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 50.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 45.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 100,
+            "brand": "Tesla",
+            "model": "Model 3 Performance",
+            "price": 58560,
+            "body": "Stufenheck",
+            "battery_size": 76.0,
+            "range": 470,
+            "consumption": 16.2,
+            "engine_power": 420,
+            "newton_meter": 660,
+            "acceleration": 3.3,
+            "speed": 261,
+            "drive_train": "Allrad",
+            "weight": 1919,
+            "seats": 5,
+            "trunk": 561,
+            "url": "https://ev-database.de/pkw/1322/Tesla-Model-3-Performance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
                     "CCS"
                 ],
                 "max_power": 250.0,
