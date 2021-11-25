@@ -5796,6 +5796,1659 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 101,
+            "brand": "Dacia",
+            "model": "Spring Electric",
+            "price": 20490,
+            "body": "Steilheck",
+            "battery_size": 26.8,
+            "range": 170,
+            "consumption": 15.8,
+            "engine_power": 33,
+            "newton_meter": 125,
+            "acceleration": 15.0,
+            "speed": 125,
+            "drive_train": "Front",
+            "weight": 950,
+            "seats": 4,
+            "trunk": 300,
+            "url": "https://ev-database.de/pkw/1319/Dacia-Spring-Electric",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 30.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 27.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 6.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 102,
+            "brand": "Lucid",
+            "model": "Air Pure",
+            "price": 80000,
+            "body": "Sufenheck",
+            "battery_size": 85.0,
+            "range": 540,
+            "consumption": 15.7,
+            "engine_power": 358,
+            "newton_meter": 1,
+            "acceleration": 4.2,
+            "speed": 200,
+            "drive_train": "Heck",
+            "weight": 2100,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1318/Lucid-Air-Pure",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 300.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 270.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 300.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 60.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 103,
+            "brand": "Lucid",
+            "model": "Air Touring",
+            "price": 95000,
+            "body": "Stufenheck",
+            "battery_size": 85.0,
+            "range": 530,
+            "consumption": 16.0,
+            "engine_power": 462,
+            "newton_meter": 1,
+            "acceleration": 3.4,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2150,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1317/Lucid-Air-Touring",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 300.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 270.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 300.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 60.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 104,
+            "brand": "Lucid",
+            "model": "Air Grand Touring",
+            "price": 140000,
+            "body": "Stufenheck",
+            "battery_size": 105.0,
+            "range": 630,
+            "consumption": 16.7,
+            "engine_power": 597,
+            "newton_meter": 1,
+            "acceleration": 3.2,
+            "speed": 270,
+            "drive_train": "Allrad",
+            "weight": 2300,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1316/Lucid-Air-Grand-Touring",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 300.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 270.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 300.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 60.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 105,
+            "brand": "Mercedes-Benz",
+            "model": "EQV 300 Extralang",
+            "price": 72281,
+            "body": "Kleinbus",
+            "battery_size": 90.0,
+            "range": 320,
+            "consumption": 28.1,
+            "engine_power": 150,
+            "newton_meter": 362,
+            "acceleration": 12.1,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2660,
+            "seats": 7,
+            "trunk": 1410,
+            "url": "https://ev-database.de/pkw/1315/Mercedes-EQV-300-Extralang",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 110.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 110.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 22.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 106,
+            "brand": "Volkswagen",
+            "model": "ID.4 Pro Performance",
+            "price": 44450,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 410,
+            "consumption": 18.8,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 8.5,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2124,
+            "seats": 5,
+            "trunk": 543,
+            "url": "https://ev-database.de/pkw/1314/Volkswagen-ID4-Pro-Performance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 107,
+            "brand": "Nissan",
+            "model": "Ariya e-4ORCE 87kWh Performance",
+            "price": 60000,
+            "body": "SUV",
+            "battery_size": 87.0,
+            "range": 385,
+            "consumption": 22.6,
+            "engine_power": 290,
+            "newton_meter": 600,
+            "acceleration": 5.1,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 2300,
+            "seats": 5,
+            "trunk": 415,
+            "url": "https://ev-database.de/pkw/1305/Nissan-Ariya-e-4ORCE-87-kWh-Performance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 108,
+            "brand": "Nissan",
+            "model": "Ariya e-4ORCE 87kWh",
+            "price": 55000,
+            "body": "SUV",
+            "battery_size": 87.0,
+            "range": 420,
+            "consumption": 20.7,
+            "engine_power": 225,
+            "newton_meter": 600,
+            "acceleration": 5.7,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 2300,
+            "seats": 5,
+            "trunk": 415,
+            "url": "https://ev-database.de/pkw/1304/Nissan-Ariya-e-4ORCE-87-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 109,
+            "brand": "Nissan",
+            "model": "Airya e-4ORCE 63kWh",
+            "price": 45000,
+            "body": "SUV",
+            "battery_size": 63.0,
+            "range": 325,
+            "consumption": 19.4,
+            "engine_power": 205,
+            "newton_meter": 560,
+            "acceleration": 5.9,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 1900,
+            "seats": 5,
+            "trunk": 415,
+            "url": "https://ev-database.de/pkw/1303/Nissan-Ariya-e-4ORCE-63-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 110,
+            "brand": "Nissan",
+            "model": "Ariya 87kWh",
+            "price": 50000,
+            "body": "SUV",
+            "battery_size": 87.0,
+            "range": 445,
+            "consumption": 19.6,
+            "engine_power": 178,
+            "newton_meter": 300,
+            "acceleration": 7.6,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2000,
+            "seats": 5,
+            "trunk": 468,
+            "url": "https://ev-database.de/pkw/1302/Nissan-Ariya-87-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 111,
+            "brand": "Nissan",
+            "model": "Ariya 63kWh",
+            "price": 42000,
+            "body": "SUV",
+            "battery_size": 63.0,
+            "range": 335,
+            "consumption": 18.8,
+            "engine_power": 160,
+            "newton_meter": 300,
+            "acceleration": 7.5,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 1800,
+            "seats": 5,
+            "trunk": 468,
+            "url": "https://ev-database.de/pkw/1301/Nissan-Ariya-63-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.4,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 112,
+            "brand": "Audi",
+            "model": "Q4 Sportback e-tron 35",
+            "price": 43900,
+            "body": "SUV",
+            "battery_size": 51.5,
+            "range": 295,
+            "consumption": 17.5,
+            "engine_power": 125,
+            "newton_meter": 310,
+            "acceleration": 9.0,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1970,
+            "seats": 5,
+            "trunk": 535,
+            "url": "https://ev-database.de/pkw/1290/Audi-Q4-Sportback-e-tron-35",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 113,
+            "brand": "Kia",
+            "model": "e-Soul 39kWh",
+            "price": 33990,
+            "body": "SUV",
+            "battery_size": 39.2,
+            "range": 230,
+            "consumption": 17.0,
+            "engine_power": 100,
+            "newton_meter": 395,
+            "acceleration": 9.9,
+            "speed": 157,
+            "drive_train": "Front",
+            "weight": 1610,
+            "seats": 5,
+            "trunk": 315,
+            "url": "https://ev-database.de/pkw/1289/Kia-e-Soul-39-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 50.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 45.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 10.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 114,
+            "brand": "Kia",
+            "model": "e-Soul 64kWh",
+            "price": 37790,
+            "body": "SUV",
+            "battery_size": 64.0,
+            "range": 370,
+            "consumption": 17.3,
+            "engine_power": 150,
+            "newton_meter": 395,
+            "acceleration": 7.9,
+            "speed": 167,
+            "drive_train": "Front",
+            "weight": 1757,
+            "seats": 5,
+            "trunk": 315,
+            "url": "https://ev-database.de/pkw/1288/Kia-eSoul-64-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 77.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 69.3
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 77.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 15.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 115,
+            "brand": "Jaguar",
+            "model": "I-Pace EV400",
+            "price": 77300,
+            "body": "SUV",
+            "battery_size": 84.7,
+            "range": 380,
+            "consumption": 22.3,
+            "engine_power": 294,
+            "newton_meter": 696,
+            "acceleration": 4.8,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 2208,
+            "seats": 5,
+            "trunk": 505,
+            "url": "https://ev-database.de/pkw/1287/Jaguar-I-Pace-EV400",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 104.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 93.6
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 104.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 116,
+            "brand": "Citroen",
+            "model": "e-C4",
+            "price": 34640,
+            "body": "Steilheck",
+            "battery_size": 45.0,
+            "range": 250,
+            "consumption": 18.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 9.7,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1650,
+            "seats": 5,
+            "trunk": 380,
+            "url": "https://ev-database.de/pkw/1286/Citroen-e-C4",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 117,
+            "brand": "Fiat",
+            "model": "500 Limousine 42kWh",
+            "price": 27560,
+            "body": "Steilheck",
+            "battery_size": 37.3,
+            "range": 250,
+            "consumption": 14.9,
+            "engine_power": 87,
+            "newton_meter": 220,
+            "acceleration": 9.0,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1465,
+            "seats": 4,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1285/Fiat-500-Limousine-42kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 85.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 76.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 17.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 118,
+            "brand": "Skoda",
+            "model": "Enyaq iV RS",
+            "price": 50000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 395,
+            "consumption": 19.5,
+            "engine_power": 225,
+            "newton_meter": 460,
+            "acceleration": 6.2,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2150,
+            "seats": 5,
+            "trunk": 585,
+            "url": "https://ev-database.de/pkw/1282/Skoda-Enyaq-iV-RS",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 119,
+            "brand": "Skoda",
+            "model": "Enyaq iV 80x",
+            "price": 47000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 400,
+            "consumption": 19.3,
+            "engine_power": 195,
+            "newton_meter": 425,
+            "acceleration": 6.9,
+            "speed": 160,
+            "drive_train": "Allrad",
+            "weight": 2195,
+            "seats": 5,
+            "trunk": 585,
+            "url": "https://ev-database.de/pkw/1281/Skoda-Enyaq-iV-80x",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 120,
+            "brand": "Skoda",
+            "model": "Enyaq iV 80",
+            "price": 43950,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 420,
+            "consumption": 18.3,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 8.6,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2090,
+            "seats": 5,
+            "trunk": 585,
+            "url": "https://ev-database.de/pkw/1280/Skoda-Enyaq-iV-80",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 113.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 121,
+            "brand": "Skoda",
+            "model": "Enyaq iV 60",
+            "price": 38850,
+            "body": "SUV",
+            "battery_size": 58.0,
+            "range": 330,
+            "consumption": 17.6,
+            "engine_power": 132,
+            "newton_meter": 310,
+            "acceleration": 8.7,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1965,
+            "seats": 5,
+            "trunk": 585,
+            "url": "https://ev-database.de/pkw/1279/Skoda-Enyaq-iV-60",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 122,
+            "brand": "Opel",
+            "model": "Mokka-e",
+            "price": 34110,
+            "body": "SUV",
+            "battery_size": 45.0,
+            "range": 255,
+            "consumption": 17.6,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 8.5,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1550,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1278/Opel-Mokka-e",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 99.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 89.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 19.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 123,
+            "brand": "Fiat",
+            "model": "500 Cabrio",
+            "price": 30560,
+            "body": "Cabrio",
+            "battery_size": 37.3,
+            "range": 245,
+            "consumption": 15.2,
+            "engine_power": 87,
+            "newton_meter": 220,
+            "acceleration": 9.0,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1505,
+            "seats": 4,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1275/Fiat-500-Cabrio",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 85.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 76.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 17.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 124,
+            "brand": "Audi",
+            "model": "e-tron S Sportback",
+            "price": 96050,
+            "body": "SUV",
+            "battery_size": 86.5,
+            "range": 335,
+            "consumption": 25.8,
+            "engine_power": 370,
+            "newton_meter": 973,
+            "acceleration": 4.5,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2695,
+            "seats": 5,
+            "trunk": 615,
+            "url": "https://ev-database.de/pkw/1272/Audi-e-tron-S-Sportback",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 155.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 139.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 155.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 31.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 125,
+            "brand": "Audi",
+            "model": "e-tron S",
+            "price": 93800,
+            "body": "SUV",
+            "battery_size": 86.5,
+            "range": 320,
+            "consumption": 27.0,
+            "engine_power": 370,
+            "newton_meter": 973,
+            "acceleration": 4.5,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2695,
+            "seats": 5,
+            "trunk": 660,
+            "url": "https://ev-database.de/pkw/1271/Audi-e-tron-S",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 155.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 139.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 155.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 31.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 126,
+            "brand": "Aiways",
+            "model": "U5",
+            "price": 35993,
+            "body": "SUV",
+            "battery_size": 63.0,
+            "range": 335,
+            "consumption": 18.8,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 7.5,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1720,
+            "seats": 5,
+            "trunk": 432,
+            "url": "https://ev-database.de/pkw/1261/Aiways-U5",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 92.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 82.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 92.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 18.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 127,
+            "brand": "BMW",
+            "model": "i4 eDrive40",
+            "price": 58300,
+            "body": "Stufenheck",
+            "battery_size": 80.7,
+            "range": 475,
+            "consumption": 17.0,
+            "engine_power": 250,
+            "newton_meter": 430,
+            "acceleration": 5.7,
+            "speed": 190,
+            "drive_train": "Heck",
+            "weight": 2125,
+            "seats": 5,
+            "trunk": 470,
+            "url": "https://ev-database.de/pkw/1252/BMW-i4-eDrive40",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 200.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 180.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 200.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 40.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 128,
+            "brand": "Lexus",
+            "model": "UX 300e",
+            "price": 47550,
+            "body": "SUV",
+            "battery_size": 50.0,
+            "range": 260,
+            "consumption": 19.2,
+            "engine_power": 150,
+            "newton_meter": 300,
+            "acceleration": 7.5,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 1860,
+            "seats": 5,
+            "trunk": 367,
+            "url": "https://ev-database.de/pkw/1251/Lexus-UX-300e",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CHAdeMO"
+                ],
+                "max_power": 35.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 31.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 35.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 7.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 129,
+            "brand": "Audi",
+            "model": "e-tron Sportback 50 quattro",
+            "price": 71350,
+            "body": "SUV",
+            "battery_size": 64.7,
+            "range": 295,
+            "consumption": 21.9,
+            "engine_power": 230,
+            "newton_meter": 540,
+            "acceleration": 6.8,
+            "speed": 190,
+            "drive_train": "Allrad",
+            "weight": 2445,
+            "seats": 5,
+            "trunk": 56100001,
+            "url": "https://ev-database.de/pkw/1247/Audi-e-tron-Sportback-50-quattro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 120.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 24.0
+                    }
+                ]
+            }
         }
     ]
 }
