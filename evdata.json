@@ -8116,21 +8116,6 @@
             "dc_charging": {
                 "ports": [
                     "__"
-                ],
-                "max_power": 1,
-                "charging_curve": [
-                    {
-                        "percentage": 0,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 75,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 100,
-                        "power": 1
-                    }
                 ]
             }
         },
@@ -8173,21 +8158,6 @@
             "dc_charging": {
                 "ports": [
                     "__"
-                ],
-                "max_power": 1,
-                "charging_curve": [
-                    {
-                        "percentage": 0,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 75,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 100,
-                        "power": 1
-                    }
                 ]
             }
         },
@@ -8230,21 +8200,6 @@
             "dc_charging": {
                 "ports": [
                     "__"
-                ],
-                "max_power": 1,
-                "charging_curve": [
-                    {
-                        "percentage": 0,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 75,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 100,
-                        "power": 1
-                    }
                 ]
             }
         },
@@ -9940,21 +9895,6 @@
             "dc_charging": {
                 "ports": [
                     "__"
-                ],
-                "max_power": 1,
-                "charging_curve": [
-                    {
-                        "percentage": 0,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 75,
-                        "power": 1
-                    },
-                    {
-                        "percentage": 100,
-                        "power": 1
-                    }
                 ]
             }
         }
