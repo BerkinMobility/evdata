@@ -8116,6 +8116,21 @@
             "dc_charging": {
                 "ports": [
                     "__"
+                ],
+                "max_power": 1.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1.0
+                    }
                 ]
             }
         },
@@ -8158,6 +8173,21 @@
             "dc_charging": {
                 "ports": [
                     "__"
+                ],
+                "max_power": 1.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1.0
+                    }
                 ]
             }
         },
@@ -8200,6 +8230,21 @@
             "dc_charging": {
                 "ports": [
                     "__"
+                ],
+                "max_power": 1.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1.0
+                    }
                 ]
             }
         },
@@ -9895,6 +9940,21 @@
             "dc_charging": {
                 "ports": [
                     "__"
+                ],
+                "max_power": 1.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1.0
+                    }
                 ]
             }
         }
