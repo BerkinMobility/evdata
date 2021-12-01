@@ -215,7 +215,7 @@
             "id": 3,
             "brand": "Volkswagen",
             "model": "ID.5 GTX",
-            "price": 55000,
+            "price": 53615,
             "body": "SUV",
             "battery_size": 77.0,
             "range": 410,
@@ -272,7 +272,7 @@
             "id": 4,
             "brand": "Volkswagen",
             "model": "ID.5 Pro Performance",
-            "price": 50000,
+            "price": 47550,
             "body": "SUV",
             "battery_size": 77.0,
             "range": 430,
@@ -329,7 +329,7 @@
             "id": 5,
             "brand": "Volkswagen",
             "model": "ID.5 Pro",
-            "price": 47500,
+            "price": 46515,
             "body": "SUV",
             "battery_size": 77.0,
             "range": 430,
@@ -386,7 +386,7 @@
             "id": 6,
             "brand": "Tesla",
             "model": "Model 3",
-            "price": 46560,
+            "price": 48260,
             "body": "Stufenheck",
             "battery_size": 57.0,
             "range": 380,
@@ -842,7 +842,7 @@
             "id": 14,
             "brand": "Mercedes-Benz",
             "model": "EQB 300 4MATIC",
-            "price": 57000,
+            "price": 55311,
             "body": "SUV",
             "battery_size": 66.5,
             "range": 335,
@@ -7409,7 +7409,7 @@
             "drive_train": "Allrad",
             "weight": 2445,
             "seats": 5,
-            "trunk": 56100001,
+            "trunk": 615,
             "url": "https://ev-database.de/pkw/1247/Audi-e-tron-Sportback-50-quattro",
             "ac_charging": {
                 "ports": [
@@ -7446,6 +7446,2514 @@
                     {
                         "percentage": 100,
                         "power": 24.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 130,
+            "brand": "Ford",
+            "model": "Mustang Mach-E GT",
+            "price": 72900,
+            "body": "SUV",
+            "battery_size": 88.0,
+            "range": 410,
+            "consumption": 21.5,
+            "engine_power": 358,
+            "newton_meter": 830,
+            "acceleration": 4.4,
+            "speed": 200,
+            "drive_train": "Allrad",
+            "weight": 2250,
+            "seats": 5,
+            "trunk": 322,
+            "url": "https://ev-database.de/pkw/1246/Ford-Mustang-Mach-E-GT",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 150.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 131,
+            "brand": "Ford",
+            "model": "Mustang Mach-E AWD Extended Range",
+            "price": 63700,
+            "body": "SUV",
+            "battery_size": 88.0,
+            "range": 420,
+            "consumption": 21.0,
+            "engine_power": 258,
+            "newton_meter": 580,
+            "acceleration": 5.8,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2218,
+            "seats": 5,
+            "trunk": 322,
+            "url": "https://ev-database.de/pkw/1245/Ford-Mustang-Mach-E-AWD-Extended-Range",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 150.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 132,
+            "brand": "Ford",
+            "model": "Mustang Mach-E AWD Standard Range",
+            "price": 54750,
+            "body": "SUV",
+            "battery_size": 68.0,
+            "range": 330,
+            "consumption": 20.6,
+            "engine_power": 198,
+            "newton_meter": 580,
+            "acceleration": 6.3,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2086,
+            "seats": 5,
+            "trunk": 322,
+            "url": "https://ev-database.de/pkw/1244/Ford-Mustang-Mach-E-AWD-Standard-Range",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 115.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 103.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 115.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 23.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 133,
+            "brand": "Ford",
+            "model": "Mustang Mach-E Extended Range",
+            "price": 54475,
+            "body": "SUV",
+            "battery_size": 88.0,
+            "range": 440,
+            "consumption": 20.0,
+            "engine_power": 216,
+            "newton_meter": 430,
+            "acceleration": 7.0,
+            "speed": 180,
+            "drive_train": "Heck",
+            "weight": 2111,
+            "seats": 5,
+            "trunk": 322,
+            "url": "https://ev-database.de/pkw/1243/Ford-Mustang-Mach-E-Extended-Range",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 150.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 134,
+            "brand": "Ford",
+            "model": "Mustang Mach-E Standard Range",
+            "price": 47500,
+            "body": "SUV",
+            "battery_size": 68.0,
+            "range": 345,
+            "consumption": 19.7,
+            "engine_power": 198,
+            "newton_meter": 430,
+            "acceleration": 6.9,
+            "speed": 180,
+            "drive_train": "Heck",
+            "weight": 1993,
+            "seats": 5,
+            "trunk": 322,
+            "url": "https://ev-database.de/pkw/1242/Ford-Mustang-Mach-E-Standard-Range",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 115.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 103.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 115.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 23.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 135,
+            "brand": "Mazda",
+            "model": "MX-30",
+            "price": 34490,
+            "body": "SUV",
+            "battery_size": 30.0,
+            "range": 170,
+            "consumption": 17.6,
+            "engine_power": 105,
+            "newton_meter": 265,
+            "acceleration": 9.7,
+            "speed": 140,
+            "drive_train": "Front",
+            "weight": 1720,
+            "seats": 5,
+            "trunk": 366,
+            "url": "https://ev-database.de/pkw/1241/Mazda-MX-30",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 37.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 33.3
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 37.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 7.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 136,
+            "brand": "Mercedes",
+            "model": "EQV 300 Lang",
+            "price": 71388,
+            "body": "Kleinbus",
+            "battery_size": 90.0,
+            "range": 320,
+            "consumption": 28.1,
+            "engine_power": 150,
+            "newton_meter": 362,
+            "acceleration": 12.1,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2635,
+            "seats": 7,
+            "trunk": 1111111,
+            "url": "https://ev-database.de/pkw/1240/Mercedes-EQV-300-Lang",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 110.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 110.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 22.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 137,
+            "brand": "Porsche",
+            "model": "Taycan 4S Plus",
+            "price": 113008,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 435,
+            "consumption": 19.2,
+            "engine_power": 420,
+            "newton_meter": 650,
+            "acceleration": 4.0,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2295,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1238/Porsche-Taycan-4S-Plus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 135.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 138,
+            "brand": "Porsche",
+            "model": "Taycan 4S",
+            "price": 106487,
+            "body": "Stufenheck",
+            "battery_size": 71.0,
+            "range": 375,
+            "consumption": 18.9,
+            "engine_power": 390,
+            "newton_meter": 640,
+            "acceleration": 4.0,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2215,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1237/Porsche-Taycan-4S",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 225.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 202.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 45.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 139,
+            "brand": "Renault",
+            "model": "Zoe R110 Z.E.40",
+            "price": 29990,
+            "body": "Steilheck",
+            "battery_size": 41.0,
+            "range": 255,
+            "consumption": 16.1,
+            "engine_power": 80,
+            "newton_meter": 225,
+            "acceleration": 11.4,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1502,
+            "seats": 5,
+            "trunk": 338,
+            "url": "https://ev-database.de/pkw/1236/Renault-Zoe-R110-ZE-40",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 45.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 40.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 45.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 9.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 140,
+            "brand": "Honda",
+            "model": "e Advance",
+            "price": 38000,
+            "body": "Steilheck",
+            "battery_size": 28.5,
+            "range": 170,
+            "consumption": 16.8,
+            "engine_power": 113,
+            "newton_meter": 315,
+            "acceleration": 8.3,
+            "speed": 145,
+            "drive_train": "Heck",
+            "weight": 1595,
+            "seats": 4,
+            "trunk": 171,
+            "url": "https://ev-database.de/pkw/1233/Honda-e-Advance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 56.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 50.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 56.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 11.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 141,
+            "brand": "Smart",
+            "model": "EQ forfour",
+            "price": 19120,
+            "body": "Steilheck",
+            "battery_size": 16.7,
+            "range": 95,
+            "consumption": 17.6,
+            "engine_power": 60,
+            "newton_meter": 160,
+            "acceleration": 12.7,
+            "speed": 130,
+            "drive_train": "Heck",
+            "weight": 1200,
+            "seats": 4,
+            "trunk": 185,
+            "url": "https://ev-database.de/pkw/1232/Smart-EQ-forfour",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "__"
+                ],
+                "max_power": 1,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1
+                    }
+                ]
+            }
+        },
+        {
+            "id": 142,
+            "brand": "Smart",
+            "model": "EQ fortwo cabrio",
+            "price": 21720,
+            "body": "Cabrio",
+            "battery_size": 16.7,
+            "range": 95,
+            "consumption": 17.6,
+            "engine_power": 60,
+            "newton_meter": 160,
+            "acceleration": 11.9,
+            "speed": 130,
+            "drive_train": "Heck",
+            "weight": 1125,
+            "seats": 2,
+            "trunk": 260,
+            "url": "https://ev-database.de/pkw/1231/Smart-EQ-fortwo-cabrio",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "__"
+                ],
+                "max_power": 1,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1
+                    }
+                ]
+            }
+        },
+        {
+            "id": 143,
+            "brand": "Smart",
+            "model": "EQ fortwo",
+            "price": 18460,
+            "body": "Steilheck",
+            "battery_size": 16.7,
+            "range": 100,
+            "consumption": 16.7,
+            "engine_power": 60,
+            "newton_meter": 160,
+            "acceleration": 11.6,
+            "speed": 130,
+            "drive_train": "Heck",
+            "weight": 1095,
+            "seats": 2,
+            "trunk": 260,
+            "url": "https://ev-database.de/pkw/1230/Smart-EQ-fortwo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "__"
+                ],
+                "max_power": 1,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1
+                    }
+                ]
+            }
+        },
+        {
+            "id": 144,
+            "brand": "Porsche",
+            "model": "Taycan Turbo",
+            "price": 153016,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 400,
+            "consumption": 20.9,
+            "engine_power": 500,
+            "newton_meter": 850,
+            "acceleration": 3.2,
+            "speed": 260,
+            "drive_train": "Allrad",
+            "weight": 2380,
+            "seats": 4,
+            "trunk": 366,
+            "url": "https://ev-database.de/pkw/1229/Porsche-Taycan-Turbo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 145,
+            "brand": "Audi",
+            "model": "e-tron 50 quattro",
+            "price": 69100,
+            "body": "SUV",
+            "battery_size": 64.7,
+            "range": 280,
+            "consumption": 23.1,
+            "engine_power": 230,
+            "newton_meter": 540,
+            "acceleration": 6.8,
+            "speed": 190,
+            "drive_train": "Allrad",
+            "weight": 2445,
+            "seats": 5,
+            "trunk": 660,
+            "url": "https://ev-database.de/pkw/1209/Audi-e-tron-50-quattro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 120.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 24.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 146,
+            "brand": "Peugeot",
+            "model": "e-2008",
+            "price": 35450,
+            "body": "SUV",
+            "battery_size": 45.0,
+            "range": 250,
+            "consumption": 18.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 8.5,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1548,
+            "seats": 5,
+            "trunk": 434,
+            "url": "https://ev-database.de/pkw/1206/Peugeot-e-2008",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.9
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 147,
+            "brand": "Renault",
+            "model": "Zoe R135 Z.E.50",
+            "price": 33990,
+            "body": "Steilheck",
+            "battery_size": 52.0,
+            "range": 310,
+            "consumption": 16.8,
+            "engine_power": 100,
+            "newton_meter": 245,
+            "acceleration": 9.5,
+            "speed": 140,
+            "drive_train": "Front",
+            "weight": 1577,
+            "seats": 5,
+            "trunk": 338,
+            "url": "https://ev-database.de/pkw/1205/Renault-Zoe-R135-ZE-50",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 52.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 46.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 52.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 10.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 148,
+            "brand": "SEAT",
+            "model": "Mii Electric",
+            "price": 24650,
+            "body": "Steilheck",
+            "battery_size": 32.3,
+            "range": 205,
+            "consumption": 15.8,
+            "engine_power": 61,
+            "newton_meter": 212,
+            "acceleration": 12.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1235,
+            "seats": 4,
+            "trunk": 251,
+            "url": "https://ev-database.de/pkw/1191/SEAT-Mii-Electric",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 40.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 36.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 40.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 8.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 149,
+            "brand": "Skoda",
+            "model": "Enyaq iV 50",
+            "price": 33800,
+            "body": "SUV",
+            "battery_size": 52.0,
+            "range": 295,
+            "consumption": 17.6,
+            "engine_power": 109,
+            "newton_meter": 220,
+            "acceleration": 11.3,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1937,
+            "seats": 5,
+            "trunk": 585,
+            "url": "https://ev-database.de/pkw/1187/Skoda-Enyaq-iV-50",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 50.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 45.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 10.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 150,
+            "brand": "Porsche",
+            "model": "Taycan 4 Cross Turismo",
+            "price": 93635,
+            "body": "Steilheck",
+            "battery_size": 83.7,
+            "range": 405,
+            "consumption": 20.7,
+            "engine_power": 350,
+            "newton_meter": 500,
+            "acceleration": 5.1,
+            "speed": 220,
+            "drive_train": "Allrad",
+            "weight": 2245,
+            "seats": 4,
+            "trunk": 446,
+            "url": "https://ev-database.de/pkw/1186/Porsche-Taycan-4-Cross-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 151,
+            "brand": "Tesla",
+            "model": "Model Y Performance",
+            "price": 66965,
+            "body": "SUV",
+            "battery_size": 76.0,
+            "range": 430,
+            "consumption": 17.7,
+            "engine_power": 420,
+            "newton_meter": 660,
+            "acceleration": 3.7,
+            "speed": 241,
+            "drive_train": "Allrad",
+            "weight": 2003,
+            "seats": 7,
+            "trunk": 854,
+            "url": "https://ev-database.de/pkw/1183/Tesla-Model-Y-Performance",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 152,
+            "brand": "Tesla",
+            "model": "Model Y Maximale Reichweite",
+            "price": 59965,
+            "body": "SUV",
+            "battery_size": 70.0,
+            "range": 410,
+            "consumption": 17.1,
+            "engine_power": 324,
+            "newton_meter": 493,
+            "acceleration": 5.0,
+            "speed": 217,
+            "drive_train": "Allrad",
+            "weight": 2056,
+            "seats": 7,
+            "trunk": 854,
+            "url": "https://ev-database.de/pkw/1182/Tesla-Model-Y-Maximale-Reichweite",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 210.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 189.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 210.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 42.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 153,
+            "brand": "Audi",
+            "model": "Q4 e-tron 35",
+            "price": 41900,
+            "body": "SUV",
+            "battery_size": 52.0,
+            "range": 285,
+            "consumption": 18.2,
+            "engine_power": 125,
+            "newton_meter": 310,
+            "acceleration": 9.0,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1965,
+            "seats": 5,
+            "trunk": 520,
+            "url": "https://ev-database.de/pkw/1179/Audi-Q4-e-tron-35",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 118.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 106.2
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 118.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 23.6
+                    }
+                ]
+            }
+        },
+        {
+            "id": 154,
+            "brand": "CUPRA",
+            "model": "Born 110kW - 45kWh",
+            "price": 32700,
+            "body": "Steilheck",
+            "battery_size": 45.0,
+            "range": 275,
+            "consumption": 16.4,
+            "engine_power": 110,
+            "newton_meter": 310,
+            "acceleration": 8.9,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1708,
+            "seats": 5,
+            "trunk": 385,
+            "url": "https://ev-database.de/pkw/1178/CUPRA-Born-110-kW---45-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 118.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 106.2
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 118.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 23.6
+                    }
+                ]
+            }
+        },
+        {
+            "id": 155,
+            "brand": "Honda",
+            "model": "e",
+            "price": 33850,
+            "body": "Steilheck",
+            "battery_size": 28.5,
+            "range": 170,
+            "consumption": 16.8,
+            "engine_power": 100,
+            "newton_meter": 315,
+            "acceleration": 9.0,
+            "speed": 145,
+            "drive_train": "Heck",
+            "weight": 1588,
+            "seats": 4,
+            "trunk": 171,
+            "url": "https://ev-database.de/pkw/1171/Honda-e",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 56.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 50.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 56.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 11.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 156,
+            "brand": "Peugeot",
+            "model": "e-208",
+            "price": 30450,
+            "body": "Steilheck",
+            "battery_size": 45.0,
+            "range": 275,
+            "consumption": 16.4,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 8.1,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1530,
+            "seats": 5,
+            "trunk": 265,
+            "url": "https://ev-database.de/pkw/1168/Peugeot-e-208",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.9
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 157,
+            "brand": "Tesla",
+            "model": "Roadster",
+            "price": 215000,
+            "body": "Cabrio",
+            "battery_size": 200.0,
+            "range": 970,
+            "consumption": 20.6,
+            "engine_power": 1000,
+            "newton_meter": 1200,
+            "acceleration": 2.1,
+            "speed": 410,
+            "drive_train": "Allrad",
+            "weight": 2000,
+            "seats": 4,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1167/Tesla-Roadster",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 250.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 225.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 250.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 50.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 158,
+            "brand": "Lightyear",
+            "model": "One",
+            "price": 149000,
+            "body": "Fließheck",
+            "battery_size": 60.0,
+            "range": 575,
+            "consumption": 10.4,
+            "engine_power": 100,
+            "newton_meter": 1200,
+            "acceleration": 10.0,
+            "speed": 150,
+            "drive_train": "Allrad",
+            "weight": 1300,
+            "seats": 5,
+            "trunk": 780,
+            "url": "https://ev-database.de/pkw/1166/Lightyear-One",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 75.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 67.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 15.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 159,
+            "brand": "Hyundai",
+            "model": "IONIQ Elektro",
+            "price": 35350,
+            "body": "Fließheck",
+            "battery_size": 38.3,
+            "range": 250,
+            "consumption": 15.3,
+            "engine_power": 100,
+            "newton_meter": 295,
+            "acceleration": 9.7,
+            "speed": 165,
+            "drive_train": "Front",
+            "weight": 1602,
+            "seats": 5,
+            "trunk": 357,
+            "url": "https://ev-database.de/pkw/1165/Hyundai-IONIQ-Elektro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 44.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 39.6
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 44.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 8.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 160,
+            "brand": "Ranault",
+            "model": "Zoe R110 Z.E.50",
+            "price": 31990,
+            "body": "Steilheck",
+            "battery_size": 52.0,
+            "range": 315,
+            "consumption": 16.5,
+            "engine_power": 80,
+            "newton_meter": 225,
+            "acceleration": 11.4,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1577,
+            "seats": 5,
+            "trunk": 338,
+            "url": "https://ev-database.de/pkw/1164/Renault-Zoe-R110-ZE-50",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 46.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 41.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 46.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 9.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 161,
+            "brand": "Audi",
+            "model": "e-tron GT RS",
+            "price": 138200,
+            "body": "Stufenheck",
+            "battery_size": 85.0,
+            "range": 405,
+            "consumption": 21.0,
+            "engine_power": 475,
+            "newton_meter": 830,
+            "acceleration": 3.3,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2420,
+            "seats": 4,
+            "trunk": 366,
+            "url": "https://ev-database.de/pkw/1153/Audi-e-tron-GT-RS",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 265.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 238.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 265.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 53.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 162,
+            "brand": "SonoMotors",
+            "model": "Sion",
+            "price": 28500,
+            "body": "Kleinbus",
+            "battery_size": 47.0,
+            "range": 260,
+            "consumption": 18.1,
+            "engine_power": 120,
+            "newton_meter": 270,
+            "acceleration": 9.0,
+            "speed": 140,
+            "drive_train": "Front",
+            "weight": 1730,
+            "seats": 5,
+            "trunk": 650,
+            "url": "https://ev-database.de/pkw/1152/Sono-Motors-Sion",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 75.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 67.5
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 15.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 163,
+            "brand": "BMW",
+            "model": "i3s 120Ah",
+            "price": 42600,
+            "body": "Steilheck",
+            "battery_size": 37.9,
+            "range": 230,
+            "consumption": 16.5,
+            "engine_power": 135,
+            "newton_meter": 270,
+            "acceleration": 6.9,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1365,
+            "seats": 4,
+            "trunk": 260,
+            "url": "https://ev-database.de/pkw/1149/BMW-i3s-120-Ah",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 49.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 44.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 49.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 9.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 164,
+            "brand": "DS",
+            "model": "3 Crossback E-Tense",
+            "price": 30040,
+            "body": "SUV",
+            "battery_size": 45.0,
+            "range": 250,
+            "consumption": 18.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 8.7,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1598,
+            "seats": 5,
+            "trunk": 350,
+            "url": "https://ev-database.de/pkw/1148/DS-3-Crossback-E-Tense",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.9
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 165,
+            "brand": "Mercedes-Benz",
+            "model": "EQA",
+            "price": 47541,
+            "body": "SUV",
+            "battery_size": 66.5,
+            "range": 355,
+            "consumption": 18.7,
+            "engine_power": 140,
+            "newton_meter": 375,
+            "acceleration": 8.9,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2040,
+            "seats": 5,
+            "trunk": 340,
+            "url": "https://ev-database.de/pkw/1147/Mercedes-EQA",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 112.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 100.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 112.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 22.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 166,
+            "brand": "BMW",
+            "model": "i3 120Ah",
+            "price": 39000,
+            "body": "Steilheck",
+            "battery_size": 37.9,
+            "range": 235,
+            "consumption": 16.1,
+            "engine_power": 125,
+            "newton_meter": 250,
+            "acceleration": 7.3,
+            "speed": 150,
+            "drive_train": "Heck",
+            "weight": 1345,
+            "seats": 4,
+            "trunk": 260,
+            "url": "https://ev-database.de/pkw/1145/BMW-i3-120-Ah",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 49.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 44.1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 49.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 9.8
+                    }
+                ]
+            }
+        },
+        {
+            "id": 167,
+            "brand": "Nissan",
+            "model": "Leaf e+",
+            "price": 37550,
+            "body": "Steilheck",
+            "battery_size": 56.0,
+            "range": 325,
+            "consumption": 17.2,
+            "engine_power": 160,
+            "newton_meter": 340,
+            "acceleration": 7.3,
+            "speed": 157,
+            "drive_train": "Front",
+            "weight": 1756,
+            "seats": 5,
+            "trunk": 420,
+            "url": "https://ev-database.de/pkw/1144/Nissan-Leaf-eplus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 168,
+            "brand": "Nissan",
+            "model": "e-NV200 Evalia",
+            "price": 43730,
+            "body": "Kleinbus",
+            "battery_size": 37.0,
+            "range": 170,
+            "consumption": 21.8,
+            "engine_power": 80,
+            "newton_meter": 254,
+            "acceleration": 14.0,
+            "speed": 123,
+            "drive_train": "Front",
+            "weight": 1667,
+            "seats": 7,
+            "trunk": 2000,
+            "url": "https://ev-database.de/pkw/1117/Nissan-e-NV200-Evalia",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CHAdeMO"
+                ],
+                "max_power": 46.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 41.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 46.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 9.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 169,
+            "brand": "Porsche",
+            "model": "Taycan Turbo S",
+            "price": 186336,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 390,
+            "consumption": 21.5,
+            "engine_power": 560,
+            "newton_meter": 1050,
+            "acceleration": 2.8,
+            "speed": 260,
+            "drive_train": "Allrad",
+            "weight": 2370,
+            "seats": 4,
+            "trunk": 366,
+            "url": "https://ev-database.de/pkw/1116/Porsche-Taycan-Turbo-S",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 170,
+            "brand": "Nissan",
+            "model": "Leaf",
+            "price": 29990,
+            "body": "Steilheck",
+            "battery_size": 37.0,
+            "range": 225,
+            "consumption": 16.4,
+            "engine_power": 110,
+            "newton_meter": 320,
+            "acceleration": 7.9,
+            "speed": 144,
+            "drive_train": "Front",
+            "weight": 1580,
+            "seats": 5,
+            "trunk": 435,
+            "url": "https://ev-database.de/pkw/1106/Nissan-Leaf",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 3.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.6,
+                    "7.4": 3.6,
+                    "11": 3.6,
+                    "16": 3.6,
+                    "22": 3.6,
+                    "43": 3.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CHAdeMO"
+                ],
+                "max_power": 46.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 41.4
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 46.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 9.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 171,
+            "brand": "Porsche",
+            "model": "Taycan GTS",
+            "price": 131834,
+            "body": "Stufenheck",
+            "battery_size": 83.7,
+            "range": 460,
+            "consumption": 18.2,
+            "engine_power": 440,
+            "newton_meter": 850,
+            "acceleration": 3.7,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2370,
+            "seats": 4,
+            "trunk": 407,
+            "url": "https://ev-database.de/pkw/1560/Porsche-Taycan-GTS",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 235.8
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 262.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 52.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 172,
+            "brand": "Mercedes-Benz",
+            "model": "EQS 350",
+            "price": 97806,
+            "body": "Stufenheck",
+            "battery_size": 90.6,
+            "range": 545,
+            "consumption": 16.6,
+            "engine_power": 215,
+            "newton_meter": 565,
+            "acceleration": 6.6,
+            "speed": 210,
+            "drive_train": "Heck",
+            "weight": 2390,
+            "seats": 5,
+            "trunk": 610,
+            "url": "https://ev-database.de/pkw/1562/Mercedes-EQS-350",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 153.0
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 173,
+            "brand": "Renault",
+            "model": "Twingo",
+            "price": 24790,
+            "body": "Steilheck",
+            "battery_size": 21.3,
+            "range": 130,
+            "consumption": 16.4,
+            "engine_power": 60,
+            "newton_meter": 160,
+            "acceleration": 12.6,
+            "speed": 135,
+            "drive_train": "Front",
+            "weight": 1208,
+            "seats": 4,
+            "trunk": 174,
+            "url": "https://ev-database.de/pkw/1270/Renault-Twingo-Electric",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "__"
+                ],
+                "max_power": 1,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 75,
+                        "power": 1
+                    },
+                    {
+                        "percentage": 100,
+                        "power": 1
                     }
                 ]
             }
