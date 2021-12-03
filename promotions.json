@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "GER",
+            "location": "Deutschland",
+            "running_time": "31.12.2025",
+            "name": "Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus)",
+            "user": [
+                "Privatperson",
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug"
+            ],
+            "sponsor": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+            "content": "English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
+            "gourl": "https://www.bafa.de/DE/Energie/Energieeffizienz/Elektromobilitaet/Neuen_Antrag_stellen/neuen_antrag_stellen.html"
+        },
+        {
+            "id": 1,
+            "zip1": "80331",
+            "zip2": "85540",
+            "image_location": "BY",
+            "location": "München",
+            "running_time": "31.12.2021",
+            "name": "Integrierten Handlungsprogramms zur Förderung der Elektromobilität in München (IHFEM)",
+            "user": [
+                "Privatperson",
+                "Unternehmen",
+                "Wohnungseigentümergemeinschaften"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Stadt München",
+            "content": "This is a new Text. English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
+            "gourl": "http://www.muenchen.de/dienstleistungsfinder/muenchen/10215332/n0/"
+        },
+        {
+            "id": 2,
+            "zip1": "10115",
+            "zip2": "13469",
+            "image_location": "BE",
+            "location": "Berlin",
+            "running_time": "unbestimmt",
+            "name": "Förderprogramm Wirtschaftsnahe Elektromobilität (WELMO)",
+            "user": [
+                "Unternehmen",
+                "Wohnungseigentümergemeinschaften"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Investitionsbank Berlin",
+            "content": "This is the third text. English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
+            "gourl": "https://www.ibb-business-team.de/welmo/foerderung/"
+        }
+    ]
+}
