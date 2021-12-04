@@ -47,20 +47,40 @@
                         "power": 105.0
                     },
                     {
-                        "percentage": 39,
+                        "percentage": 10,
+                        "power": 115.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 30,
                         "power": 125.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 125.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 105.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 95.0
                     },
                     {
                         "percentage": 70,
                         "power": 87.0
                     },
                     {
-                        "percentage": 84,
-                        "power": 68.0
+                        "percentage": 80,
+                        "power": 65.0
                     },
                     {
-                        "percentage": 100,
-                        "power": 25.0
+                        "percentage": 90,
+                        "power": 30.0
                     }
                 ]
             }
@@ -109,14 +129,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 140.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 20,
                         "power": 180.0
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 40,
                         "power": 200.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 200.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 160.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 90,
                         "power": 40.0
                     }
                 ]
@@ -169,43 +217,39 @@
                         "power": 99.0
                     },
                     {
-                        "percentage": 16,
+                        "percentage": 10,
                         "power": 99.0
                     },
                     {
-                        "percentage": 21,
-                        "power": 75.0
+                        "percentage": 20,
+                        "power": 74.0
                     },
                     {
-                        "percentage": 48,
-                        "power": 53.0
+                        "percentage": 30,
+                        "power": 60.0
                     },
                     {
-                        "percentage": 67,
-                        "power": 53.0
+                        "percentage": 40,
+                        "power": 55.0
                     },
                     {
-                        "percentage": 68,
-                        "power": 41.0
+                        "percentage": 50,
+                        "power": 50.0
                     },
                     {
-                        "percentage": 72,
-                        "power": 41.0
+                        "percentage": 60,
+                        "power": 50.0
                     },
                     {
-                        "percentage": 73,
-                        "power": 2.0
+                        "percentage": 70,
+                        "power": 40.0
                     },
                     {
-                        "percentage": 83,
-                        "power": 27.0
+                        "percentage": 80,
+                        "power": 25.0
                     },
                     {
-                        "percentage": 84,
-                        "power": 11.0
-                    },
-                    {
-                        "percentage": 100,
+                        "percentage": 90,
                         "power": 11.0
                     }
                 ]
@@ -255,14 +299,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 94.5
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 114.7
+                    },
+                    {
+                        "percentage": 20,
                         "power": 121.5
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 128.2
+                    },
+                    {
+                        "percentage": 40,
                         "power": 135.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 128.2
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 67.5
+                    },
+                    {
+                        "percentage": 90,
                         "power": 27.0
                     }
                 ]
@@ -312,14 +384,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 94.5
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 114.7
+                    },
+                    {
+                        "percentage": 20,
                         "power": 121.5
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 128.2
+                    },
+                    {
+                        "percentage": 40,
                         "power": 135.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 128.2
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 67.5
+                    },
+                    {
+                        "percentage": 90,
                         "power": 27.0
                     }
                 ]
@@ -369,14 +469,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 94.5
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 114.7
+                    },
+                    {
+                        "percentage": 20,
                         "power": 121.5
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 128.2
+                    },
+                    {
+                        "percentage": 40,
                         "power": 135.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 128.2
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 67.5
+                    },
+                    {
+                        "percentage": 90,
                         "power": 27.0
                     }
                 ]
@@ -426,14 +554,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 119.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 144.5
+                    },
+                    {
+                        "percentage": 20,
                         "power": 153.0
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 161.5
+                    },
+                    {
+                        "percentage": 40,
                         "power": 170.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 161.5
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 136.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 90,
                         "power": 34.0
                     }
                 ]
@@ -483,14 +639,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 69.3
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 84.1
+                    },
+                    {
+                        "percentage": 20,
                         "power": 89.1
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 40,
                         "power": 99.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 79.2
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 49.5
+                    },
+                    {
+                        "percentage": 90,
                         "power": 19.8
                     }
                 ]
@@ -540,17 +724,44 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 69.3
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 84.1
+                    },
+                    {
+                        "percentage": 20,
                         "power": 89.1
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 40,
                         "power": 99.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 79.2
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 49.5
+                    },
+                    {
+                        "percentage": 90,
                         "power": 19.8
-                    }
-                ]
+                    }                ]
             }
         },
         {
@@ -597,15 +808,43 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 69.3
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 84.1
+                    },
+                    {
+                        "percentage": 20,
                         "power": 89.1
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 40,
                         "power": 99.0
                     },
                     {
-                        "percentage": 100,
-                        "power": 18.9
+                        "percentage": 50,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 79.2
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 49.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 19.8
                     }
                 ]
             }
@@ -654,14 +893,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 69.3
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 84.1
+                    },
+                    {
+                        "percentage": 20,
                         "power": 89.1
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 40,
                         "power": 99.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 79.2
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 49.5
+                    },
+                    {
+                        "percentage": 90,
                         "power": 19.8
                     }
                 ]
@@ -711,14 +978,42 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
+                        "power": 56.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 68.0
+                    },
+                    {
+                        "percentage": 20,
                         "power": 72.0
                     },
                     {
-                        "percentage": 75,
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
                         "power": 80.0
                     },
                     {
-                        "percentage": 100,
+                        "percentage": 50,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 64.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 40.0
+                    },
+                    {
+                        "percentage": 90,
                         "power": 16.0
                     }
                 ]
