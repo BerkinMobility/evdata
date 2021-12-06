@@ -9,7 +9,7 @@
             "running_time": "31.12.2025",
             "name": "Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus)",
             "user": [
-                "Privatperson",
+                "Privatpersonen",
                 "Unternehmen"
             ],
             "object": [
@@ -28,9 +28,9 @@
             "running_time": "31.12.2021",
             "name": "Integrierten Handlungsprogramms zur Förderung der Elektromobilität in München (IHFEM)",
             "user": [
-                "Privatperson",
+                "Privatpersonen",
                 "Unternehmen",
-                "Wohnungseigentümergemeinschaften"
+                "Wohnungseigentümergemeinschaft"
             ],
             "object": [
                 "Elektrofahrzeug",
@@ -50,7 +50,7 @@
             "name": "Förderprogramm Wirtschaftsnahe Elektromobilität (WELMO)",
             "user": [
                 "Unternehmen",
-                "Wohnungseigentümergemeinschaften"
+                "Wohnungseigentümergemeinschaft"
             ],
             "object": [
                 "Elektrofahrzeug",
