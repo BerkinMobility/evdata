@@ -12445,7 +12445,7 @@
                     "43": 11.0
                 }
             },
-            "exclusive_charging_curve": false,
+            "exclusive_charging_curve": true,
             "dc_charging": {
                 "ports": [
                     "CCS"
