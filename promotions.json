@@ -59,6 +59,43 @@
             "sponsor": "Investitionsbank Berlin",
             "content": "This is the third text. English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
             "gourl": "https://www.ibb-business-team.de/welmo/foerderung/"
+        },
+        {
+            "id": 3,
+            "zip1": "65549",
+            "zip2": "65556",
+            "image_location": "F_HE",
+            "location": "Kommune Limburg",
+            "running_time": "unbestimmt",
+            "name": "Förderprogramm Elektromobilität 'Limburg elektrisiert'",
+            "user": [
+                "Privatpersonen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Kreisstadt Limburg a. d. Lahn",
+            "content": "600€ für gebrauchte Elektrofahrzeuge, 300€ pro AC Ladepunkt, 600€ für Lasten-Pedelecs, 200€ auf E-Roller, zusätzl. Öko- und Abwrackbonus förderbar. Anschaffung eines Elektrofahrzeugs (Gebrauchtfahrzeug) oder Lastenpedelecs/E-Roller, Anschaffung von Ladeinfrastruktur (nicht öffentlich zugänglich)",
+            "gourl": "https://www.limburg.de/Mobilit%C3%A4t-Verkehr/Elektromobilit%C3%A4t-/Limburg-elektrisiert.php?object=tx,3251.5&ModID=7&FID=3252.425.1&NavID=3252.202&La=1"
+        },
+        {
+            "id": 4,
+            "zip1": "38000",
+            "zip2": "38272",
+            "image_location": "F_NI",
+            "location": "Kommune Wolfenbüttel",
+            "running_time": "unbestimmt",
+            "name": "Klimaschutzmaßnahmen in privaten Haushalten 2021 - 2024",
+            "user": [
+                "Privatpersonen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Landkreis Wolfenbüttel",
+            "content": "300€ je Wohneinheit. Bestellung/ Leasing oder Besitz eines E-Autos, Haltung des rein-batteriebetribenen Autos über 3 Jahre, Bezug von 'grünem' Strom oder Anschluss einer PV-Anlage, Installation der Wallbox durch einen Fachbetrieb, bis max. 22kW Ladeleistung, Gebäude hat nicht mehr als 6 Wohneinheiten.",
+            "gourl": "https://www.lkwf.de/Themen-Leistungen/Themen/Umwelt-Abfall/Klimaschutz"
         }
     ]
 }
