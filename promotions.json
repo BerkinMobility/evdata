@@ -2,48 +2,8 @@
     "data": [
         {
             "id": 0,
-            "zip1": "01067",
-            "zip2": "99998",
-            "image_location": "F_GER",
-            "location": "Deutschland",
-            "running_time": "31.12.2025",
-            "name": "Förderung des Absatzes von elektrisch betriebenen Fahrzeugen (Umweltbonus)",
-            "user": [
-                "Privatpersonen",
-                "Unternehmen"
-            ],
-            "object": [
-                "Elektrofahrzeug"
-            ],
-            "sponsor": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
-            "content": "English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
-            "gourl": "https://www.bafa.de/DE/Energie/Energieeffizienz/Elektromobilitaet/Neuen_Antrag_stellen/neuen_antrag_stellen.html"
-        },
-        {
-            "id": 1,
-            "zip1": "80331",
-            "zip2": "85540",
-            "image_location": "F_BY",
-            "location": "München",
-            "running_time": "31.12.2021",
-            "name": "Integrierten Handlungsprogramms zur Förderung der Elektromobilität in München (IHFEM)",
-            "user": [
-                "Privatpersonen",
-                "Unternehmen",
-                "Wohnungseigentümergemeinschaft"
-            ],
-            "object": [
-                "Elektrofahrzeug",
-                "Ladeinfrastruktur"
-            ],
-            "sponsor": "Stadt München",
-            "content": "This is a new Text. English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
-            "gourl": "http://www.muenchen.de/dienstleistungsfinder/muenchen/10215332/n0/"
-        },
-        {
-            "id": 2,
             "zip1": "10115",
-            "zip2": "13469",
+            "zip2": "14199",
             "image_location": "F_BE",
             "location": "Berlin",
             "running_time": "unbestimmt",
@@ -56,31 +16,163 @@
                 "Elektrofahrzeug",
                 "Ladeinfrastruktur"
             ],
-            "sponsor": "Investitionsbank Berlin",
-            "content": "This is the third text. English is a West Germanic language of the Indo-European language family, originally spoken by the inhabitants of early medieval England.[3][4][5] It is named after Anglia, a peninsula on the Baltic Sea (not to be confused with East Anglia), and the Angles, one of the ancient Germanic peoples that migrated to the area of Great Britain that later took their name: England. Living languages most closely related to English include the Low Saxon and Frisian languages, while English's vocabulary has been significantly influenced by Old Norman French and Latin, as well as by other Germanic languages, particularly Old Norse (a North Germanic language).",
-            "gourl": "https://www.ibb-business-team.de/welmo/foerderung/"
+            "sponsor": "Investitionsbank Berlin (IBB)",
+            "content": "1. Leichte Nutzfahrzeuge bei 25 % der zuwendungsfähigen Ausgaben, maximal 15.000 EUR je Fahrzeug 2. Je PKW (der Klasse M1) 25 % der zuwendungsfähigen Ausgaben, maximal 15.000 EUR 3. Elektrische Klein- und Leichtfahrzeuge (Klassen L2e, L5e, L6e, L7e) mit 30 % der zuwendungsfähigen Ausgaben, maximal 5.000 EUR je Fahrzeug 4. Versicherungs- und zulassungspflichtige motorisierte Zweiräder (Klassen L1e, L3e und L4e) mit 500 EUR 5. Kauf oder Leasing von Normalladeinfrastruktur (AC) inkl. Netzanschluss bis 22 kW mit bis zu 50 % der Gesamtkosten, max. allerdings 2.500 EUR pro Ladepunkt 6. Kauf oder Leasing von Schnellladeinfrastruktur (DC) inkl. Netzanschuss ab 22 kW mit bis zu 50 % der Gesamtkosten, max. allerdings 30.000 EUR pro Ladepunkt 7. Anschluss an das Niederspannungsnetz in Höhe von bis zu 50 % der Gesamtkosten, max. allerdings 5.500 EUR 8. Anschluss an das Mittelspannungsnetz in Höhe von bis zu 50 % der Gesamtkosten, max. allerdings 55.000 EUR 9. Im Rahmen der Potenzialberatung wird eine 1-tägige Beratung mit einem Netto-Beratungssatz von max. 800 € gefördert 10. Die Förderung der Realisierungsberatung beläuft sich auf 80 % der Netto-Beratungskosten pro Tag. Förderfähig sind ausschließlich Beratungsleistungen von Unternehmen mit einem Netto-Tagessatz von maximal 1.000 €. Beratung durch ein vom Projektträger autorisiertes Beratungsunternehmen. Die Fördermaßnahmen richten sich ausschließlich an in Berlin tätige kleine und mittlere Unternehmen und selbständig Tätige, die zur Ausübung ihrer gewerblichen, gemeinnützigen oder freiberuflichen Tätigkeit ein motorisiertes Fahrzeug benötigen. Die Mindestzulassungsdauer des geförderten Fahrzeuges beträgt zwölf Monate. Gleiches gilt für die Ladeinfrastruktur hinsichtlich der Mindestnutzungsdauer. Die Antragstellerin/der Antragssteller muss durch Vorlage des Stromliefervertrages nachweisen, dass der Strom für den Betrieb der Ladeinfrastruktur ab Inbetriebnahme für die Dauer von mind. einem Jahr zu 100 % aus regenerativen Energien bezogen wird. Die Errichtung von stationärer Ladeinfrastruktur darf nicht der Gewinnerzielung durch Einnahmen aus deren Nutzung dienen.",
+            "gourl": "https://www.berlin.de/sen/wirtschaft/wirtschaft/technologiezentren-zukunftsorte-smart-city/elektromobilitaet/artikel.716619.php"
         },
         {
-            "id": 3,
-            "zip1": "65549",
-            "zip2": "65556",
-            "image_location": "F_HE",
-            "location": "Kommune Limburg",
-            "running_time": "unbestimmt",
-            "name": "Förderprogramm Elektromobilität 'Limburg elektrisiert'",
+            "id": 1,
+            "zip1": "17033",
+            "zip2": "23999",
+            "image_location": "F_MV",
+            "location": "Mecklenburg-Vorpommern",
+            "running_time": "31.12.23",
+            "name": "Klimaschutzförderrichtlinie für Unternehmen",
             "user": [
-                "Privatpersonen"
+                "Unternehmen"
             ],
             "object": [
                 "Elektrofahrzeug",
                 "Ladeinfrastruktur"
             ],
-            "sponsor": "Kreisstadt Limburg a. d. Lahn",
-            "content": "600€ für gebrauchte Elektrofahrzeuge, 300€ pro AC Ladepunkt, 600€ für Lasten-Pedelecs, 200€ auf E-Roller, zusätzl. Öko- und Abwrackbonus förderbar. Anschaffung eines Elektrofahrzeugs (Gebrauchtfahrzeug) oder Lastenpedelecs/E-Roller, Anschaffung von Ladeinfrastruktur (nicht öffentlich zugänglich)",
-            "gourl": "https://www.limburg.de/Mobilit%C3%A4t-Verkehr/Elektromobilit%C3%A4t-/Limburg-elektrisiert.php?object=tx,3251.5&ModID=7&FID=3252.425.1&NavID=3252.202&La=1"
+            "sponsor": "Landesförderinstitut Mecklenburg-Vorpommern ",
+            "content": "je nach Art des Vorhabens bis zu 60% der zuwendungsfähigen Ausgaben. Maßnahmen zur (in)direkten Reduzierung von Treibhausgasemissionen, Investive Maßnahmen zum Einsatz alternativer/nicht fossiler Kraftstoffe, Einsatz/Erwerb von Elektrofahrzeugen und Ladeinfrastruktur, Durchführung des Vorhabens in Mecklenburg-Vorpommern, gesicherte Finanzierung und wirtschaftliche Planung.                                 Die Höhe des Zuschusses beträgt normalerweise bis zu 50 Prozent der zuwendungsfähigen Ausgaben, bei Maßnahmen zur Nutzung erneuerbarer Energien im Ausnahmefall auch bis zu 60 Prozent. Das Projekt wird in Mecklenburg-Vorpommern durchgeführt. Die zuwendungsfähigen Ausgaben betragen mindestens EUR 20.000 (bei Vorplanungsstudien, Planungsleistungen oder Energiemanagementuntersuchungen mindestens EUR 5.000). Die Zweckbindungsfrist beträgt mindestens 5 Jahre",
+            "gourl": "https://www.lfi-mv.de/foerderungen/klimaschutz-projekte-in-wirtschaftlich-taetigen-organisationen/"
+        },
+        {
+            "id": 2,
+            "zip1": "19237",
+            "zip2": "49849",
+            "image_location": "F_NI",
+            "location": "Niedersachsen",
+            "running_time": "unbestimmt",
+            "name": "Ausbau von nicht öffentlicher Elektroladeinfrastruktur in Unternehmen",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Niedersächsisches Ministerium für Wirtschaft, Arbeit, Verkehr und Digitalisierung",
+            "content": "Aktualisieren",
+            "gourl": "https://www.strassenbau.niedersachsen.de/error_path/404.html?al_req_id=YbNaLlUs8AQPfMyvIb6OkwAAAyE"
+        },
+        {
+            "id": 3,
+            "zip1": "19237",
+            "zip2": "49849",
+            "image_location": "F_NI",
+            "location": "Niedersachsen",
+            "running_time": "31.12.22",
+            "name": "Anschaffung von Elektro- oder Brennstoffzellenfahrzeugen und zugehöriger Ladeinfrastruktur in Niedersachsen",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Investitions- und Förderbank des Landes Niedersachsen",
+            "content": "Einfügen",
+            "gourl": "https://www.nbank.de/%C3%96ffentliche-Einrichtungen/Infrastruktur/Anschaffung-von-Elektro-oder-Brennstoffzellenfahrzeugen-und-zugeh%C3%B6riger-Ladeinfrastruktur-in-Niedersachsen/index.jsp"
         },
         {
             "id": 4,
+            "zip1": "24257",
+            "zip2": "24326",
+            "image_location": "F_SH",
+            "location": "Kreis Plön",
+            "running_time": "unbestimmt",
+            "name": "Kreis Plön zur Förderung der Elektromobilität",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Kreis Plön",
+            "content": "___",
+            "gourl": "https://www.kreis-ploen.de/Wirtschaft-Tourismus/Mobilit%C3%A4t/Elektromobilit%C3%A4t"
+        },
+        {
+            "id": 5,
+            "zip1": "32049",
+            "zip2": "59969",
+            "image_location": "F_NW",
+            "location": "Nordrhein-Westfalen",
+            "running_time": "unbestimmt",
+            "name": "NRW.BANK.Elektromobilität",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "NRW.BANK",
+            "content": "___",
+            "gourl": "https://www.nrwbank.de/de/foerderung/foerderprodukte/15187/produktdetail.html"
+        },
+        {
+            "id": 6,
+            "zip1": "32049",
+            "zip2": "59969",
+            "image_location": "F_NW",
+            "location": "Nordrhein-Westfalen",
+            "running_time": "30.12.21",
+            "name": "Zuwendungen für die Umweltwirtschaft des Landes Nordrhein-Westfalen",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Ministerium für Umwelt, Landwirtschaft, Natur- und Verbraucherschutz des Landes Nordrhein-Westfalen",
+            "content": "___",
+            "gourl": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/NRW/umweltwirtschaft.html"
+        },
+        {
+            "id": 7,
+            "zip1": "32049",
+            "zip2": "59969",
+            "image_location": "F_NW",
+            "location": "Nordrhein-Westfalen",
+            "running_time": "31.12.23",
+            "name": "NRW-Förderung (Emissionsarme Mobilität)",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bezirksregierung Arnsberg",
+            "content": "___",
+            "gourl": "https://www.elektromobilitaet.nrw/foerderprogramme/nicht-oeffentlich-zugaengliche-ladeinfrastruktur/"
+        },
+        {
+            "id": 8,
+            "zip1": "32049",
+            "zip2": "59969",
+            "image_location": "F_NW",
+            "location": "Nordrhein-Westfalen",
+            "running_time": "31.12.23",
+            "name": "progress.nrw - Programm für Rationelle Energieverwendung, Regenerative Energien, und Energiesparen - Programmbereich Emissionsarme Mobilität",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bezirksregierung Arnsberg",
+            "content": "___",
+            "gourl": "https://www.foerderdatenbank.de/FDB/Content/DE/Foerderprogramm/Land/NRW/progres-nrw-rationell-energieverwendung-regen.html"
+        },
+        {
+            "id": 9,
             "zip1": "38000",
             "zip2": "38272",
             "image_location": "F_NI",
@@ -94,8 +186,383 @@
                 "Ladeinfrastruktur"
             ],
             "sponsor": "Landkreis Wolfenbüttel",
-            "content": "300€ je Wohneinheit. Bestellung/ Leasing oder Besitz eines E-Autos, Haltung des rein-batteriebetribenen Autos über 3 Jahre, Bezug von 'grünem' Strom oder Anschluss einer PV-Anlage, Installation der Wallbox durch einen Fachbetrieb, bis max. 22kW Ladeleistung, Gebäude hat nicht mehr als 6 Wohneinheiten.",
+            "content": "___",
             "gourl": "https://www.lkwf.de/Themen-Leistungen/Themen/Umwelt-Abfall/Klimaschutz"
+        },
+        {
+            "id": 10,
+            "zip1": "65549",
+            "zip2": "65556",
+            "image_location": "F_HE",
+            "location": "Kommune Limburg",
+            "running_time": "unbestimmt",
+            "name": "Förderprogramm Elektromobilität Limburg elektrisiert",
+            "user": [
+                "Privatpersonen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Kreisstadt Limburg a. d. Lahn",
+            "content": "___",
+            "gourl": "https://www.limburg.de/Mobilit%C3%A4t-Verkehr/Elektromobilit%C3%A4t-/Limburg-elektrisiert.php?object=tx,3251.5&ModID=7&FID=3252.425.1&NavID=3252.202&La=1"
+        },
+        {
+            "id": 11,
+            "zip1": "63928",
+            "zip2": "97999",
+            "image_location": "F_BW",
+            "location": "Baden-Württemberg",
+            "running_time": "unbestimmt",
+            "name": "BW-e-Gutschein",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Landeskreditbank Baden-Württemberg",
+            "content": "___",
+            "gourl": "https://www.l-bank.de/produkte/finanzhilfen/bw-e-gutschein.html"
+        },
+        {
+            "id": 12,
+            "zip1": "63928",
+            "zip2": "97999",
+            "image_location": "F_BW",
+            "location": "Baden-Württemberg",
+            "running_time": "unbestimmt",
+            "name": "LINOxBW - Ladeinfrastruktur für Baden-Württemberg",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesministerium für Wirtschaft und Energie",
+            "content": "___",
+            "gourl": "https://linox-bw.de/index.html"
+        },
+        {
+            "id": 13,
+            "zip1": "63928",
+            "zip2": "97999",
+            "image_location": "F_BW",
+            "location": "Baden-Württemberg",
+            "running_time": "unbestimmt",
+            "name": "Schnellladeinfrastruktur für E-Taxis",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Ministerium für Verkehr Baden-Württemberg",
+            "content": "___",
+            "gourl": "https://vm.baden-wuerttemberg.de/de/politik-zukunft/elektromobilitaet/foerderung-elektromobilitaet/schnellladeinfrastruktur-fuer-e-taxi/"
+        },
+        {
+            "id": 14,
+            "zip1": "63739",
+            "zip2": "97909",
+            "image_location": "F_BY",
+            "location": "Bayern",
+            "running_time": "31.12.21",
+            "name": "1. Förderaufruf Ladeinfrastruktur für Elektrofahrzeuge in Bayern 2.0",
+            "user": [
+                "Privatpersonen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+            "content": "___",
+            "gourl": "https://www.bayern-innovativ.de/foerderprogramme-elektromobilitaet/seite/1-foerderaufruf-ladeinfrastruktur-fuer-elektrofahrzeuge-in-bayern-2-0"
+        },
+        {
+            "id": 15,
+            "zip1": "63739",
+            "zip2": "97909",
+            "image_location": "F_BY",
+            "location": "Bayern",
+            "running_time": "31.12.22",
+            "name": "10.000-Häuser-Programm EnergieBonusBayern",
+            "user": [
+                "Privatpersonen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+            "content": "___",
+            "gourl": "https://www.energieatlas.bayern.de/file/pdf/2545/Richtlinie.pdf"
+        },
+        {
+            "id": 16,
+            "zip1": "80331",
+            "zip2": "85540",
+            "image_location": "F_BY",
+            "location": "München",
+            "running_time": "unbestimmt",
+            "name": "Förderung für Ladeinfrastruktur (bis zu 10 Ladepunkte) für Elektrofahrzeuge beantragen München",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen",
+                "Wohnungseigentümergemeinschaft"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Landeshauptstadt München",
+            "content": "___",
+            "gourl": "https://stadt.muenchen.de/service/info/foerderung-ladeinfrastruktur-fuer-elektrofahrzeuge-bis-10-ladepunkte/10215332/"
+        },
+        {
+            "id": 17,
+            "zip1": "80331",
+            "zip2": "85540",
+            "image_location": "F_BY",
+            "location": "München",
+            "running_time": "unbestimmt",
+            "name": "Förderprogramm „Laden in München“",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesministerium für Wirtschaft und Energie",
+            "content": "___",
+            "gourl": "https://stadt.muenchen.de/dam/jcr:ed0cbe34-2c9d-43d8-9cf5-56fb8eec3f90/produktinformationen_lim.pdf"
+        },
+        {
+            "id": 18,
+            "zip1": "80331",
+            "zip2": "85540",
+            "image_location": "F_BY",
+            "location": "München",
+            "running_time": "30.09.22",
+            "name": "Förderung Ladeinfrastruktur für Elektrofahrzeuge – mehr als 10 Ladepunkte",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Landeshauptstadt München",
+            "content": "___",
+            "gourl": "https://stadt.muenchen.de/service/info/sg-e-mobilitaet/10272908/"
+        },
+        {
+            "id": 19,
+            "zip1": "80331",
+            "zip2": "85540",
+            "image_location": "F_BY",
+            "location": "München",
+            "running_time": "31.12.21",
+            "name": "Förderprogramm „München emobil„",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen",
+                "Wohnungseigentümergemeinschaft"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Landeshauptstadt München",
+            "content": "___",
+            "gourl": "https://stadt.muenchen.de/infos/foerderprogramm-muenchen-elektromobilitaet.html"
+        },
+        {
+            "id": 20,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.25",
+            "name": "Umweltbonus: Förderung des Absatzes von elektrisch betriebenen Fahrzeugen",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug"
+            ],
+            "sponsor": "Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA)",
+            "content": "Elektro- und Brennstoffzellenfahrzeuge bis zu einem Nettolistenpreis von maximal 40.000€ werden bei Neuzulassung mit bis zu 9.000€ gefördert. Bis zu einem Nettolistenpreis von 65.000€ beträgt die Förderung 7.500€. Plug-In-Hybride bis zu einem Nettolistenpreis von 40.000€ werden mit 6.750€ gefördert und bei einem Nettolistenpreis von maximal 65.000€ sind es 5.625€ Förderung. BEV und FCEV als Zweitzulassung und einer Laufleitung von maximal 15.000km werden mit maximal 7.500€ gefördert; bei PHEV sind es 5.625€. Voraussetzung für die Förderung ist ein entsprechender Eintrag des Fahrzeugs auf der Liste für förderfähige Fahrzeuge des Bundesamts für Wirtschaft und Ausfuhrkontrolle. Das Fahrzeug muss mindestens für 6 Monate auf den Antragsteller zugelassen worden sein. Der Antrag kann erst nach dem Erwerb sowie der Zulassung des Fahrzeugs erfolgen.",
+            "gourl": "https://www.bafa.de/DE/Energie/Energieeffizienz/Elektromobilitaet/Neuen_Antrag_stellen/neuen_antrag_stellen.html"
+        },
+        {
+            "id": 21,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.25",
+            "name": "Förderrichtlinie Elektromobilität",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen",
+                "Wohnungseigentümergemeinschaft"
+            ],
+            "object": [
+                "Elektrofahrzeug",
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)",
+            "content": "___",
+            "gourl": "https://www.bmvi.de/SharedDocs/DE/Anlage/G/foerderrichtlinie-elektromobilitaet-12-2020.pdf?__blob=publicationFile"
+        },
+        {
+            "id": 22,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.21",
+            "name": "Anschaffung von Elektrobussen im öffentlichen Personennahverkehr",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesminsterium für Umwelt, Naturschutz und nukleare Sicherheit (BMU)",
+            "content": "___",
+            "gourl": "https://www.foerderdatenbank.de/Foerder-DB/Navigation/Foerderrecherche/suche.html?get=83fdb3654fb7aea8755674d5578fa309;views;document&doc=13707"
+        },
+        {
+            "id": 23,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "01.03.22",
+            "name": "Flottenaustauschprogramm Sozial & Mobil",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug"
+            ],
+            "sponsor": "Bundesminsterium für Umwelt, Naturschutz und nukleare Sicherheit (BMU)",
+            "content": "___",
+            "gourl": "https://www.erneuerbar-mobil.de/foerderprogramme/sozial&mobil"
+        },
+        {
+            "id": 24,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "18.01.22",
+            "name": "Förderung öffentlich zugänglicher Ladeinfrastruktur für Elektrofahrzeuge in Deutschland",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)",
+            "content": "___",
+            "gourl": "https://www.bmvi.de/SharedDocs/DE/Artikel/G/foerderrichtlinie-ladeinfrastruktur-elektrofahrzeuge.html"
+        },
+        {
+            "id": 25,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "unbestimmt",
+            "name": "Nicht öffentlich zugängliche Ladestationen für Elektrofahrzeuge – Unternehmen und Kommunen",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)",
+            "content": "___",
+            "gourl": "https://www.bmvi.de/SharedDocs/DE/Anlage/K/presse/128-scheuer-aufbau-gewerblicher-ladeinfrastruktur-startet-richtlinie.pdf?__blob=publicationFile"
+        },
+        {
+            "id": 26,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.21",
+            "name": "Ladeinfrastruktur vor Ort (KMU Förderung)",
+            "user": [
+                "Unternehmen"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Bundesministerium für Verkehr und digitale Infrastruktur (BMVI)",
+            "content": "___",
+            "gourl": "https://www.bmvi.de/SharedDocs/DE/Anlage/K/richtlinie-ladeinfrastruktur-vorort.pdf?__blob=publicationFile"
+        },
+        {
+            "id": 27,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.23",
+            "name": "Ladeinfrastruktur an Wohngebäuden",
+            "user": [
+                "Privatpersonen",
+                "Wohnungseigentümergemeinschaft"
+            ],
+            "object": [
+                "Ladeinfrastruktur"
+            ],
+            "sponsor": "Kreditanstalt für Wiederaufbau (KfW)",
+            "content": "___",
+            "gourl": "https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-(Inlandsf%C3%B6rderung)/PDF-Dokumente/6000004534_M_440_Ladestationen_Elektroautos.PDF"
+        },
+        {
+            "id": 28,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.30",
+            "name": "Steuervergünstigungen für reine Elektrofahrzeuge",
+            "user": [
+                "Privatpersonen",
+                "Unternehmen"
+            ],
+            "object": [
+                "Elektrofahrzeug"
+            ],
+            "sponsor": "Bundesministerium für Finanzen (BMF)",
+            "content": "___",
+            "gourl": "https://www.zoll.de/DE/Fachthemen/Steuern/Verkehrsteuern/Kraftfahrzeugsteuer/Steuerverguenstigung/Elektrofahrzeuge/elektrofahrzeuge_node.html"
+        },
+        {
+            "id": 28,
+            "zip1": "01067",
+            "zip2": "99998",
+            "image_location": "F_GER",
+            "location": "Deutschland",
+            "running_time": "31.12.30",
+            "name": "Steuervergünstigungen bei der privaten Nutzung eines Elektro-Dienstwagens",
+            "user": [
+                "Privatpersonen"
+            ],
+            "object": [
+                "Elektrofahrzeug"
+            ],
+            "sponsor": "Bundesministerium für Finanzen (BMF)",
+            "content": "___",
+            "gourl": "https://www.vlh.de/arbeiten-pendeln/dienstfahrten/elektroauto-und-steuer-das-muessen-sie-beachten.html"
         }
     ]
 }
