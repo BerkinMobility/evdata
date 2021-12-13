@@ -2,6 +2,7 @@
     "data": [
         {
             "id": 0,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQC 400 4MATIC",
             "price": 66069,
@@ -87,6 +88,7 @@
         },
         {
             "id": 1,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "i4 M50",
             "price": 69900,
@@ -172,6 +174,7 @@
         },
         {
             "id": 2,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Corsa-e",
             "price": 29000,
@@ -257,6 +260,7 @@
         },
         {
             "id": 3,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.5 GTX",
             "price": 53615,
@@ -342,6 +346,7 @@
         },
         {
             "id": 4,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.5 Pro Performance",
             "price": 47550,
@@ -427,6 +432,7 @@
         },
         {
             "id": 5,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.5 Pro",
             "price": 46515,
@@ -512,6 +518,7 @@
         },
         {
             "id": 6,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model 3",
             "price": 48260,
@@ -597,6 +604,7 @@
         },
         {
             "id": 7,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-Berlingo XL",
             "price": 41040,
@@ -682,6 +690,7 @@
         },
         {
             "id": 8,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-Berlingo M",
             "price": 36590,
@@ -767,6 +776,7 @@
         },
         {
             "id": 9,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Combo-e Life L2",
             "price": 42400,
@@ -852,6 +862,7 @@
         },
         {
             "id": 10,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Combo-e Life L1",
             "price": 38100,
@@ -937,6 +948,7 @@
         },
         {
             "id": 11,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQV 250 Extralang",
             "price": 68711,
@@ -1022,6 +1034,7 @@
         },
         {
             "id": 12,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan GTS Sport Turismo",
             "price": 132786,
@@ -1107,6 +1120,7 @@
         },
         {
             "id": 13,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan GTS",
             "price": 131834,
@@ -1192,6 +1206,7 @@
         },
         {
             "id": 14,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQB 300 4MATIC",
             "price": 55311,
@@ -1277,6 +1292,7 @@
         },
         {
             "id": 15,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQV 250 Lang",
             "price": 67818,
@@ -1362,6 +1378,7 @@
         },
         {
             "id": 16,
+            "available": "Aktuell verfügbar",
             "brand": "MG",
             "model": "ZS EV Maximal Reichweite",
             "price": 37990,
@@ -1447,6 +1464,7 @@
         },
         {
             "id": 17,
+            "available": "Aktuell verfügbar",
             "brand": "MG",
             "model": "ZS EV Standard Reichweite",
             "price": 33990,
@@ -1532,6 +1550,7 @@
         },
         {
             "id": 18,
+            "available": "Aktuell verfügbar",
             "brand": "Volvo",
             "model": "XC40 Recharge Pure Electric",
             "price": 48650,
@@ -1617,6 +1636,7 @@
         },
         {
             "id": 19,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQE 350",
             "price": 70000,
@@ -1702,6 +1722,7 @@
         },
         {
             "id": 20,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-AMG",
             "model": "EQS 53 4MATIC+",
             "price": 175000,
@@ -1787,6 +1808,7 @@
         },
         {
             "id": 21,
+            "available": "Aktuell verfügbar",
             "brand": "Renault",
             "model": "Megane E-Tech EV40 130hp",
             "price": 35000,
@@ -1872,6 +1894,7 @@
         },
         {
             "id": 22,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "iX3",
             "price": 67300,
@@ -1957,6 +1980,7 @@
         },
         {
             "id": 23,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.3 Pro Performance",
             "price": 36960,
@@ -2042,6 +2066,7 @@
         },
         {
             "id": 24,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.3 Pro",
             "price": 35460,
@@ -2127,6 +2152,7 @@
         },
         {
             "id": 25,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 Sportback e-tron 40",
             "price": 49500,
@@ -2212,6 +2238,7 @@
         },
         {
             "id": 26,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 e-tron 45 quattro",
             "price": 50900,
@@ -2297,6 +2324,7 @@
         },
         {
             "id": 27,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model 3 Maximale Reichweite",
             "price": 53560,
@@ -2382,6 +2410,7 @@
         },
         {
             "id": 28,
+            "available": "Aktuell verfügbar",
             "brand": "MG",
             "model": "Marvel R",
             "price": 42990,
@@ -2467,6 +2496,7 @@
         },
         {
             "id": 29,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Rifter L2 50kWh",
             "price": 42590,
@@ -2552,6 +2582,7 @@
         },
         {
             "id": 30,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Rifter L1 50kWh",
             "price": 37590,
@@ -2637,6 +2668,7 @@
         },
         {
             "id": 31,
+            "available": "Aktuell verfügbar",
             "brand": "Renault",
             "model": "Megane E-Tech EV60 220hp",
             "price": 40000,
@@ -2722,6 +2754,7 @@
         },
         {
             "id": 32,
+            "available": "Aktuell verfügbar",
             "brand": "Volvo",
             "model": "XC40 Recharge Twin Pure Electric",
             "price": 59250,
@@ -2807,6 +2840,7 @@
         },
         {
             "id": 33,
+            "available": "Aktuell verfügbar",
             "brand": "CUPRA",
             "model": "Born 170kW - 77kWh",
             "price": 43000,
@@ -2892,6 +2926,7 @@
         },
         {
             "id": 34,
+            "available": "Aktuell verfügbar",
             "brand": "CUPRA",
             "model": "Born 170kW - 58kWh",
             "price": 39000,
@@ -2977,6 +3012,7 @@
         },
         {
             "id": 35,
+            "available": "Aktuell verfügbar",
             "brand": "CUPRA",
             "model": "Born 150kW - 58kWh",
             "price": 37220,
@@ -3062,6 +3098,7 @@
         },
         {
             "id": 36,
+            "available": "Aktuell verfügbar",
             "brand": "Toyota",
             "model": "PROACE Verso Electric L2 75kWh",
             "price": 65385,
@@ -3147,6 +3184,7 @@
         },
         {
             "id": 37,
+            "available": "Aktuell verfügbar",
             "brand": "Toyota",
             "model": "PROACE Verso Electric L1 75kWh",
             "price": 64530,
@@ -3232,6 +3270,7 @@
         },
         {
             "id": 38,
+            "available": "Aktuell verfügbar",
             "brand": "Toyota",
             "model": "PROACE Verso Electric L2 50 kWh",
             "price": 59385,
@@ -3317,6 +3356,7 @@
         },
         {
             "id": 39,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQA 350 4MATIC",
             "price": 56216,
@@ -3402,6 +3442,7 @@
         },
         {
             "id": 40,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQA 300 4MATIC",
             "price": 53538,
@@ -3487,6 +3528,7 @@
         },
         {
             "id": 41,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.4 GTX",
             "price": 50415,
@@ -3572,6 +3614,7 @@
         },
         {
             "id": 42,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQB 350 4MATIC",
             "price": 62000,
@@ -3657,6 +3700,7 @@
         },
         {
             "id": 43,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 Sportback e-tron 50 quattro",
             "price": 55600,
@@ -3742,6 +3786,7 @@
         },
         {
             "id": 44,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 e-tron 50 quattro",
             "price": 53600,
@@ -3827,6 +3872,7 @@
         },
         {
             "id": 45,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 e-tron 40",
             "price": 47500,
@@ -3912,6 +3958,7 @@
         },
         {
             "id": 46,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.4 Pure",
             "price": 36950,
@@ -3997,6 +4044,7 @@
         },
         {
             "id": 47,
+            "available": "Aktuell verfügbar",
             "brand": "Polestar",
             "model": "2 Long Range Dual Motor",
             "price": 52500,
@@ -4082,6 +4130,7 @@
         },
         {
             "id": 48,
+            "available": "Aktuell verfügbar",
             "brand": "Polestar",
             "model": "2 Long Range Single Motor",
             "price": 49500,
@@ -4167,6 +4216,7 @@
         },
         {
             "id": 49,
+            "available": "Aktuell verfügbar",
             "brand": "Polestar",
             "model": "2 Standard Range Single Motor",
             "price": 46500,
@@ -4252,6 +4302,7 @@
         },
         {
             "id": 50,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQS 580 4MATIC",
             "price": 135529,
@@ -4337,6 +4388,7 @@
         },
         {
             "id": 51,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQS 450+",
             "price": 106374,
@@ -4422,6 +4474,7 @@
         },
         {
             "id": 52,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "EV6 77kWh AWD",
             "price": 52890,
@@ -4507,6 +4560,7 @@
         },
         {
             "id": 53,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "EV6 77kWh RWD",
             "price": 48990,
@@ -4592,6 +4646,7 @@
         },
         {
             "id": 54,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "EV6 58kWh RWD",
             "price": 44990,
@@ -4677,6 +4732,7 @@
         },
         {
             "id": 55,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "IONIQ 5 72.6kWh Allrad",
             "price": 48900,
@@ -4762,6 +4818,7 @@
         },
         {
             "id": 56,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "IONIQ 5 72.6kWh",
             "price": 45100,
@@ -4847,6 +4904,7 @@
         },
         {
             "id": 57,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "IONIQ 5 58 kWh Allrad",
             "price": 45700,
@@ -4932,6 +4990,7 @@
         },
         {
             "id": 58,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "IONIQ 5 58kWh",
             "price": 41900,
@@ -5017,6 +5076,7 @@
         },
         {
             "id": 59,
+            "available": "Aktuell verfügbar",
             "brand": "MG",
             "model": "Marvel R Performance",
             "price": 50990,
@@ -5102,6 +5162,7 @@
         },
         {
             "id": 60,
+            "available": "Aktuell verfügbar",
             "brand": "MG",
             "model": "MG5 Electric",
             "price": 30000,
@@ -5187,6 +5248,7 @@
         },
         {
             "id": 61,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "iX xDrive 50",
             "price": 98000,
@@ -5272,6 +5334,7 @@
         },
         {
             "id": 62,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "iX xDrive 40",
             "price": 77300,
@@ -5357,6 +5420,7 @@
         },
         {
             "id": 63,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "EV6 GT",
             "price": 65990,
@@ -5442,6 +5506,7 @@
         },
         {
             "id": 64,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan Turbo S Cross Turismo",
             "price": 187746,
@@ -5527,6 +5592,7 @@
         },
         {
             "id": 65,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan Turbo Cross Turismo",
             "price": 154444,
@@ -5612,6 +5678,7 @@
         },
         {
             "id": 66,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan 4S Cross Turismo",
             "price": 111842,
@@ -5697,6 +5764,7 @@
         },
         {
             "id": 67,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "Kona Elektro 64kWh",
             "price": 41850,
@@ -5782,6 +5850,7 @@
         },
         {
             "id": 68,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "Kona Elektro 39kWh",
             "price": 35650,
@@ -5867,6 +5936,7 @@
         },
         {
             "id": 69,
+            "available": "Aktuell verfügbar",
             "brand": "Volvo",
             "model": "C40 Recharge",
             "price": 62050,
@@ -5952,6 +6022,7 @@
         },
         {
             "id": 70,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron GT quattro",
             "price": 99800,
@@ -6037,6 +6108,7 @@
         },
         {
             "id": 71,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.4 Pure Performance",
             "price": 38450,
@@ -6122,6 +6194,7 @@
         },
         {
             "id": 72,
+            "available": "Aktuell verfügbar",
             "brand": "Mini",
             "model": "Electric Cooper SE",
             "price": 32500,
@@ -6207,6 +6280,7 @@
         },
         {
             "id": 73,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model X Plaid",
             "price": 116990,
@@ -6292,6 +6366,7 @@
         },
         {
             "id": 74,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model X Maximale Reichweite",
             "price": 105990,
@@ -6377,6 +6452,7 @@
         },
         {
             "id": 75,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model S Plaid",
             "price": 126990,
@@ -6462,6 +6538,7 @@
         },
         {
             "id": 76,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model S Maximale Reichweite",
             "price": 96990,
@@ -6547,6 +6624,7 @@
         },
         {
             "id": 77,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan Plus",
             "price": 89244,
@@ -6632,6 +6710,7 @@
         },
         {
             "id": 78,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan",
             "price": 83520,
@@ -6717,6 +6796,7 @@
         },
         {
             "id": 79,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron Sportback 55 quattro",
             "price": 83750,
@@ -6802,6 +6882,7 @@
         },
         {
             "id": 80,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron 55 quattro",
             "price": 81500,
@@ -6887,6 +6968,7 @@
         },
         {
             "id": 81,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Traveller L3 75kWh",
             "price": 58230,
@@ -6972,6 +7054,7 @@
         },
         {
             "id": 82,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Traveller L2 75kWh",
             "price": 57440,
@@ -7057,6 +7140,7 @@
         },
         {
             "id": 83,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Traveller L3 50kWh",
             "price": 56690,
@@ -7142,6 +7226,7 @@
         },
         {
             "id": 84,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Traveller L2 50kWh",
             "price": 55900,
@@ -7227,6 +7312,7 @@
         },
         {
             "id": 85,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Traveller L1 50kWh",
             "price": 50880,
@@ -7312,6 +7398,7 @@
         },
         {
             "id": 86,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Zafira-e Life L 75kWh",
             "price": 60625,
@@ -7397,6 +7484,7 @@
         },
         {
             "id": 87,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Zafira-e Life M 75kWh",
             "price": 59800,
@@ -7482,6 +7570,7 @@
         },
         {
             "id": 88,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Zafira-e Life L 50kWh",
             "price": 54625,
@@ -7567,6 +7656,7 @@
         },
         {
             "id": 89,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Zafira-e Life M 50kWh",
             "price": 53800,
@@ -7652,6 +7742,7 @@
         },
         {
             "id": 90,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Zafira-e Life S 50kWh",
             "price": 56700,
@@ -7737,6 +7828,7 @@
         },
         {
             "id": 91,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-SpaceTourer XL 75kWh",
             "price": 58230,
@@ -7822,6 +7914,7 @@
         },
         {
             "id": 92,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-SpaceTourer M 75kWh",
             "price": 57440,
@@ -7907,6 +8000,7 @@
         },
         {
             "id": 93,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-SpaceTourer XL 50kWh",
             "price": 52230,
@@ -7992,6 +8086,7 @@
         },
         {
             "id": 94,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-SpaceTourer M 50kWh",
             "price": 51440,
@@ -8077,6 +8172,7 @@
         },
         {
             "id": 95,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-SpaceTourer XS 50 kWh",
             "price": 50880,
@@ -8162,6 +8258,7 @@
         },
         {
             "id": 96,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "e-Niro 39kWh",
             "price": 35290,
@@ -8247,6 +8344,7 @@
         },
         {
             "id": 97,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "e-Niro 64kWh",
             "price": 39090,
@@ -8332,6 +8430,7 @@
         },
         {
             "id": 98,
+            "available": "Aktuell verfügbar",
             "brand": "Fiat",
             "model": "500 3+1",
             "price": 29560,
@@ -8417,6 +8516,7 @@
         },
         {
             "id": 99,
+            "available": "Aktuell verfügbar",
             "brand": "Fiat",
             "model": "500 Limousine 24kWh",
             "price": 23560,
@@ -8502,6 +8602,7 @@
         },
         {
             "id": 100,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model 3 Performance",
             "price": 58560,
@@ -8587,6 +8688,7 @@
         },
         {
             "id": 101,
+            "available": "Aktuell verfügbar",
             "brand": "Dacia",
             "model": "Spring Electric",
             "price": 20490,
@@ -8672,6 +8774,7 @@
         },
         {
             "id": 102,
+            "available": "Aktuell verfügbar",
             "brand": "Lucid",
             "model": "Air Pure",
             "price": 80000,
@@ -8757,6 +8860,7 @@
         },
         {
             "id": 103,
+            "available": "Aktuell verfügbar",
             "brand": "Lucid",
             "model": "Air Touring",
             "price": 95000,
@@ -8842,6 +8946,7 @@
         },
         {
             "id": 104,
+            "available": "Aktuell verfügbar",
             "brand": "Lucid",
             "model": "Air Grand Touring",
             "price": 140000,
@@ -8927,6 +9032,7 @@
         },
         {
             "id": 105,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQV 300 Extralang",
             "price": 72281,
@@ -9012,6 +9118,7 @@
         },
         {
             "id": 106,
+            "available": "Aktuell verfügbar",
             "brand": "Volkswagen",
             "model": "ID.4 Pro Performance",
             "price": 44450,
@@ -9097,6 +9204,7 @@
         },
         {
             "id": 107,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Ariya e-4ORCE 87kWh Performance",
             "price": 60000,
@@ -9182,6 +9290,7 @@
         },
         {
             "id": 108,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Ariya e-4ORCE 87kWh",
             "price": 55000,
@@ -9267,6 +9376,7 @@
         },
         {
             "id": 109,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Airya e-4ORCE 63kWh",
             "price": 45000,
@@ -9352,6 +9462,7 @@
         },
         {
             "id": 110,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Ariya 87kWh",
             "price": 50000,
@@ -9437,6 +9548,7 @@
         },
         {
             "id": 111,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Ariya 63kWh",
             "price": 42000,
@@ -9522,6 +9634,7 @@
         },
         {
             "id": 112,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 Sportback e-tron 35",
             "price": 43900,
@@ -9607,6 +9720,7 @@
         },
         {
             "id": 113,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "e-Soul 39kWh",
             "price": 33990,
@@ -9692,6 +9806,7 @@
         },
         {
             "id": 114,
+            "available": "Aktuell verfügbar",
             "brand": "Kia",
             "model": "e-Soul 64kWh",
             "price": 37790,
@@ -9777,6 +9892,7 @@
         },
         {
             "id": 115,
+            "available": "Aktuell verfügbar",
             "brand": "Jaguar",
             "model": "I-Pace EV400",
             "price": 77300,
@@ -9862,6 +9978,7 @@
         },
         {
             "id": 116,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-C4",
             "price": 34640,
@@ -9947,6 +10064,7 @@
         },
         {
             "id": 117,
+            "available": "Aktuell verfügbar",
             "brand": "Fiat",
             "model": "500 Limousine 42kWh",
             "price": 27560,
@@ -10032,6 +10150,7 @@
         },
         {
             "id": 118,
+            "available": "Aktuell verfügbar",
             "brand": "Skoda",
             "model": "Enyaq iV RS",
             "price": 50000,
@@ -10117,6 +10236,7 @@
         },
         {
             "id": 119,
+            "available": "Aktuell verfügbar",
             "brand": "Skoda",
             "model": "Enyaq iV 80x",
             "price": 47000,
@@ -10202,6 +10322,7 @@
         },
         {
             "id": 120,
+            "available": "Aktuell verfügbar",
             "brand": "Skoda",
             "model": "Enyaq iV 80",
             "price": 43950,
@@ -10287,6 +10408,7 @@
         },
         {
             "id": 121,
+            "available": "Aktuell verfügbar",
             "brand": "Skoda",
             "model": "Enyaq iV 60",
             "price": 38850,
@@ -10372,6 +10494,7 @@
         },
         {
             "id": 122,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Mokka-e",
             "price": 34110,
@@ -10457,6 +10580,7 @@
         },
         {
             "id": 123,
+            "available": "Aktuell verfügbar",
             "brand": "Fiat",
             "model": "500 Cabrio",
             "price": 30560,
@@ -10542,6 +10666,7 @@
         },
         {
             "id": 124,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron S Sportback",
             "price": 96050,
@@ -10627,6 +10752,7 @@
         },
         {
             "id": 125,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron S",
             "price": 93800,
@@ -10712,6 +10838,7 @@
         },
         {
             "id": 126,
+            "available": "Aktuell verfügbar",
             "brand": "Aiways",
             "model": "U5",
             "price": 35993,
@@ -10797,6 +10924,7 @@
         },
         {
             "id": 127,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "i4 eDrive40",
             "price": 58300,
@@ -10882,6 +11010,7 @@
         },
         {
             "id": 128,
+            "available": "Aktuell verfügbar",
             "brand": "Lexus",
             "model": "UX 300e",
             "price": 47550,
@@ -10967,6 +11096,7 @@
         },
         {
             "id": 129,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron Sportback 50 quattro",
             "price": 71350,
@@ -11052,6 +11182,7 @@
         },
         {
             "id": 130,
+            "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E GT",
             "price": 72900,
@@ -11137,6 +11268,7 @@
         },
         {
             "id": 131,
+            "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E AWD Extended Range",
             "price": 63700,
@@ -11222,6 +11354,7 @@
         },
         {
             "id": 132,
+            "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E AWD Standard Range",
             "price": 54750,
@@ -11307,6 +11440,7 @@
         },
         {
             "id": 133,
+            "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E Extended Range",
             "price": 54475,
@@ -11392,6 +11526,7 @@
         },
         {
             "id": 134,
+            "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E Standard Range",
             "price": 47500,
@@ -11477,6 +11612,7 @@
         },
         {
             "id": 135,
+            "available": "Aktuell verfügbar",
             "brand": "Mazda",
             "model": "MX-30",
             "price": 34490,
@@ -11562,6 +11698,7 @@
         },
         {
             "id": 136,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes",
             "model": "EQV 300 Lang",
             "price": 71388,
@@ -11647,6 +11784,7 @@
         },
         {
             "id": 137,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan 4S Plus",
             "price": 113008,
@@ -11732,6 +11870,7 @@
         },
         {
             "id": 138,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan 4S",
             "price": 106487,
@@ -11817,6 +11956,7 @@
         },
         {
             "id": 139,
+            "available": "Aktuell verfügbar",
             "brand": "Renault",
             "model": "Zoe R110 Z.E.40",
             "price": 29990,
@@ -11902,6 +12042,7 @@
         },
         {
             "id": 140,
+            "available": "Aktuell verfügbar",
             "brand": "Honda",
             "model": "e Advance",
             "price": 38000,
@@ -11987,6 +12128,7 @@
         },
         {
             "id": 141,
+            "available": "Aktuell verfügbar",
             "brand": "Smart",
             "model": "EQ forfour",
             "price": 19120,
@@ -12072,6 +12214,7 @@
         },
         {
             "id": 142,
+            "available": "Aktuell verfügbar",
             "brand": "Smart",
             "model": "EQ fortwo cabrio",
             "price": 21720,
@@ -12157,6 +12300,7 @@
         },
         {
             "id": 143,
+            "available": "Aktuell verfügbar",
             "brand": "Smart",
             "model": "EQ fortwo",
             "price": 18460,
@@ -12242,6 +12386,7 @@
         },
         {
             "id": 144,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan Turbo",
             "price": 153016,
@@ -12327,6 +12472,7 @@
         },
         {
             "id": 145,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron 50 quattro",
             "price": 69100,
@@ -12412,6 +12558,7 @@
         },
         {
             "id": 146,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-2008",
             "price": 35450,
@@ -12497,6 +12644,7 @@
         },
         {
             "id": 147,
+            "available": "Aktuell verfügbar",
             "brand": "Renault",
             "model": "Zoe R135 Z.E.50",
             "price": 33990,
@@ -12582,6 +12730,7 @@
         },
         {
             "id": 148,
+            "available": "Aktuell verfügbar",
             "brand": "SEAT",
             "model": "Mii Electric",
             "price": 24650,
@@ -12667,6 +12816,7 @@
         },
         {
             "id": 149,
+            "available": "Aktuell verfügbar",
             "brand": "Skoda",
             "model": "Enyaq iV 50",
             "price": 33800,
@@ -12752,6 +12902,7 @@
         },
         {
             "id": 150,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan 4 Cross Turismo",
             "price": 93635,
@@ -12837,6 +12988,7 @@
         },
         {
             "id": 151,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model Y Performance",
             "price": 66965,
@@ -12922,6 +13074,7 @@
         },
         {
             "id": 152,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model Y Maximale Reichweite",
             "price": 59965,
@@ -13007,6 +13160,7 @@
         },
         {
             "id": 153,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "Q4 e-tron 35",
             "price": 41900,
@@ -13092,6 +13246,7 @@
         },
         {
             "id": 154,
+            "available": "Aktuell verfügbar",
             "brand": "CUPRA",
             "model": "Born 110kW - 45kWh",
             "price": 32700,
@@ -13177,6 +13332,7 @@
         },
         {
             "id": 155,
+            "available": "Aktuell verfügbar",
             "brand": "Honda",
             "model": "e",
             "price": 33850,
@@ -13262,6 +13418,7 @@
         },
         {
             "id": 156,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-208",
             "price": 30450,
@@ -13347,6 +13504,7 @@
         },
         {
             "id": 157,
+            "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Roadster",
             "price": 215000,
@@ -13432,6 +13590,7 @@
         },
         {
             "id": 158,
+            "available": "Aktuell verfügbar",
             "brand": "Lightyear",
             "model": "One",
             "price": 149000,
@@ -13517,6 +13676,7 @@
         },
         {
             "id": 159,
+            "available": "Aktuell verfügbar",
             "brand": "Hyundai",
             "model": "IONIQ Elektro",
             "price": 35350,
@@ -13602,7 +13762,8 @@
         },
         {
             "id": 160,
-            "brand": "Ranault",
+            "available": "Aktuell verfügbar",
+            "brand": "Renault",
             "model": "Zoe R110 Z.E.50",
             "price": 31990,
             "body": "Steilheck",
@@ -13687,6 +13848,7 @@
         },
         {
             "id": 161,
+            "available": "Aktuell verfügbar",
             "brand": "Audi",
             "model": "e-tron GT RS",
             "price": 138200,
@@ -13772,6 +13934,7 @@
         },
         {
             "id": 162,
+            "available": "Aktuell verfügbar",
             "brand": "SonoMotors",
             "model": "Sion",
             "price": 28500,
@@ -13857,6 +14020,7 @@
         },
         {
             "id": 163,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "i3s 120Ah",
             "price": 42600,
@@ -13942,6 +14106,7 @@
         },
         {
             "id": 164,
+            "available": "Aktuell verfügbar",
             "brand": "DS",
             "model": "3 Crossback E-Tense",
             "price": 30040,
@@ -14027,6 +14192,7 @@
         },
         {
             "id": 165,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQA",
             "price": 47541,
@@ -14112,6 +14278,7 @@
         },
         {
             "id": 166,
+            "available": "Aktuell verfügbar",
             "brand": "BMW",
             "model": "i3 120Ah",
             "price": 39000,
@@ -14197,6 +14364,7 @@
         },
         {
             "id": 167,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Leaf e+",
             "price": 37550,
@@ -14282,6 +14450,7 @@
         },
         {
             "id": 168,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "e-NV200 Evalia",
             "price": 43730,
@@ -14367,6 +14536,7 @@
         },
         {
             "id": 169,
+            "available": "Aktuell verfügbar",
             "brand": "Porsche",
             "model": "Taycan Turbo S",
             "price": 186336,
@@ -14452,6 +14622,7 @@
         },
         {
             "id": 170,
+            "available": "Aktuell verfügbar",
             "brand": "Nissan",
             "model": "Leaf",
             "price": 29990,
@@ -14537,6 +14708,7 @@
         },
         {
             "id": 171,
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQS 350",
             "price": 97806,
@@ -14622,6 +14794,7 @@
         },
         {
             "id": 172,
+            "available": "Aktuell verfügbar",
             "brand": "Renault",
             "model": "Twingo",
             "price": 24790,
