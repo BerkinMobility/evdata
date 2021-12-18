@@ -177,11 +177,11 @@
             "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Corsa-e",
-            "price": 29000,
+            "price": 29900,
             "body": "Steilheck",
             "battery_size": 45.0,
-            "range": 275,
-            "consumption": 16.4,
+            "range": 285,
+            "consumption": 15.8,
             "engine_power": 100,
             "newton_meter": 260,
             "acceleration": 8.1,
@@ -213,47 +213,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 99.0,
+                "max_power": 101.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 99.0
+                        "power": 101.0
                     },
                     {
                         "percentage": 10,
-                        "power": 99.0
+                        "power": 101.0
                     },
                     {
                         "percentage": 20,
-                        "power": 74.0
+                        "power": 75.0
                     },
                     {
                         "percentage": 30,
-                        "power": 60.0
+                        "power": 61.0
                     },
                     {
                         "percentage": 40,
-                        "power": 55.0
+                        "power": 56.0
                     },
                     {
                         "percentage": 50,
-                        "power": 50.0
+                        "power": 51.0
                     },
                     {
                         "percentage": 60,
-                        "power": 50.0
+                        "power": 51.0
                     },
                     {
                         "percentage": 70,
-                        "power": 40.0
+                        "power": 41.0
                     },
                     {
                         "percentage": 80,
-                        "power": 25.0
+                        "power": 26.0
                     },
                     {
                         "percentage": 90,
-                        "power": 11.0
+                        "power": 11.1
                     }
                 ]
             }
@@ -9984,17 +9984,17 @@
             "price": 34640,
             "body": "Steilheck",
             "battery_size": 45.0,
-            "range": 250,
-            "consumption": 18.0,
+            "range": 265,
+            "consumption": 17.0,
             "engine_power": 100,
             "newton_meter": 260,
             "acceleration": 9.7,
             "speed": 150,
             "drive_train": "Front",
-            "weight": 1650,
+            "weight": 1636,
             "seats": 5,
             "trunk": 380,
-            "url": "https://ev-database.de/pkw/1286/Citroen-e-C4",
+            "url": "https://ev-database.de/pkw/1587/Citroen-e-C4",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -10017,47 +10017,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 99.0,
+                "max_power": 101.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 69.3
+                        "power": 70.7
                     },
                     {
                         "percentage": 10,
-                        "power": 84.2
+                        "power": 85.6
                     },
                     {
                         "percentage": 20,
-                        "power": 89.1
+                        "power": 90.9
                     },
                     {
                         "percentage": 30,
-                        "power": 94.1
+                        "power": 96.1
                     },
                     {
                         "percentage": 40,
-                        "power": 99.0
+                        "power": 101.0
                     },
                     {
                         "percentage": 50,
-                        "power": 99.0
+                        "power": 101.0
                     },
                     {
                         "percentage": 60,
-                        "power": 94.1
+                        "power": 96.1
                     },
                     {
                         "percentage": 70,
-                        "power": 79.2
+                        "power": 80.8
                     },
                     {
                         "percentage": 80,
-                        "power": 49.5
+                        "power": 50.5
                     },
                     {
                         "percentage": 90,
-                        "power": 19.8
+                        "power": 20.2
                     }
                 ]
             }
@@ -10504,13 +10504,13 @@
             "consumption": 17.6,
             "engine_power": 100,
             "newton_meter": 260,
-            "acceleration": 8.5,
+            "acceleration": 9.2,
             "speed": 150,
             "drive_train": "Front",
-            "weight": 1550,
+            "weight": 1598,
             "seats": 5,
-            "trunk": 1,
-            "url": "https://ev-database.de/pkw/1278/Opel-Mokka-e",
+            "trunk": 310,
+            "url": "https://ev-database.de/pkw/1586/Opel-Mokka-e",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -10533,47 +10533,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 99.0,
+                "max_power": 101.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 69.3
+                        "power": 70.9
                     },
                     {
                         "percentage": 10,
-                        "power": 98.2
+                        "power": 98.9
                     },
                     {
                         "percentage": 20,
-                        "power": 97.1
+                        "power": 97.6
                     },
                     {
                         "percentage": 30,
-                        "power": 76.1
+                        "power": 76.7
                     },
                     {
                         "percentage": 40,
-                        "power": 76.4
+                        "power": 76.9
                     },
                     {
                         "percentage": 50,
-                        "power": 75.8
+                        "power": 76.3
                     },
                     {
                         "percentage": 60,
-                        "power": 61.5
+                        "power": 61.7
                     },
                     {
                         "percentage": 70,
-                        "power": 55.2
+                        "power": 55.8
                     },
                     {
                         "percentage": 80,
-                        "power": 27.5
+                        "power": 27.9
                     },
                     {
                         "percentage": 90,
-                        "power": 19.8
+                        "power": 20.1
                     }
                 ]
             }
@@ -12564,17 +12564,17 @@
             "price": 35450,
             "body": "SUV",
             "battery_size": 45.0,
-            "range": 250,
-            "consumption": 18.0,
+            "range": 255,
+            "consumption": 17.6,
             "engine_power": 100,
             "newton_meter": 260,
             "acceleration": 8.5,
             "speed": 150,
             "drive_train": "Front",
-            "weight": 1548,
+            "weight": 1623,
             "seats": 5,
             "trunk": 434,
-            "url": "https://ev-database.de/pkw/1206/Peugeot-e-2008",
+            "url": "https://ev-database.de/pkw/1584/Peugeot-e-2008",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -13421,11 +13421,11 @@
             "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-208",
-            "price": 30450,
+            "price": 31950,
             "body": "Steilheck",
             "battery_size": 45.0,
-            "range": 275,
-            "consumption": 16.4,
+            "range": 285,
+            "consumption": 15.8,
             "engine_power": 100,
             "newton_meter": 260,
             "acceleration": 8.1,
@@ -13434,7 +13434,7 @@
             "weight": 1530,
             "seats": 5,
             "trunk": 265,
-            "url": "https://ev-database.de/pkw/1168/Peugeot-e-208",
+            "url": "https://ev-database.de/pkw/1583/Peugeot-e-208",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -14109,11 +14109,11 @@
             "available": "Aktuell verfügbar",
             "brand": "DS",
             "model": "3 Crossback E-Tense",
-            "price": 30040,
+            "price": 39440,
             "body": "SUV",
             "battery_size": 45.0,
-            "range": 250,
-            "consumption": 18.0,
+            "range": 260,
+            "consumption": 17.3,
             "engine_power": 100,
             "newton_meter": 260,
             "acceleration": 8.7,
@@ -14122,7 +14122,7 @@
             "weight": 1598,
             "seats": 5,
             "trunk": 350,
-            "url": "https://ev-database.de/pkw/1148/DS-3-Crossback-E-Tense",
+            "url": "https://ev-database.de/pkw/1582/DS-3-Crossback-E-Tense",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -14874,6 +14874,264 @@
                     {
                         "percentage": 90,
                         "power": 4.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 173,
+            "available": "Ab 2022",
+            "brand": "Subaru",
+            "model": "Solterra AWD",
+            "price": 50000,
+            "body": "SUV",
+            "battery_size": 71.4,
+            "range": 375,
+            "consumption": 19.0,
+            "engine_power": 160,
+            "newton_meter": 336,
+            "acceleration": 7.7,
+            "speed": 160,
+            "drive_train": "Allrad",
+            "weight": 2020,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1567/Subaru-Solterra-AWD",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 130.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 139.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 149.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 140.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 137.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 90.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 57.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 32.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 174,
+            "available": "Ab 2022",
+            "brand": "Toyota",
+            "model": "bZ4X AWD",
+            "price": 50000,
+            "body": "SUV",
+            "battery_size": 71.4,
+            "range": 375,
+            "consumption": 19.0,
+            "engine_power": 160,
+            "newton_meter": 336,
+            "acceleration": 7.7,
+            "speed": 160,
+            "drive_train": "Allrad",
+            "weight": 2005,
+            "seats": 5,
+            "trunk": 452,
+            "url": "https://ev-database.de/pkw/1565/Toyota-bZ4X-AWD",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 130.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 139.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 149.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 140.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 137.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 90.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 57.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 32.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 175,
+            "available": "Ab 2022",
+            "brand": "Toyota",
+            "model": "bZ4X FWD",
+            "price": 45000,
+            "body": "SUV",
+            "battery_size": 71.4,
+            "range": 380,
+            "consumption": 18.8,
+            "engine_power": 150,
+            "newton_meter": 265,
+            "acceleration": 8.4,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 1920,
+            "seats": 5,
+            "trunk": 452,
+            "url": "https://ev-database.de/pkw/1564/Toyota-bZ4X-FWD",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 130.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 139.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 149.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 140.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 137.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 90.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 57.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 32.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.4
                     }
                 ]
             }
