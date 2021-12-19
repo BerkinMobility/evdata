@@ -260,7 +260,7 @@
         },
         {
             "id": 3,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Volkswagen",
             "model": "ID.5 GTX",
             "price": 53615,
@@ -346,7 +346,7 @@
         },
         {
             "id": 4,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Volkswagen",
             "model": "ID.5 Pro Performance",
             "price": 47550,
@@ -432,7 +432,7 @@
         },
         {
             "id": 5,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Volkswagen",
             "model": "ID.5 Pro",
             "price": 46515,
@@ -1034,7 +1034,7 @@
         },
         {
             "id": 12,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Porsche",
             "model": "Taycan GTS Sport Turismo",
             "price": 132786,
@@ -1120,7 +1120,7 @@
         },
         {
             "id": 13,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Porsche",
             "model": "Taycan GTS",
             "price": 131834,
@@ -1636,7 +1636,7 @@
         },
         {
             "id": 19,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Mercedes-Benz",
             "model": "EQE 350",
             "price": 70000,
@@ -1722,7 +1722,7 @@
         },
         {
             "id": 20,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Mercedes-AMG",
             "model": "EQS 53 4MATIC+",
             "price": 175000,
@@ -1808,7 +1808,7 @@
         },
         {
             "id": 21,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Renault",
             "model": "Megane E-Tech EV40 130hp",
             "price": 35000,
@@ -2668,7 +2668,7 @@
         },
         {
             "id": 31,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Renault",
             "model": "Megane E-Tech EV60 220hp",
             "price": 40000,
@@ -5162,7 +5162,7 @@
         },
         {
             "id": 60,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "MG",
             "model": "MG5 Electric",
             "price": 30000,
@@ -5420,7 +5420,7 @@
         },
         {
             "id": 63,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Kia",
             "model": "EV6 GT",
             "price": 65990,
@@ -6280,7 +6280,7 @@
         },
         {
             "id": 73,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Tesla",
             "model": "Model X Plaid",
             "price": 116990,
@@ -6452,7 +6452,7 @@
         },
         {
             "id": 75,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Tesla",
             "model": "Model S Plaid",
             "price": 126990,
@@ -6538,7 +6538,7 @@
         },
         {
             "id": 76,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Tesla",
             "model": "Model S Maximale Reichweite",
             "price": 96990,
@@ -8774,7 +8774,7 @@
         },
         {
             "id": 102,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Lucid",
             "model": "Air Pure",
             "price": 80000,
@@ -8860,7 +8860,7 @@
         },
         {
             "id": 103,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Lucid",
             "model": "Air Touring",
             "price": 95000,
@@ -8946,7 +8946,7 @@
         },
         {
             "id": 104,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Lucid",
             "model": "Air Grand Touring",
             "price": 140000,
@@ -9204,7 +9204,7 @@
         },
         {
             "id": 107,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Nissan",
             "model": "Ariya e-4ORCE 87kWh Performance",
             "price": 60000,
@@ -9290,7 +9290,7 @@
         },
         {
             "id": 108,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Nissan",
             "model": "Ariya e-4ORCE 87kWh",
             "price": 55000,
@@ -9376,7 +9376,7 @@
         },
         {
             "id": 109,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Nissan",
             "model": "Airya e-4ORCE 63kWh",
             "price": 45000,
@@ -9462,7 +9462,7 @@
         },
         {
             "id": 110,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Nissan",
             "model": "Ariya 87kWh",
             "price": 50000,
@@ -9548,7 +9548,7 @@
         },
         {
             "id": 111,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Nissan",
             "model": "Ariya 63kWh",
             "price": 42000,
@@ -13246,7 +13246,7 @@
         },
         {
             "id": 154,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "CUPRA",
             "model": "Born 110kW - 45kWh",
             "price": 32700,
@@ -13504,7 +13504,7 @@
         },
         {
             "id": 157,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2023",
             "brand": "Tesla",
             "model": "Roadster",
             "price": 215000,
@@ -13590,7 +13590,7 @@
         },
         {
             "id": 158,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2022",
             "brand": "Lightyear",
             "model": "One",
             "price": 149000,
@@ -13934,7 +13934,7 @@
         },
         {
             "id": 162,
-            "available": "Aktuell verfügbar",
+            "available": "Ab 2023",
             "brand": "SonoMotors",
             "model": "Sion",
             "price": 28500,
