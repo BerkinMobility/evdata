@@ -8808,7 +8808,7 @@
                     "43": 22.0
                 }
             },
-            "exclusive_charging_curve": false,
+            "exclusive_charging_curve": true,
             "dc_charging": {
                 "ports": [
                     "CCS"
@@ -8817,43 +8817,43 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 210.0
+                        "power": 220.0
                     },
                     {
                         "percentage": 10,
-                        "power": 255.0
+                        "power": 278.0
                     },
                     {
                         "percentage": 20,
-                        "power": 270.0
+                        "power": 254.0
                     },
                     {
                         "percentage": 30,
-                        "power": 285.0
+                        "power": 226.7
                     },
                     {
                         "percentage": 40,
-                        "power": 300.0
+                        "power": 181.3
                     },
                     {
                         "percentage": 50,
-                        "power": 300.0
-                    },
-                    {
-                        "percentage": 60,
-                        "power": 285.0
-                    },
-                    {
-                        "percentage": 70,
-                        "power": 240.0
-                    },
-                    {
-                        "percentage": 80,
                         "power": 150.0
                     },
                     {
+                        "percentage": 60,
+                        "power": 113.5
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 88.7
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 53.5
+                    },
+                    {
                         "percentage": 90,
-                        "power": 60.0
+                        "power": 26.6
                     }
                 ]
             }
@@ -8894,7 +8894,7 @@
                     "43": 22.0
                 }
             },
-            "exclusive_charging_curve": false,
+            "exclusive_charging_curve": true,
             "dc_charging": {
                 "ports": [
                     "CCS"
@@ -8903,43 +8903,43 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 210.0
+                        "power": 220.0
                     },
                     {
                         "percentage": 10,
-                        "power": 255.0
+                        "power": 278.0
                     },
                     {
                         "percentage": 20,
-                        "power": 270.0
+                        "power": 254.0
                     },
                     {
                         "percentage": 30,
-                        "power": 285.0
+                        "power": 226.7
                     },
                     {
                         "percentage": 40,
-                        "power": 300.0
+                        "power": 181.3
                     },
                     {
                         "percentage": 50,
-                        "power": 300.0
-                    },
-                    {
-                        "percentage": 60,
-                        "power": 285.0
-                    },
-                    {
-                        "percentage": 70,
-                        "power": 240.0
-                    },
-                    {
-                        "percentage": 80,
                         "power": 150.0
                     },
                     {
+                        "percentage": 60,
+                        "power": 113.5
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 88.7
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 53.5
+                    },
+                    {
                         "percentage": 90,
-                        "power": 60.0
+                        "power": 26.6
                     }
                 ]
             }
@@ -8980,7 +8980,7 @@
                     "43": 22.0
                 }
             },
-            "exclusive_charging_curve": false,
+            "exclusive_charging_curve": true,
             "dc_charging": {
                 "ports": [
                     "CCS"
@@ -8989,43 +8989,43 @@
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 210.0
+                        "power": 220.0
                     },
                     {
                         "percentage": 10,
-                        "power": 255.0
+                        "power": 278.0
                     },
                     {
                         "percentage": 20,
-                        "power": 270.0
+                        "power": 254.0
                     },
                     {
                         "percentage": 30,
-                        "power": 285.0
+                        "power": 226.7
                     },
                     {
                         "percentage": 40,
-                        "power": 300.0
+                        "power": 181.3
                     },
                     {
                         "percentage": 50,
-                        "power": 300.0
-                    },
-                    {
-                        "percentage": 60,
-                        "power": 285.0
-                    },
-                    {
-                        "percentage": 70,
-                        "power": 240.0
-                    },
-                    {
-                        "percentage": 80,
                         "power": 150.0
                     },
                     {
+                        "percentage": 60,
+                        "power": 113.5
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 88.7
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 53.5
+                    },
+                    {
                         "percentage": 90,
-                        "power": 60.0
+                        "power": 26.6
                     }
                 ]
             }
@@ -11713,7 +11713,7 @@
             "drive_train": "Front",
             "weight": 2635,
             "seats": 7,
-            "trunk": 1111111,
+            "trunk": 1030,
             "url": "https://ev-database.de/pkw/1240/Mercedes-EQV-300-Lang",
             "ac_charging": {
                 "ports": [
