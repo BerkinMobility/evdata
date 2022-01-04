@@ -260,7 +260,7 @@
         },
         {
             "id": 3,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Volkswagen",
             "model": "ID.5 GTX",
             "price": 53615,
@@ -346,7 +346,7 @@
         },
         {
             "id": 4,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Volkswagen",
             "model": "ID.5 Pro Performance",
             "price": 47550,
@@ -432,7 +432,7 @@
         },
         {
             "id": 5,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Volkswagen",
             "model": "ID.5 Pro",
             "price": 46515,
@@ -1034,7 +1034,7 @@
         },
         {
             "id": 12,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Porsche",
             "model": "Taycan GTS Sport Turismo",
             "price": 132786,
@@ -1120,7 +1120,7 @@
         },
         {
             "id": 13,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Porsche",
             "model": "Taycan GTS",
             "price": 131834,
@@ -1636,7 +1636,7 @@
         },
         {
             "id": 19,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQE 350",
             "price": 70000,
@@ -1722,7 +1722,7 @@
         },
         {
             "id": 20,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Mercedes-AMG",
             "model": "EQS 53 4MATIC+",
             "price": 175000,
@@ -1808,7 +1808,7 @@
         },
         {
             "id": 21,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Renault",
             "model": "Megane E-Tech EV40 130hp",
             "price": 35000,
@@ -2668,7 +2668,7 @@
         },
         {
             "id": 31,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Renault",
             "model": "Megane E-Tech EV60 220hp",
             "price": 40000,
@@ -5162,7 +5162,7 @@
         },
         {
             "id": 60,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "MG",
             "model": "MG5 Electric",
             "price": 30000,
@@ -5420,7 +5420,7 @@
         },
         {
             "id": 63,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Kia",
             "model": "EV6 GT",
             "price": 65990,
@@ -6280,7 +6280,7 @@
         },
         {
             "id": 73,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Tesla",
             "model": "Model X Plaid",
             "price": 116990,
@@ -6452,7 +6452,7 @@
         },
         {
             "id": 75,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Tesla",
             "model": "Model S Plaid",
             "price": 126990,
@@ -6538,7 +6538,7 @@
         },
         {
             "id": 76,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Tesla",
             "model": "Model S Maximale Reichweite",
             "price": 96990,
@@ -8445,7 +8445,7 @@
             "drive_train": "Front",
             "weight": 1500,
             "seats": 4,
-            "trunk": 1,
+            "trunk": 185,
             "url": "https://ev-database.de/pkw/1328/Fiat-500-3plus1",
             "ac_charging": {
                 "ports": [
@@ -8525,13 +8525,13 @@
             "range": 165,
             "consumption": 14.4,
             "engine_power": 70,
-            "newton_meter": 1,
+            "newton_meter": 185,
             "acceleration": 9.5,
             "speed": 135,
             "drive_train": "Front",
             "weight": 1350,
             "seats": 4,
-            "trunk": 1,
+            "trunk": 185,
             "url": "https://ev-database.de/pkw/1327/Fiat-500-Limousine-24kWh",
             "ac_charging": {
                 "ports": [
@@ -8774,7 +8774,7 @@
         },
         {
             "id": 102,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Lucid",
             "model": "Air Pure",
             "price": 80000,
@@ -8860,7 +8860,7 @@
         },
         {
             "id": 103,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Lucid",
             "model": "Air Touring",
             "price": 95000,
@@ -8946,7 +8946,7 @@
         },
         {
             "id": 104,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Lucid",
             "model": "Air Grand Touring",
             "price": 140000,
@@ -9204,7 +9204,7 @@
         },
         {
             "id": 107,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Nissan",
             "model": "Ariya e-4ORCE 87kWh Performance",
             "price": 60000,
@@ -9290,7 +9290,7 @@
         },
         {
             "id": 108,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Nissan",
             "model": "Ariya e-4ORCE 87kWh",
             "price": 55000,
@@ -9376,7 +9376,7 @@
         },
         {
             "id": 109,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Nissan",
             "model": "Airya e-4ORCE 63kWh",
             "price": 45000,
@@ -9462,7 +9462,7 @@
         },
         {
             "id": 110,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Nissan",
             "model": "Ariya 87kWh",
             "price": 50000,
@@ -9548,7 +9548,7 @@
         },
         {
             "id": 111,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Nissan",
             "model": "Ariya 63kWh",
             "price": 42000,
@@ -10079,7 +10079,7 @@
             "drive_train": "Front",
             "weight": 1465,
             "seats": 4,
-            "trunk": 1,
+            "trunk": 185,
             "url": "https://ev-database.de/pkw/1285/Fiat-500-Limousine-42kWh",
             "ac_charging": {
                 "ports": [
@@ -10595,7 +10595,7 @@
             "drive_train": "Front",
             "weight": 1505,
             "seats": 4,
-            "trunk": 1,
+            "trunk": 185,
             "url": "https://ev-database.de/pkw/1275/Fiat-500-Cabrio",
             "ac_charging": {
                 "ports": [
@@ -13246,7 +13246,7 @@
         },
         {
             "id": 154,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "CUPRA",
             "model": "Born 110kW - 45kWh",
             "price": 32700,
@@ -13590,7 +13590,7 @@
         },
         {
             "id": 158,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Lightyear",
             "model": "One",
             "price": 149000,
@@ -14880,7 +14880,7 @@
         },
         {
             "id": 173,
-            "available": "Ab 2022",
+            "available": "Bald verfügbar",
             "brand": "Subaru",
             "model": "Solterra AWD",
             "price": 50000,
@@ -14966,7 +14966,7 @@
         },
         {
             "id": 174,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Toyota",
             "model": "bZ4X AWD",
             "price": 50000,
@@ -15052,7 +15052,7 @@
         },
         {
             "id": 175,
-            "available": "Ab 2022",
+            "available": "Dieses Jahr verfügbar",
             "brand": "Toyota",
             "model": "bZ4X FWD",
             "price": 45000,
