@@ -15221,6 +15221,92 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 177,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "BMW",
+            "model": "iX M60",
+            "price": 132200,
+            "body": "SUV",
+            "battery_size": 105.2,
+            "range": 485,
+            "consumption": 21.7,
+            "engine_power": 455,
+            "newton_meter": 1100,
+            "acceleration": 3.8,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2659,
+            "seats": 5,
+            "trunk": 500,
+            "url": "https://ev-database.de/pkw/1590/BMW-iX-M60",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 200.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 160.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 184.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 180.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 164.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 142.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 126.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 40.0
+                    }
+                ]
+            }
         }
     ]
 }
