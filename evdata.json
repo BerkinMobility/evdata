@@ -8605,12 +8605,12 @@
             "available": "Aktuell verfügbar",
             "brand": "Tesla",
             "model": "Model 3 Performance",
-            "price": 58560,
+            "price": 59560,
             "body": "Stufenheck",
-            "battery_size": 76.0,
-            "range": 470,
-            "consumption": 16.2,
-            "engine_power": 420,
+            "battery_size": 75.0,
+            "range": 460,
+            "consumption": 16.3,
+            "engine_power": 413,
             "newton_meter": 660,
             "acceleration": 3.3,
             "speed": 261,
@@ -8618,7 +8618,7 @@
             "weight": 1919,
             "seats": 5,
             "trunk": 561,
-            "url": "https://ev-database.de/pkw/1322/Tesla-Model-3-Performance",
+            "url": "https://ev-database.de/pkw/1620/Tesla-Model-3-Performance",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -8641,47 +8641,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 250.0,
+                "max_power": 210.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 200.0
+                        "power": 168.0
                     },
                     {
                         "percentage": 10,
-                        "power": 237.5
+                        "power": 199.5
                     },
                     {
                         "percentage": 20,
-                        "power": 230.0
+                        "power": 193.0
                     },
                     {
                         "percentage": 30,
-                        "power": 225.0
+                        "power": 189.0
                     },
                     {
                         "percentage": 40,
-                        "power": 205.0
+                        "power": 172.0
                     },
                     {
                         "percentage": 50,
-                        "power": 177.5
+                        "power": 149.5
                     },
                     {
                         "percentage": 60,
-                        "power": 157.5
+                        "power": 132.5
                     },
                     {
                         "percentage": 70,
-                        "power": 125.0
+                        "power": 105.0
                     },
                     {
                         "percentage": 80,
-                        "power": 100.0
+                        "power": 84.0
                     },
                     {
                         "percentage": 90,
-                        "power": 50.0
+                        "power": 42.0
                     }
                 ]
             }
@@ -13079,18 +13079,18 @@
             "model": "Model Y Maximale Reichweite",
             "price": 59965,
             "body": "SUV",
-            "battery_size": 70.0,
-            "range": 410,
-            "consumption": 17.1,
+            "battery_size": 75.0,
+            "range": 435,
+            "consumption": 17.2,
             "engine_power": 324,
             "newton_meter": 493,
             "acceleration": 5.0,
             "speed": 217,
             "drive_train": "Allrad",
             "weight": 2056,
-            "seats": 7,
+            "seats": 5,
             "trunk": 854,
-            "url": "https://ev-database.de/pkw/1182/Tesla-Model-Y-Maximale-Reichweite",
+            "url": "https://ev-database.de/pkw/1619/Tesla-Model-Y-Maximale-Reichweite",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -15304,6 +15304,866 @@
                     {
                         "percentage": 90,
                         "power": 40.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 178,
+            "available": "Bald verfügbar",
+            "brand": "Porsche",
+            "model": "Taycan Turbo S Sport Turismo",
+            "price": 187288,
+            "body": "Steilheck",
+            "battery_size": 83.7,
+            "range": 395,
+            "consumption": 21.2,
+            "engine_power": 560,
+            "newton_meter": 1050,
+            "acceleration": 2.8,
+            "speed": 260,
+            "drive_train": "Allrad",
+            "weight": 2400,
+            "seats": 4,
+            "trunk": 405,
+            "url": "https://ev-database.de/pkw/1626/Porsche-Taycan-Turbo-S-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 230.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 260.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 227.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 200.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 203.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 179.9
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 73.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 40.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 179,
+            "available": "Bald verfügbar",
+            "brand": "Porsche",
+            "model": "Taycan Turbo Sport Turismo",
+            "price": 153968,
+            "body": "Steilheck",
+            "battery_size": 83.7,
+            "range": 405,
+            "consumption": 20.7,
+            "engine_power": 500,
+            "newton_meter": 850,
+            "acceleration": 3.2,
+            "speed": 260,
+            "drive_train": "Allrad",
+            "weight": 2405,
+            "seats": 4,
+            "trunk": 405,
+            "url": "https://ev-database.de/pkw/1625/Porsche-Taycan-Turbo-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 230.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 260.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 227.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 200.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 203.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 179.9
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 73.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 40.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 180,
+            "available": "Bald verfügbar",
+            "brand": "Porsche",
+            "model": "Taycan 4S Plus Sport Turismo",
+            "price": 112961,
+            "body": "Steilheck",
+            "battery_size": 83.7,
+            "range": 430,
+            "consumption": 19.5,
+            "engine_power": 420,
+            "newton_meter": 650,
+            "acceleration": 4.0,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2325,
+            "seats": 4,
+            "trunk": 446,
+            "url": "https://ev-database.de/pkw/1624/Porsche-Taycan-4S-Plus-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 230.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 260.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 227.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 200.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 203.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 179.9
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 73.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 40.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 181,
+            "available": "Bald verfügbar",
+            "brand": "Porsche",
+            "model": "Taycan 4S Sport Turismo",
+            "price": 107439,
+            "body": "Steilheck",
+            "battery_size": 71.0,
+            "range": 370,
+            "consumption": 19.2,
+            "engine_power": 390,
+            "newton_meter": 640,
+            "acceleration": 4.0,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2245,
+            "seats": 4,
+            "trunk": 446,
+            "url": "https://ev-database.de/pkw/1623/Porsche-Taycan-4S-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 225.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 180.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 213.8
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 207.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 202.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 184.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 159.8
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 141.8
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 112.5
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 45.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 182,
+            "available": "Bald verfügbar",
+            "brand": "Porsche",
+            "model": "Taycan Plus Sport Turismo",
+            "price": 92219,
+            "body": "Steilheck",
+            "battery_size": 83.7,
+            "range": 445,
+            "consumption": 18.8,
+            "engine_power": 350,
+            "newton_meter": 357,
+            "acceleration": 5.4,
+            "speed": 230,
+            "drive_train": "Heck",
+            "weight": 2235,
+            "seats": 4,
+            "trunk": 446,
+            "url": "https://ev-database.de/pkw/1622/Porsche-Taycan-Plus-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 262.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 230.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 260.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 227.8
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 200.9
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 203.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 179.9
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.9
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 73.6
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 40.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 28.4
+                    }
+                ]
+            }
+        },
+        {
+            "id": 183,
+            "available": "Bald verfügbar",
+            "brand": "Porsche",
+            "model": "Taycan Sport Turismo",
+            "price": 86495,
+            "body": "Steilheck",
+            "battery_size": 71.0,
+            "range": 380,
+            "consumption": 18.7,
+            "engine_power": 300,
+            "newton_meter": 345,
+            "acceleration": 5.4,
+            "speed": 230,
+            "drive_train": "Heck",
+            "weight": 2155,
+            "seats": 4,
+            "trunk": 446,
+            "url": "https://ev-database.de/pkw/1621/Porsche-Taycan-Sport-Turismo",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 225.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 180.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 213.8
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 207.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 202.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 184.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 159.8
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 141.8
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 112.5
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 45.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 184,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "eVito Tourer Extralang 60 kWh",
+            "price": 61571,
+            "body": "Kleinbus",
+            "battery_size": 60.0,
+            "range": 205,
+            "consumption": 29.3,
+            "engine_power": 150,
+            "newton_meter": 366,
+            "acceleration": 12.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2405,
+            "seats": 9,
+            "trunk": 1390,
+            "url": "https://ev-database.de/pkw/1618/Mercedes-eVito-Tourer-Extralang-60-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 110.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 88.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 104.8
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 99.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 90.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 78.8
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 69.8
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 55.5
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 44.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 22.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 185,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "eVito Tourer Lang 60 kWh",
+            "price": 60678,
+            "body": "Kleinbus",
+            "battery_size": 60.0,
+            "range": 210,
+            "consumption": 28.6,
+            "engine_power": 150,
+            "newton_meter": 366,
+            "acceleration": 12.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2380,
+            "seats": 9,
+            "trunk": 990,
+            "url": "https://ev-database.de/pkw/1617/Mercedes-eVito-Tourer-Lang-60-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 110.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 88.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 104.8
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 99.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 90.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 78.8
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 69.8
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 55.5
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 44.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 22.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 186,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "eVito Tourer Extralang 90 kWh",
+            "price": 65140,
+            "body": "Kleinbus",
+            "battery_size": 90.0,
+            "range": 305,
+            "consumption": 29.5,
+            "engine_power": 150,
+            "newton_meter": 366,
+            "acceleration": 12.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2555,
+            "seats": 9,
+            "trunk": 1390,
+            "url": "https://ev-database.de/pkw/1616/Mercedes-eVito-Tourer-Extralang-90-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 110.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 77.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 110.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 109.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 101.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 82.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 75.3
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 74.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 58.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 29.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 187,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "eVito Tourer Lang 90 kWh",
+            "price": 64248,
+            "body": "Kleinbus",
+            "battery_size": 90.0,
+            "range": 310,
+            "consumption": 29.0,
+            "engine_power": 150,
+            "newton_meter": 366,
+            "acceleration": 12.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2530,
+            "seats": 9,
+            "trunk": 990,
+            "url": "https://ev-database.de/pkw/1615/Mercedes-eVito-Tourer-Lang-90-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 110.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 77.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 110.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 109.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 101.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 82.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 75.3
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 74.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 58.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 29.0
                     }
                 ]
             }
