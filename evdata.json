@@ -16170,6 +16170,7 @@
         },
         {
             "id": 188,
+            "available": "Bald verfügbar",
             "brand": "Skoda",
             "model": "Enyaq Coupe iV RS",
             "price": 53000,
@@ -16255,6 +16256,7 @@
         },
         {
             "id": 189,
+            "available": "Bald verfügbar",
             "brand": "Skoda",
             "model": "Enyaq Coupe iV 80x",
             "price": 49000,
@@ -16340,6 +16342,7 @@
         },
         {
             "id": 190,
+            "available": "Bald verfügbar",
             "brand": "Skoda",
             "model": "Enyaq Coupe iV 80",
             "price": 47000,
@@ -16425,6 +16428,7 @@
         },
         {
             "id": 191,
+            "available": "Bald verfügbar",
             "brand": "Skoda",
             "model": "Enyaq Coupe iV 60",
             "price": 42000,
@@ -16510,6 +16514,7 @@
         },
         {
             "id": 192,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Expert Kombi L3 75 kWh",
             "price": 56980,
@@ -16595,6 +16600,7 @@
         },
         {
             "id": 193,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Expert Kombi L2 75 kWh",
             "price": 56190,
@@ -16680,6 +16686,7 @@
         },
         {
             "id": 194,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Expert Kombi L3 50 kWh",
             "price": 50980,
@@ -16765,6 +16772,7 @@
         },
         {
             "id": 195,
+            "available": "Aktuell verfügbar",
             "brand": "Peugeot",
             "model": "e-Expert Kombi L2 50 kWh",
             "price": 50190,
@@ -16850,6 +16858,7 @@
         },
         {
             "id": 196,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Vivaro-e Kombi L 75 kWh",
             "price": 57061,
@@ -16935,6 +16944,7 @@
         },
         {
             "id": 197,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Vivaro-e Kombi M 75 kWh",
             "price": 56228,
@@ -17020,6 +17030,7 @@
         },
         {
             "id": 198,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Vivaro-e Kombi L 50 kWh",
             "price": 51111,
@@ -17105,6 +17116,7 @@
         },
         {
             "id": 199,
+            "available": "Aktuell verfügbar",
             "brand": "Opel",
             "model": "Vivaro-e Kombi M 50 kWh",
             "price": 50278,
@@ -17190,6 +17202,7 @@
         },
         {
             "id": 200,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-Jumpy Kombi XL 75 kWh",
             "price": 56980,
@@ -17275,6 +17288,7 @@
         },
         {
             "id": 201,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-Jumpy Kombi M 75 kWh",
             "price": 56190,
@@ -17360,6 +17374,7 @@
         },
         {
             "id": 202,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-Jumpy Kombi XL 50 kWh",
             "price": 50980,
@@ -17445,6 +17460,7 @@
         },
         {
             "id": 203,
+            "available": "Aktuell verfügbar",
             "brand": "Citroen",
             "model": "e-Jumpy Kombi M 50 kWh",
             "price": 50190,
