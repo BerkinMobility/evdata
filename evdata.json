@@ -16167,6 +16167,1366 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 188,
+            "brand": "Skoda",
+            "model": "Enyaq Coupe iV RS",
+            "price": 53000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 410,
+            "consumption": 18.8,
+            "engine_power": 220,
+            "newton_meter": 460,
+            "acceleration": 6.5,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2250,
+            "seats": 5,
+            "trunk": 575,
+            "url": "https://ev-database.de/pkw/1631/Skoda-Enyaq-Coupe-iV-RS",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.5
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.3
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 75.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 60.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 189,
+            "brand": "Skoda",
+            "model": "Enyaq Coupe iV 80x",
+            "price": 49000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 430,
+            "consumption": 17.9,
+            "engine_power": 195,
+            "newton_meter": 425,
+            "acceleration": 7.0,
+            "speed": 160,
+            "drive_train": "Allrad",
+            "weight": 2175,
+            "seats": 5,
+            "trunk": 575,
+            "url": "https://ev-database.de/pkw/1630/Skoda-Enyaq-Coupe-iV-80x",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.5
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.3
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 75.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 60.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 190,
+            "brand": "Skoda",
+            "model": "Enyaq Coupe iV 80",
+            "price": 47000,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 455,
+            "consumption": 16.9,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 8.7,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 2050,
+            "seats": 5,
+            "trunk": 575,
+            "url": "https://ev-database.de/pkw/1629/Skoda-Enyaq-Coupe-iV-80",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.5
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.3
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 75.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 60.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 191,
+            "brand": "Skoda",
+            "model": "Enyaq Coupe iV 60",
+            "price": 42000,
+            "body": "SUV",
+            "battery_size": 58.0,
+            "range": 345,
+            "consumption": 16.8,
+            "engine_power": 132,
+            "newton_meter": 310,
+            "acceleration": 8.8,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1950,
+            "seats": 5,
+            "trunk": 575,
+            "url": "https://ev-database.de/pkw/1628/Skoda-Enyaq-Coupe-iV-60",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 126.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 100.8
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 119.7
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 115.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 113.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 103.3
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 89.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 79.3
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 63.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 25.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 192,
+            "brand": "Peugeot",
+            "model": "e-Expert Kombi L3 75 kWh",
+            "price": 56980,
+            "body": "Kleinbus",
+            "battery_size": 68.0,
+            "range": 260,
+            "consumption": 26.2,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 14.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2161,
+            "seats": 9,
+            "trunk": 989,
+            "url": "https://ev-database.de/pkw/1608/Peugeot-e-Expert-Kombi-L3-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 193,
+            "brand": "Peugeot",
+            "model": "e-Expert Kombi L2 75 kWh",
+            "price": 56190,
+            "body": "Kleinbus",
+            "battery_size": 68.0,
+            "range": 265,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 14.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2131,
+            "seats": 9,
+            "trunk": 603,
+            "url": "https://ev-database.de/pkw/1607/Peugeot-e-Expert-Kombi-L2-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 194,
+            "brand": "Peugeot",
+            "model": "e-Expert Kombi L3 50 kWh",
+            "price": 50980,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 175,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2011,
+            "seats": 9,
+            "trunk": 989,
+            "url": "https://ev-database.de/pkw/1606/Peugeot-e-Expert-Kombi-L3-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.2
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.1
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 195,
+            "brand": "Peugeot",
+            "model": "e-Expert Kombi L2 50 kWh",
+            "price": 50190,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1982,
+            "seats": 9,
+            "trunk": 603,
+            "url": "https://ev-database.de/pkw/1605/Peugeot-e-Expert-Kombi-L2-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.2
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.1
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 196,
+            "brand": "Opel",
+            "model": "Vivaro-e Kombi L 75 kWh",
+            "price": 57061,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2167,
+            "seats": 9,
+            "trunk": 912,
+            "url": "https://ev-database.de/pkw/1603/Opel-Vivaro-e-Kombi-L-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 197,
+            "brand": "Opel",
+            "model": "Vivaro-e Kombi M 75 kWh",
+            "price": 56228,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2140,
+            "seats": 9,
+            "trunk": 507,
+            "url": "https://ev-database.de/pkw/1602/Opel-Vivaro-e-Kombi-M-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 198,
+            "brand": "Opel",
+            "model": "Vivaro-e Kombi L 50 kWh",
+            "price": 51111,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 175,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1989,
+            "seats": 9,
+            "trunk": 912,
+            "url": "https://ev-database.de/pkw/1601/Opel-Vivaro-e-Kombi-L-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.3
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 199,
+            "brand": "Opel",
+            "model": "Vivaro-e Kombi M 50 kWh",
+            "price": 50278,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1969,
+            "seats": 9,
+            "trunk": 507,
+            "url": "https://ev-database.de/pkw/1600/Opel-Vivaro-e-Kombi-M-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.3
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 200,
+            "brand": "Citroen",
+            "model": "e-Jumpy Kombi XL 75 kWh",
+            "price": 56980,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2167,
+            "seats": 9,
+            "trunk": 912,
+            "url": "https://ev-database.de/pkw/1598/Citroen-e-Jumpy-Kombi-XL-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 201,
+            "brand": "Citroen",
+            "model": "e-Jumpy Kombi M 75 kWh",
+            "price": 56190,
+            "body": "Kleinbus",
+            "battery_size": 65.0,
+            "range": 250,
+            "consumption": 26.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2140,
+            "seats": 9,
+            "trunk": 507,
+            "url": "https://ev-database.de/pkw/1597/Citroen-e-Jumpy-Kombi-M-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 202,
+            "brand": "Citroen",
+            "model": "e-Jumpy Kombi XL 50 kWh",
+            "price": 50980,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 175,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1989,
+            "seats": 9,
+            "trunk": 912,
+            "url": "https://ev-database.de/pkw/1596/Citroen-e-Jumpy-Kombi-XL-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.3
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 203,
+            "brand": "Citroen",
+            "model": "e-Jumpy Kombi M 50 kWh",
+            "price": 50190,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1969,
+            "seats": 9,
+            "trunk": 507,
+            "url": "https://ev-database.de/pkw/1595/Citroen-e-Jumpy-Kombi-M-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.3
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
         }
     ]
 }
