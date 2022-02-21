@@ -17543,6 +17543,92 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 204,
+            "available": "Aktuell verfügbar",
+            "brand": "Volkswagen",
+            "model": "e-Up!",
+            "price": 26895,
+            "body": "Steilheck",
+            "battery_size": 32.3,
+            "range": 205,
+            "consumption": 15.8,
+            "engine_power": 61,
+            "newton_meter": 210,
+            "acceleration": 11.9,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1248,
+            "seats": 4,
+            "trunk": 250,
+            "url": "https://ev-database.de/pkw/1650/Volkswagen-e-Up",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 7.2,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.2,
+                    "11": 7.2,
+                    "16": 7.2,
+                    "22": 7.2,
+                    "43": 7.2
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 40.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 30.2
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 35.9
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 36.7
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 35.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 32.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 28.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 25.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 19.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 10.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 8.0
+                    }
+                ]
+            }
         }
     ]
 }
