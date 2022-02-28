@@ -17629,6 +17629,522 @@
                     }
                 ]
             }
+        },
+        {
+            "id": 205,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Genesis",
+            "model": "GV60 Sport Plus",
+            "price": 69000,
+            "body": "SUV",
+            "battery_size": 72.5,
+            "range": 360,
+            "consumption": 20.1,
+            "engine_power": 360,
+            "newton_meter": 700,
+            "acceleration": 4.0,
+            "speed": 250,
+            "drive_train": "Allrad",
+            "weight": 2160,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1649/Genesis-GV60-Sport-Plus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 239.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 191.2
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 227.9
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 219.7
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 215.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 196.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 169.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 119.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 75.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 37.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 206,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Genesis",
+            "model": "GV60 Sport",
+            "price": 58000,
+            "body": "SUV",
+            "battery_size": 72.5,
+            "range": 375,
+            "consumption": 19.3,
+            "engine_power": 234,
+            "newton_meter": 605,
+            "acceleration": 5.2,
+            "speed": 185,
+            "drive_train": "Allrad",
+            "weight": 2095,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1648/Genesis-GV60-Sport",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 239.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 191.2
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 227.9
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 219.7
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 215.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 196.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 169.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 119.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 75.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 37.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 207,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Genesis",
+            "model": "GV60 Premium",
+            "price": 53000,
+            "body": "SUV",
+            "battery_size": 72.5,
+            "range": 390,
+            "consumption": 18.6,
+            "engine_power": 168,
+            "newton_meter": 350,
+            "acceleration": 7.3,
+            "speed": 185,
+            "drive_train": "Heck",
+            "weight": 1985,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1647/Genesis-GV60-Premium",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 239.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 191.2
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 227.9
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 219.7
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 215.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 196.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 169.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 150.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 119.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 75.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 37.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 208,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Volkswagen",
+            "model": "ID.Buzz",
+            "price": 55000,
+            "body": "Kleinbus",
+            "battery_size": 77.0,
+            "range": 330,
+            "consumption": 23.3,
+            "engine_power": 150,
+            "newton_meter": 310,
+            "acceleration": 10.0,
+            "speed": 145,
+            "drive_train": "Heck",
+            "weight": 2300,
+            "seats": 5,
+            "trunk": 1121,
+            "url": "https://ev-database.de/pkw/1651/Volkswagen-ID-Buzz",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.5
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.2
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 74.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 51.1
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 209,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Mercedes-AMG",
+            "model": "EQE 43 4MATIC",
+            "price": 120000,
+            "body": "Stufenheck",
+            "battery_size": 90.6,
+            "range": 485,
+            "consumption": 18.7,
+            "engine_power": 350,
+            "newton_meter": 476,
+            "acceleration": 4.2,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2525,
+            "seats": 5,
+            "trunk": 430,
+            "url": "https://ev-database.de/pkw/1652/Mercedes-EQE-AMG-43-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 136.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 161.4
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 156.6
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 153.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 139.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 107.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 61.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 210,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Mercedes-AMG",
+            "model": "EQE 53 4MATIC+",
+            "price": 140000,
+            "body": "Stufenheck",
+            "battery_size": 90.6,
+            "range": 475,
+            "consumption": 19.1,
+            "engine_power": 505,
+            "newton_meter": 1000,
+            "acceleration": 3.3,
+            "speed": 240,
+            "drive_train": "Allrad",
+            "weight": 2525,
+            "seats": 5,
+            "trunk": 430,
+            "url": "https://ev-database.de/pkw/1653/Mercedes-EQE-AMG-53-4MATICplus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 136.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 161.4
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 156.6
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 153.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 139.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 107.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 61.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 34.0
+                    }
+                ]
+            }
         }
     ]
 }
