@@ -4219,20 +4219,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Polestar",
             "model": "2 Standard Range Single Motor",
-            "price": 46500,
+            "price": 46495,
             "body": "Fließheck",
-            "battery_size": 61.0,
-            "range": 350,
+            "battery_size": 67.0,
+            "range": 385,
             "consumption": 17.4,
-            "engine_power": 165,
+            "engine_power": 170,
             "newton_meter": 330,
             "acceleration": 7.4,
             "speed": 160,
             "drive_train": "Front",
-            "weight": 2015,
+            "weight": 2025,
             "seats": 5,
             "trunk": 405,
-            "url": "https://ev-database.de/pkw/1486/Polestar-2-Standard-Range-Single-Motor",
+            "url": "https://ev-database.de/pkw/1654/Polestar-2-Standard-Range-Single-Motor",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -4255,47 +4255,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 115.0,
+                "max_power": 130.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 92.5
+                        "power": 104.5
                     },
                     {
                         "percentage": 10,
-                        "power": 109.8
+                        "power": 123.8
                     },
                     {
                         "percentage": 20,
-                        "power": 105.5
+                        "power": 119.5
                     },
                     {
                         "percentage": 30,
-                        "power": 103.3
+                        "power": 117.3
                     },
                     {
                         "percentage": 40,
-                        "power": 94.0
+                        "power": 106.0
                     },
                     {
                         "percentage": 50,
-                        "power": 81.0
+                        "power": 92.0
                     },
                     {
                         "percentage": 60,
-                        "power": 72.3
+                        "power": 81.3
                     },
                     {
                         "percentage": 70,
-                        "power": 57.0
+                        "power": 58.0
                     },
                     {
                         "percentage": 80,
-                        "power": 46.5
+                        "power": 45.5
                     },
                     {
                         "percentage": 90,
-                        "power": 23.0
+                        "power": 26.0
                     }
                 ]
             }
@@ -5938,21 +5938,21 @@
             "id": 69,
             "available": "Aktuell verfügbar",
             "brand": "Volvo",
-            "model": "C40 Recharge",
-            "price": 62050,
+            "model": "C40 Recharge Twin Pure Electric",
+            "price": 57650,
             "body": "SUV",
             "battery_size": 75.0,
-            "range": 340,
-            "consumption": 22.1,
+            "range": 350,
+            "consumption": 21.4,
             "engine_power": 300,
             "newton_meter": 660,
             "acceleration": 4.7,
             "speed": 180,
             "drive_train": "Allrad",
-            "weight": 2202,
+            "weight": 2185,
             "seats": 5,
             "trunk": 419,
-            "url": "https://ev-database.de/pkw/1421/Volvo-C40-Recharge",
+            "url": "https://ev-database.de/pkw/1421/Volvo-C40-Recharge-Twin-Pure-Electric",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -10672,17 +10672,17 @@
             "price": 96050,
             "body": "SUV",
             "battery_size": 86.5,
-            "range": 335,
-            "consumption": 25.8,
+            "range": 330,
+            "consumption": 26.2,
             "engine_power": 370,
             "newton_meter": 973,
             "acceleration": 4.5,
             "speed": 210,
             "drive_train": "Allrad",
-            "weight": 2695,
+            "weight": 2730,
             "seats": 5,
             "trunk": 615,
-            "url": "https://ev-database.de/pkw/1272/Audi-e-tron-S-Sportback",
+            "url": "https://ev-database.de/pkw/1659/Audi-e-tron-S-Sportback",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -10765,10 +10765,10 @@
             "acceleration": 4.5,
             "speed": 210,
             "drive_train": "Allrad",
-            "weight": 2695,
+            "weight": 2730,
             "seats": 5,
             "trunk": 660,
-            "url": "https://ev-database.de/pkw/1271/Audi-e-tron-S",
+            "url": "https://ev-database.de/pkw/1658/Audi-e-tron-S",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -11112,7 +11112,7 @@
             "weight": 2445,
             "seats": 5,
             "trunk": 615,
-            "url": "https://ev-database.de/pkw/1247/Audi-e-tron-Sportback-50-quattro",
+            "url": "https://ev-database.de/pkw/1661/Audi-e-tron-Sportback-50-quattro",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -12488,7 +12488,7 @@
             "weight": 2445,
             "seats": 5,
             "trunk": 660,
-            "url": "https://ev-database.de/pkw/1209/Audi-e-tron-50-quattro",
+            "url": "https://ev-database.de/pkw/1660/Audi-e-tron-50-quattro",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -14369,18 +14369,18 @@
             "model": "Leaf e+",
             "price": 37550,
             "body": "Steilheck",
-            "battery_size": 56.0,
-            "range": 325,
-            "consumption": 17.2,
+            "battery_size": 59.0,
+            "range": 340,
+            "consumption": 17.4,
             "engine_power": 160,
             "newton_meter": 340,
-            "acceleration": 7.3,
+            "acceleration": 6.9,
             "speed": 157,
             "drive_train": "Front",
             "weight": 1756,
             "seats": 5,
             "trunk": 420,
-            "url": "https://ev-database.de/pkw/1144/Nissan-Leaf-eplus",
+            "url": "https://ev-database.de/pkw/1657/Nissan-Leaf-eplus",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -14401,7 +14401,7 @@
             "exclusive_charging_curve": false,
             "dc_charging": {
                 "ports": [
-                    "CCS"
+                    "CHAdeMO"
                 ],
                 "max_power": 100.0,
                 "charging_curve": [
@@ -14627,9 +14627,9 @@
             "model": "Leaf",
             "price": 29990,
             "body": "Steilheck",
-            "battery_size": 37.0,
-            "range": 225,
-            "consumption": 16.4,
+            "battery_size": 39.0,
+            "range": 235,
+            "consumption": 16.6,
             "engine_power": 110,
             "newton_meter": 320,
             "acceleration": 7.9,
@@ -14638,7 +14638,7 @@
             "weight": 1580,
             "seats": 5,
             "trunk": 435,
-            "url": "https://ev-database.de/pkw/1106/Nissan-Leaf",
+            "url": "https://ev-database.de/pkw/1656/Nissan-Leaf",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -18142,6 +18142,264 @@
                     {
                         "percentage": 90,
                         "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 211,
+            "available": "Aktuell verfügbar",
+            "brand": "Volvo",
+            "model": "C40 Recharge Pure Electric",
+            "price": 48850,
+            "body": "SUV",
+            "battery_size": 67.0,
+            "range": 325,
+            "consumption": 20.6,
+            "engine_power": 170,
+            "newton_meter": 330,
+            "acceleration": 7.4,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2045,
+            "seats": 5,
+            "trunk": 419,
+            "url": "https://ev-database.de/pkw/1655/Volvo-C40-Recharge-Pure-Electric",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 104.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 123.4
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 119.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 117.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 106.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 92.5
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 81.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 58.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 45.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 26.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 212,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQB 250 4MATIC",
+            "price": 52342,
+            "body": "SUV",
+            "battery_size": 66.5,
+            "range": 345,
+            "consumption": 19.3,
+            "engine_power": 140,
+            "newton_meter": 385,
+            "acceleration": 8.0,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2110,
+            "seats": 7,
+            "trunk": 495,
+            "url": "https://ev-database.de/pkw/1664/Mercedes-EQB-250",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 113.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 107.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 104.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 92.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 71.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 39.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 22.7
+                    }
+                ]
+            }
+        },
+        {
+            "id": 213,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQA 250+",
+            "price": 55960,
+            "body": "SUV",
+            "battery_size": 70.5,
+            "range": 375,
+            "consumption": 18.8,
+            "engine_power": 140,
+            "newton_meter": 385,
+            "acceleration": 9.1,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2055,
+            "seats": 5,
+            "trunk": 340,
+            "url": "https://ev-database.de/pkw/1665/Mercedes-EQA-250plus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 113.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 107.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 104.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 101.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 92.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 71.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 39.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 22.7
                     }
                 ]
             }
