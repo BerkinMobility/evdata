@@ -11185,20 +11185,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E GT",
-            "price": 72900,
+            "price": 77200,
             "body": "SUV",
-            "battery_size": 88.0,
-            "range": 410,
-            "consumption": 21.5,
+            "battery_size": 91.0,
+            "range": 425,
+            "consumption": 21.4,
             "engine_power": 358,
-            "newton_meter": 830,
+            "newton_meter": 860,
             "acceleration": 4.4,
             "speed": 200,
             "drive_train": "Allrad",
-            "weight": 2250,
+            "weight": 2348,
             "seats": 5,
             "trunk": 322,
-            "url": "https://ev-database.de/pkw/1246/Ford-Mustang-Mach-E-GT",
+            "url": "https://ev-database.de/pkw/1672/Ford-Mustang-Mach-E-GT",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -11216,28 +11216,28 @@
                     "43": 11.0
                 }
             },
-            "exclusive_charging_curve": true,
+            "exclusive_charging_curve": false,
             "dc_charging": {
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 150.0,
+                "max_power": 107.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 115.0
+                        "power": 85.0
                     },
                     {
                         "percentage": 10,
-                        "power": 104.5
+                        "power": 101.5
                     },
                     {
                         "percentage": 20,
-                        "power": 104.0
+                        "power": 98.4
                     },
                     {
                         "percentage": 30,
-                        "power": 97.5
+                        "power": 96.5
                     },
                     {
                         "percentage": 40,
@@ -11249,19 +11249,19 @@
                     },
                     {
                         "percentage": 60,
-                        "power": 76.5
+                        "power": 70.5
                     },
                     {
                         "percentage": 70,
-                        "power": 69.0
+                        "power": 57.0
                     },
                     {
                         "percentage": 80,
-                        "power": 40.0
+                        "power": 37.0
                     },
                     {
                         "percentage": 90,
-                        "power": 14.0
+                        "power": 21.0
                     }
                 ]
             }
@@ -11271,20 +11271,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E AWD Extended Range",
-            "price": 63700,
+            "price": 69700,
             "body": "SUV",
-            "battery_size": 88.0,
-            "range": 420,
-            "consumption": 21.0,
+            "battery_size": 91.0,
+            "range": 435,
+            "consumption": 20.9,
             "engine_power": 258,
             "newton_meter": 580,
             "acceleration": 5.8,
             "speed": 180,
             "drive_train": "Allrad",
-            "weight": 2218,
+            "weight": 2257,
             "seats": 5,
             "trunk": 322,
-            "url": "https://ev-database.de/pkw/1245/Ford-Mustang-Mach-E-AWD-Extended-Range",
+            "url": "https://ev-database.de/pkw/1671/Ford-Mustang-Mach-E-AWD-Extended-Range",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -11302,28 +11302,28 @@
                     "43": 11.0
                 }
             },
-            "exclusive_charging_curve": true,
+            "exclusive_charging_curve": false,
             "dc_charging": {
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 150.0,
+                "max_power": 107.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 115.0
+                        "power": 85.0
                     },
                     {
                         "percentage": 10,
-                        "power": 104.5
+                        "power": 101.5
                     },
                     {
                         "percentage": 20,
-                        "power": 104.0
+                        "power": 98.4
                     },
                     {
                         "percentage": 30,
-                        "power": 97.5
+                        "power": 96.5
                     },
                     {
                         "percentage": 40,
@@ -11335,19 +11335,19 @@
                     },
                     {
                         "percentage": 60,
-                        "power": 76.5
+                        "power": 70.5
                     },
                     {
                         "percentage": 70,
-                        "power": 69.0
+                        "power": 57.0
                     },
                     {
                         "percentage": 80,
-                        "power": 40.0
+                        "power": 37.0
                     },
                     {
                         "percentage": 90,
-                        "power": 14.0
+                        "power": 21.0
                     }
                 ]
             }
@@ -11357,20 +11357,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E AWD Standard Range",
-            "price": 54750,
+            "price": 62250,
             "body": "SUV",
-            "battery_size": 68.0,
-            "range": 330,
+            "battery_size": 70.0,
+            "range": 340,
             "consumption": 20.6,
             "engine_power": 198,
             "newton_meter": 580,
             "acceleration": 6.3,
             "speed": 180,
             "drive_train": "Allrad",
-            "weight": 2086,
+            "weight": 2138,
             "seats": 5,
             "trunk": 322,
-            "url": "https://ev-database.de/pkw/1244/Ford-Mustang-Mach-E-AWD-Standard-Range",
+            "url": "https://ev-database.de/pkw/1670/Ford-Mustang-Mach-E-AWD-Standard-Range",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -11393,47 +11393,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 115.0,
+                "max_power": 109.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 92.5
+                        "power": 87.0
                     },
                     {
                         "percentage": 10,
-                        "power": 109.8
+                        "power": 103.5
                     },
                     {
                         "percentage": 20,
-                        "power": 105.5
+                        "power": 99.4
                     },
                     {
                         "percentage": 30,
-                        "power": 103.3
+                        "power": 97.5
                     },
                     {
                         "percentage": 40,
-                        "power": 94.0
+                        "power": 89.0
                     },
                     {
                         "percentage": 50,
-                        "power": 81.0
+                        "power": 77.0
                     },
                     {
                         "percentage": 60,
-                        "power": 72.3
+                        "power": 68.5
                     },
                     {
                         "percentage": 70,
-                        "power": 57.0
+                        "power": 49.0
                     },
                     {
                         "percentage": 80,
-                        "power": 46.5
+                        "power": 37.0
                     },
                     {
                         "percentage": 90,
-                        "power": 23.0
+                        "power": 21.0
                     }
                 ]
             }
@@ -11443,20 +11443,17 @@
             "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E Extended Range",
-            "price": 54475,
-            "body": "SUV",
-            "battery_size": 88.0,
-            "range": 440,
+            "price": 62950,
             "consumption": 20.0,
             "engine_power": 216,
             "newton_meter": 430,
             "acceleration": 7.0,
             "speed": 180,
             "drive_train": "Heck",
-            "weight": 2111,
+            "weight": 2160,
             "seats": 5,
             "trunk": 322,
-            "url": "https://ev-database.de/pkw/1243/Ford-Mustang-Mach-E-Extended-Range",
+            "url": "https://ev-database.de/pkw/1669/Ford-Mustang-Mach-E-Extended-Range",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -11474,28 +11471,28 @@
                     "43": 11.0
                 }
             },
-            "exclusive_charging_curve": true,
+            "exclusive_charging_curve": false,
             "dc_charging": {
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 150.0,
+                "max_power": 107.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 115.0
+                        "power": 85.0
                     },
                     {
                         "percentage": 10,
-                        "power": 104.5
+                        "power": 101.5
                     },
                     {
                         "percentage": 20,
-                        "power": 104.0
+                        "power": 98.4
                     },
                     {
                         "percentage": 30,
-                        "power": 97.5
+                        "power": 96.5
                     },
                     {
                         "percentage": 40,
@@ -11511,15 +11508,15 @@
                     },
                     {
                         "percentage": 70,
-                        "power": 69.0
+                        "power": 67.0
                     },
                     {
                         "percentage": 80,
-                        "power": 40.0
+                        "power": 37.0
                     },
                     {
                         "percentage": 90,
-                        "power": 14.0
+                        "power": 21.0
                     }
                 ]
             }
@@ -11529,20 +11526,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Ford",
             "model": "Mustang Mach-E Standard Range",
-            "price": 47500,
+            "price": 56500,
             "body": "SUV",
-            "battery_size": 68.0,
-            "range": 345,
+            "battery_size": 70.0,
+            "range": 355,
             "consumption": 19.7,
             "engine_power": 198,
             "newton_meter": 430,
             "acceleration": 6.9,
             "speed": 180,
             "drive_train": "Heck",
-            "weight": 1993,
+            "weight": 2044,
             "seats": 5,
             "trunk": 322,
-            "url": "https://ev-database.de/pkw/1242/Ford-Mustang-Mach-E-Standard-Range",
+            "url": "https://ev-database.de/pkw/1668/Ford-Mustang-Mach-E-Standard-Range",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -11565,47 +11562,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 115.0,
+                "max_power": 109.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 92.5
+                        "power": 87.0
                     },
                     {
                         "percentage": 10,
-                        "power": 109.8
+                        "power": 103.5
                     },
                     {
                         "percentage": 20,
-                        "power": 105.5
+                        "power": 99.4
                     },
                     {
                         "percentage": 30,
-                        "power": 103.3
+                        "power": 97.5
                     },
                     {
                         "percentage": 40,
-                        "power": 94.0
+                        "power": 89.0
                     },
                     {
                         "percentage": 50,
-                        "power": 81.0
+                        "power": 77.0
                     },
                     {
                         "percentage": 60,
-                        "power": 72.3
+                        "power": 68.5
                     },
                     {
                         "percentage": 70,
-                        "power": 57.0
+                        "power": 49.0
                     },
                     {
                         "percentage": 80,
-                        "power": 46.5
+                        "power": 37.0
                     },
                     {
                         "percentage": 90,
-                        "power": 23.0
+                        "power": 21.0
                     }
                 ]
             }
@@ -18148,7 +18145,7 @@
         },
         {
             "id": 211,
-            "available": "Aktuell verfügbar",
+            "available": "Bald verfügbar",
             "brand": "Volvo",
             "model": "C40 Recharge Pure Electric",
             "price": 48850,
@@ -18400,6 +18397,178 @@
                     {
                         "percentage": 90,
                         "power": 22.7
+                    }
+                ]
+            }
+        },
+        {
+            "id": 214,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Kia",
+            "model": "Niro EV",
+            "price": 39990,
+            "body": "SUV",
+            "battery_size": 64.8,
+            "range": 380,
+            "consumption": 17.1,
+            "engine_power": 150,
+            "newton_meter": 255,
+            "acceleration": 7.8,
+            "speed": 167,
+            "drive_train": "Front",
+            "weight": 1757,
+            "seats": 5,
+            "trunk": 475,
+            "url": "https://ev-database.de/pkw/1666/Kia-Niro-EV",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 80.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 64.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 73.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 65.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 56.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 36.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 28.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 16.7
+                    }
+                ]
+            }
+        },
+        {
+            "id": 215,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Smart",
+            "model": "#1",
+            "price": 40000,
+            "body": "SUV",
+            "battery_size": 66.0,
+            "range": 375,
+            "consumption": 17.6,
+            "engine_power": 200,
+            "newton_meter": 343,
+            "acceleration": 6.0,
+            "speed": 180,
+            "drive_train": "Heck",
+            "weight": 1895,
+            "seats": 5,
+            "trunk": 273,
+            "url": "https://ev-database.de/pkw/1667/Smart-1",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 67.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 52.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.7
                     }
                 ]
             }
