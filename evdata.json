@@ -10841,35 +10841,35 @@
             "available": "Aktuell verfügbar",
             "brand": "Aiways",
             "model": "U5",
-            "price": 35993,
+            "price": 39657,
             "body": "SUV",
             "battery_size": 63.0,
-            "range": 335,
-            "consumption": 18.8,
+            "range": 330,
+            "consumption": 19.1,
             "engine_power": 150,
             "newton_meter": 310,
             "acceleration": 7.5,
             "speed": 150,
             "drive_train": "Front",
-            "weight": 1720,
+            "weight": 1795,
             "seats": 5,
-            "trunk": 432,
-            "url": "https://ev-database.de/pkw/1261/Aiways-U5",
+            "trunk": 496,
+            "url": "https://ev-database.de/pkw/1678/Aiways-U5",
             "ac_charging": {
                 "ports": [
                     "Typ2"
                 ],
-                "max_power": 6.6,
+                "max_power": 11.0,
                 "power_per_charging_point": {
                     "1.0": 1.0,
                     "2.0": 2.0,
                     "2.3": 2.3,
                     "3.7": 3.7,
-                    "7.4": 6.6,
-                    "11": 6.6,
-                    "16": 6.6,
-                    "22": 6.6,
-                    "43": 6.6
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 43.0
                 }
             },
             "exclusive_charging_curve": true,
@@ -11615,35 +11615,35 @@
             "available": "Aktuell verfügbar",
             "brand": "Mazda",
             "model": "MX-30",
-            "price": 34490,
+            "price": 35990,
             "body": "SUV",
             "battery_size": 30.0,
             "range": 170,
             "consumption": 17.6,
-            "engine_power": 105,
-            "newton_meter": 265,
+            "engine_power": 107,
+            "newton_meter": 271,
             "acceleration": 9.7,
             "speed": 140,
             "drive_train": "Front",
             "weight": 1720,
             "seats": 5,
             "trunk": 366,
-            "url": "https://ev-database.de/pkw/1241/Mazda-MX-30",
+            "url": "https://ev-database.de/pkw/1680/Mazda-MX-30",
             "ac_charging": {
                 "ports": [
                     "Typ2"
                 ],
-                "max_power": 6.6,
+                "max_power": 11.0,
                 "power_per_charging_point": {
                     "1.0": 1.0,
                     "2.0": 2.0,
                     "2.3": 2.3,
                     "3.7": 3.7,
-                    "7.4": 6.6,
-                    "11": 6.6,
-                    "16": 6.6,
-                    "22": 6.6,
-                    "43": 6.6
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 43.0
                 }
             },
             "exclusive_charging_curve": true,
@@ -18323,20 +18323,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQA 250+",
-            "price": 55960,
+            "price": 52205,
             "body": "SUV",
             "battery_size": 70.5,
             "range": 375,
             "consumption": 18.8,
             "engine_power": 140,
             "newton_meter": 385,
-            "acceleration": 9.1,
+            "acceleration": 8.6,
             "speed": 160,
             "drive_train": "Front",
-            "weight": 2055,
+            "weight": 2040,
             "seats": 5,
             "trunk": 340,
-            "url": "https://ev-database.de/pkw/1665/Mercedes-EQA-250plus",
+            "url": "https://ev-database.de/pkw/1698/Mercedes-EQA-250plus",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -18359,47 +18359,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 113.0,
+                "max_power": 120.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 90.4
+                        "power": 96.4
                     },
                     {
                         "percentage": 10,
-                        "power": 107.0
+                        "power": 114.0
                     },
                     {
                         "percentage": 20,
-                        "power": 104.0
+                        "power": 110.0
                     },
                     {
                         "percentage": 30,
-                        "power": 101.0
+                        "power": 108.0
                     },
                     {
                         "percentage": 40,
-                        "power": 92.0
+                        "power": 98.0
                     },
                     {
                         "percentage": 50,
-                        "power": 80.0
+                        "power": 85.0
                     },
                     {
                         "percentage": 60,
-                        "power": 71.0
+                        "power": 75.0
                     },
                     {
                         "percentage": 70,
-                        "power": 50.9
+                        "power": 53.9
                     },
                     {
                         "percentage": 80,
-                        "power": 39.5
+                        "power": 42.1
                     },
                     {
                         "percentage": 90,
-                        "power": 22.7
+                        "power": 41.7
                     }
                 ]
             }
@@ -18492,7 +18492,7 @@
         },
         {
             "id": 215,
-            "available": "Dieses Jahr verfügbar",
+            "available": "Ab 2023",
             "brand": "Smart",
             "model": "#1",
             "price": 40000,
@@ -18572,6 +18572,780 @@
                     {
                         "percentage": 90,
                         "power": 30.7
+                    }
+                ]
+            }
+        },
+        {
+            "id": 216,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQS SUV 450+",
+            "price": 110658,
+            "body": "SUV",
+            "battery_size": 108.4,
+            "range": 495,
+            "consumption": 21.9,
+            "engine_power": 265,
+            "newton_meter": 568,
+            "acceleration": 6.7,
+            "speed": 210,
+            "drive_train": "Heck",
+            "weight": 2695,
+            "seats": 7,
+            "trunk": 645,
+            "url": "https://ev-database.de/pkw/1673/Mercedes-EQS-SUV-450plus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 207.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 197.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 169.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 147.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 93.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 41.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 217,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQS SUV 450 4MATIC",
+            "price": 114446,
+            "body": "SUV",
+            "battery_size": 108.4,
+            "range": 485,
+            "consumption": 22.4,
+            "engine_power": 265,
+            "newton_meter": 800,
+            "acceleration": 6.0,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2805,
+            "seats": 7,
+            "trunk": 645,
+            "url": "https://ev-database.de/pkw/1674/Mercedes-EQS-SUV-450-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 207.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 197.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 169.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 147.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 93.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 41.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 218,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQS SUV 580 4MATIC",
+            "price": 135291,
+            "body": "SUV",
+            "battery_size": 108.4,
+            "range": 485,
+            "consumption": 22.4,
+            "engine_power": 400,
+            "newton_meter": 858,
+            "acceleration": 4.6,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2810,
+            "seats": 7,
+            "trunk": 645,
+            "url": "https://ev-database.de/pkw/1675/Mercedes-EQS-SUV-580-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 207.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 197.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 169.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 147.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 93.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 41.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 219,
+            "available": "Bald verfügbar",
+            "brand": "BMW",
+            "model": "i7 xDrive60",
+            "price": 135900,
+            "body": "Stufenheck",
+            "battery_size": 101.7,
+            "range": 510,
+            "consumption": 19.9,
+            "engine_power": 400,
+            "newton_meter": 745,
+            "acceleration": 4.7,
+            "speed": 240,
+            "drive_train": "Allrad",
+            "weight": 2715,
+            "seats": 5,
+            "trunk": 500,
+            "url": "https://ev-database.de/pkw/1676/BMW-i7-xDrive60",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 195.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 156.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 185.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 179.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 175.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 160.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 122.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 88.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 68.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 39.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 220,
+            "available": "Bald verfügbar",
+            "brand": "Lexus",
+            "model": "RZ 450e",
+            "price": 60000,
+            "body": "SUV",
+            "battery_size": 71.4,
+            "range": 350,
+            "consumption": 20.4,
+            "engine_power": 230,
+            "newton_meter": 435,
+            "acceleration": 5.6,
+            "speed": 160,
+            "drive_train": "Allrad",
+            "weight": 2296,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1677/Lexus-RZ-450e",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 67.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 52.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 221,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Lucid",
+            "model": "Air Dream Edition R",
+            "price": 218000,
+            "body": "Stufenheck",
+            "battery_size": 118.0,
+            "range": 695,
+            "consumption": 17.0,
+            "engine_power": 696,
+            "newton_meter": 1390,
+            "acceleration": 2.9,
+            "speed": 270,
+            "drive_train": "Allrad",
+            "weight": 2360,
+            "seats": 5,
+            "trunk": 456,
+            "url": "https://ev-database.de/pkw/1696/Lucid-Air-Dream-Edition-R",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 300.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 240.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 285.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 276.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 270.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 246.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 213.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 189.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 105.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 60.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 222,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQA 250",
+            "price": 50777,
+            "body": "SUV",
+            "battery_size": 66.5,
+            "range": 355,
+            "consumption": 18.7,
+            "engine_power": 140,
+            "newton_meter": 385,
+            "acceleration": 8.6,
+            "speed": 160,
+            "drive_train": "Front",
+            "weight": 2040,
+            "seats": 5,
+            "trunk": 340,
+            "url": "https://ev-database.de/pkw/1697/Mercedes-EQA-250",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 112.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 90.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 106.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 103.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 100.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 91.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 79.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 39.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 22.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 223,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQS 450 4MATIC",
+            "price": 111134,
+            "body": "Stufenheck",
+            "battery_size": 107.8,
+            "range": 615,
+            "consumption": 17.5,
+            "engine_power": 265,
+            "newton_meter": 800,
+            "acceleration": 5.6,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2615,
+            "seats": 5,
+            "trunk": 610,
+            "url": "https://ev-database.de/pkw/1699/Mercedes-EQS-450-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 207.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 196.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 147.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 93.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 41.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 224,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQS 500 4MATIC",
+            "price": 123153,
+            "body": "Stufenheck",
+            "battery_size": 107.8,
+            "range": 605,
+            "consumption": 17.8,
+            "engine_power": 330,
+            "newton_meter": 855,
+            "acceleration": 4.8,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2615,
+            "seats": 5,
+            "trunk": 610,
+            "url": "https://ev-database.de/pkw/1700/Mercedes-EQS-500-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 207.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 196.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 190.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 170.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 147.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 130.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 93.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 72.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 41.0
                     }
                 ]
             }
