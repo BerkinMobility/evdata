@@ -1636,23 +1636,23 @@
         },
         {
             "id": 19,
-            "available": "Dieses Jahr verfügbar",
+            "available": "Aktuell verfügbar",
             "brand": "Mercedes-Benz",
             "model": "EQE 350",
-            "price": 70000,
+            "price": 70210,
             "body": "Stufenheck",
-            "battery_size": 90.0,
-            "range": 535,
-            "consumption": 16.8,
+            "battery_size": 89.0,
+            "range": 515,
+            "consumption": 17.3,
             "engine_power": 215,
-            "newton_meter": 530,
-            "acceleration": 5.1,
-            "speed": 160,
+            "newton_meter": 565,
+            "acceleration": 6.4,
+            "speed": 210,
             "drive_train": "Heck",
-            "weight": 2100,
+            "weight": 2385,
             "seats": 5,
             "trunk": 430,
-            "url": "https://ev-database.de/pkw/1538/Mercedes-EQE-350",
+            "url": "https://ev-database.de/pkw/1714/Mercedes-EQE-350",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -8691,20 +8691,20 @@
             "available": "Aktuell verfügbar",
             "brand": "Dacia",
             "model": "Spring Electric",
-            "price": 20490,
+            "price": 22550,
             "body": "Steilheck",
-            "battery_size": 26.8,
-            "range": 170,
-            "consumption": 15.8,
+            "battery_size": 25.0,
+            "range": 155,
+            "consumption": 16.1,
             "engine_power": 33,
             "newton_meter": 125,
-            "acceleration": 15.0,
+            "acceleration": 19.1,
             "speed": 125,
             "drive_train": "Front",
-            "weight": 950,
+            "weight": 1012,
             "seats": 4,
             "trunk": 300,
-            "url": "https://ev-database.de/pkw/1319/Dacia-Spring-Electric",
+            "url": "https://ev-database.de/pkw/1705/Dacia-Spring-Electric",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -8727,23 +8727,23 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 30.0,
+                "max_power": 34.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 24.0
+                        "power": 27.2
                     },
                     {
                         "percentage": 10,
-                        "power": 28.5
+                        "power": 32.1
                     },
                     {
                         "percentage": 20,
-                        "power": 27.6
+                        "power": 30.6
                     },
                     {
                         "percentage": 30,
-                        "power": 27.0
+                        "power": 31.3
                     },
                     {
                         "percentage": 40,
@@ -8751,23 +8751,23 @@
                     },
                     {
                         "percentage": 50,
-                        "power": 25.6
+                        "power": 24.1
                     },
                     {
                         "percentage": 60,
-                        "power": 24.7
+                        "power": 21.4
                     },
                     {
                         "percentage": 70,
-                        "power": 20.8
+                        "power": 15.3
                     },
                     {
                         "percentage": 80,
-                        "power": 15.7
+                        "power": 11.9
                     },
                     {
                         "percentage": 90,
-                        "power": 7.0
+                        "power": 6.8
                     }
                 ]
             }
@@ -10582,21 +10582,21 @@
             "id": 123,
             "available": "Aktuell verfügbar",
             "brand": "Fiat",
-            "model": "500 Cabrio",
-            "price": 30560,
+            "model": "500 Cabrio 24 kWh",
+            "price": 35490,
             "body": "Cabrio",
-            "battery_size": 37.3,
-            "range": 245,
-            "consumption": 15.2,
-            "engine_power": 87,
+            "battery_size": 21.3,
+            "range": 135,
+            "consumption": 15.8,
+            "engine_power": 70,
             "newton_meter": 220,
             "acceleration": 9.0,
-            "speed": 150,
+            "speed": 135,
             "drive_train": "Front",
-            "weight": 1505,
+            "weight": 1281,
             "seats": 4,
             "trunk": 185,
-            "url": "https://ev-database.de/pkw/1275/Fiat-500-Cabrio",
+            "url": "https://ev-database.de/pkw/1727/Fiat-500-Cabrio-24-kWh",
             "ac_charging": {
                 "ports": [
                     "Typ2"
@@ -10619,47 +10619,47 @@
                 "ports": [
                     "CCS"
                 ],
-                "max_power": 85.0,
+                "max_power": 50.0,
                 "charging_curve": [
                     {
                         "percentage": 0,
-                        "power": 68.5
+                        "power": 40.0
                     },
                     {
                         "percentage": 10,
-                        "power": 80.3
+                        "power": 47.3
                     },
                     {
                         "percentage": 20,
-                        "power": 78.5
+                        "power": 46.0
                     },
                     {
                         "percentage": 30,
-                        "power": 76.8
+                        "power": 44.8
                     },
                     {
                         "percentage": 40,
-                        "power": 69.0
+                        "power": 41.0
                     },
                     {
                         "percentage": 50,
-                        "power": 60.4
+                        "power": 35.4
                     },
                     {
                         "percentage": 60,
-                        "power": 53.8
+                        "power": 31.6
                     },
                     {
                         "percentage": 70,
-                        "power": 42.0
+                        "power": 22.5
                     },
                     {
                         "percentage": 80,
-                        "power": 34.5
+                        "power": 17.5
                     },
                     {
                         "percentage": 90,
-                        "power": 17.0
+                        "power": 10.0
                     }
                 ]
             }
@@ -18497,33 +18497,33 @@
             "model": "#1",
             "price": 40000,
             "body": "SUV",
-            "battery_size": 66.0,
-            "range": 375,
-            "consumption": 17.6,
+            "battery_size": 64.0,
+            "range": 350,
+            "consumption": 18.3,
             "engine_power": 200,
             "newton_meter": 343,
-            "acceleration": 6.0,
+            "acceleration": 6.7,
             "speed": 180,
             "drive_train": "Heck",
-            "weight": 1895,
+            "weight": 1788,
             "seats": 5,
-            "trunk": 273,
+            "trunk": 323,
             "url": "https://ev-database.de/pkw/1667/Smart-1",
             "ac_charging": {
                 "ports": [
                     "Typ2"
                 ],
-                "max_power": 22.0,
+                "max_power": 7.4,
                 "power_per_charging_point": {
                     "1.0": 1.0,
                     "2.0": 2.0,
                     "2.3": 2.3,
                     "3.7": 3.7,
                     "7.4": 7.4,
-                    "11": 11.0,
-                    "16": 16.0,
-                    "22": 22.0,
-                    "43": 22.0
+                    "11": 7.4,
+                    "16": 7.4,
+                    "22": 7.4,
+                    "43": 7.4
                 }
             },
             "exclusive_charging_curve": true,
@@ -19346,6 +19346,1898 @@
                     {
                         "percentage": 90,
                         "power": 41.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 225,
+            "available": "Aktuell verfügbar",
+            "brand": "BMW",
+            "model": "iX1 xDrive30",
+            "price": 55000,
+            "body": "SUV",
+            "battery_size": 64.7,
+            "range": 355,
+            "consumption": 18.2,
+            "engine_power": 230,
+            "newton_meter": 494,
+            "acceleration": 5.6,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2085,
+            "seats": 5,
+            "trunk": 490,
+            "url": "https://ev-database.de/pkw/1701/BMW-iX1-xDrive30",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 130.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 104.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 119.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 117.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 106.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 92.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 82.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 58.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 45.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 26.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 226,
+            "available": "Aktuell verfügbar",
+            "brand": "Volkswagen",
+            "model": "ID.4 Pro 4MOTION",
+            "price": 49020,
+            "body": "SUV",
+            "battery_size": 77.0,
+            "range": 405,
+            "consumption": 19.0,
+            "engine_power": 195,
+            "newton_meter": 425,
+            "acceleration": 6.9,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2221,
+            "seats": 5,
+            "trunk": 543,
+            "url": "https://ev-database.de/pkw/1702/Volkswagen-ID4-Pro-4MOTION",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 135.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 128.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 124.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 121.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 110.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 96.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 60.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 47.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 27.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 227,
+            "available": "Aktuell verfügbar",
+            "brand": "Genesis",
+            "model": "G80 Electrified Luxury",
+            "price": 69200,
+            "body": "Stufenheck",
+            "battery_size": 82.5,
+            "range": 440,
+            "consumption": 18.8,
+            "engine_power": 272,
+            "newton_meter": 700,
+            "acceleration": 4.9,
+            "speed": 225,
+            "drive_train": "Allrad",
+            "weight": 2325,
+            "seats": 5,
+            "trunk": 354,
+            "url": "https://ev-database.de/pkw/1703/Genesis-G80-Electrified-Luxury",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 230.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 184.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 218.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 211.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 207.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 188.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 163.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 144.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 103.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 80.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 228,
+            "available": "Ab 2023",
+            "brand": "Citroen",
+            "model": "e-C4 X",
+            "price": 38000,
+            "body": "Fließheck",
+            "battery_size": 45.0,
+            "range": 270,
+            "consumption": 16.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 9.7,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1600,
+            "seats": 5,
+            "trunk": 510,
+            "url": "https://ev-database.de/pkw/1706/Citroen-e-C4-X",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 101.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.7
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.6
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 93.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 77.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 73.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 63.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 54.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 25.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 17.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 229,
+            "available": "Bald verfügbar",
+            "brand": "MG",
+            "model": "MG4 Electric 51 kWh",
+            "price": 31990,
+            "body": "Steilheck",
+            "battery_size": 50.8,
+            "range": 300,
+            "consumption": 16.9,
+            "engine_power": 125,
+            "newton_meter": 250,
+            "acceleration": 7.7,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1755,
+            "seats": 5,
+            "trunk": 363,
+            "url": "https://ev-database.de/pkw/1707/MG-MG4-Electric-51-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 6.6,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 6.6,
+                    "11": 6.6,
+                    "16": 6.6,
+                    "22": 6.6,
+                    "43": 6.6
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 117.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 93.7
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 111.6
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 106.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 105.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 95.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 83.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 73.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 52.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 41.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 23.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 230,
+            "available": "Bald verfügbar",
+            "brand": "MG",
+            "model": "MG4 Electric 64 kWh",
+            "price": 35990,
+            "body": "Steilheck",
+            "battery_size": 61.7,
+            "range": 365,
+            "consumption": 16.9,
+            "engine_power": 150,
+            "newton_meter": 250,
+            "acceleration": 7.9,
+            "speed": 160,
+            "drive_train": "Heck",
+            "weight": 1785,
+            "seats": 5,
+            "trunk": 363,
+            "url": "https://ev-database.de/pkw/1708/MG-MG4-Electric-64-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 135.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 108.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 128.6
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 123.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 121.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 110.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 96.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 85.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 60.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 47.3
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 26.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 231,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQE 350 4MATIC",
+            "price": 73363,
+            "body": "Stufenheck",
+            "battery_size": 90.6,
+            "range": 500,
+            "consumption": 18.1,
+            "engine_power": 215,
+            "newton_meter": 765,
+            "acceleration": 6.3,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2465,
+            "seats": 5,
+            "trunk": 430,
+            "url": "https://ev-database.de/pkw/1715/Mercedes-EQE-350-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 173.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 164.4
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 159.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 155.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 141.9
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 122.7
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 109.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 77.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 60.6
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 34.6
+                    }
+                ]
+            }
+        },
+        {
+            "id": 232,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQE 300",
+            "price": 66402,
+            "body": "Stufenheck",
+            "battery_size": 89.0,
+            "range": 515,
+            "consumption": 17.3,
+            "engine_power": 180,
+            "newton_meter": 550,
+            "acceleration": 7.6,
+            "speed": 210,
+            "drive_train": "Heck",
+            "weight": 2385,
+            "seats": 5,
+            "trunk": 430,
+            "url": "https://ev-database.de/pkw/1713/Mercedes-EQE-300",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 136.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 161.4
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 156.6
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 153.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 139.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 107.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 85.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 61.8
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 233,
+            "available": "Aktuell verfügbar",
+            "brand": "Mercedes-Benz",
+            "model": "EQE 500 4MATIC",
+            "price": 87286,
+            "body": "Stufenheck",
+            "battery_size": 90.6,
+            "range": 500,
+            "consumption": 18.1,
+            "engine_power": 300,
+            "newton_meter": 858,
+            "acceleration": 4.7,
+            "speed": 210,
+            "drive_train": "Allrad",
+            "weight": 2475,
+            "seats": 5,
+            "trunk": 430,
+            "url": "https://ev-database.de/pkw/1716/Mercedes-EQE-500-4MATIC",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 173.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 164.4
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 159.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 155.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 141.9
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 122.7
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 109.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 77.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 60.6
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 34.6
+                    }
+                ]
+            }
+        },
+        {
+            "id": 234,
+            "available": "Bald verfügbar",
+            "brand": "Hyundai",
+            "model": "IONIQ 6 53kWh",
+            "price": 45000,
+            "body": "Stufenheck",
+            "battery_size": 53.0,
+            "range": 360,
+            "consumption": 15.0,
+            "engine_power": 125,
+            "newton_meter": 350,
+            "acceleration": 8.0,
+            "speed": 190,
+            "drive_train": "Heck",
+            "weight": 1900,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1717/Hyundai-IONIQ-6-53-kWh-",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 175.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 140.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 166.3
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 160.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 157.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 143.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 124.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 110.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 78.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 61.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 35.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 235,
+            "available": "Bald verfügbar",
+            "brand": "Hyundai",
+            "model": "IONIQ 6 77.4kWh",
+            "price": 50000,
+            "body": "Stufenheck",
+            "battery_size": 74.0,
+            "range": 485,
+            "consumption": 15.3,
+            "engine_power": 168,
+            "newton_meter": 350,
+            "acceleration": 7.0,
+            "speed": 190,
+            "drive_train": "Heck",
+            "weight": 2000,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1718/Hyundai-IONIQ-6-774-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 233.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 221.3
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 214.4
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 209.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 191.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 146.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 104.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 81.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 236,
+            "available": "Bald verfügbar",
+            "brand": "Hyundai",
+            "model": "IONIQ 6 77.4kWh Allrad",
+            "price": 62000,
+            "body": "Stufenheck",
+            "battery_size": 74.0,
+            "range": 470,
+            "consumption": 15.7,
+            "engine_power": 239,
+            "newton_meter": 605,
+            "acceleration": 5.1,
+            "speed": 190,
+            "drive_train": "Allrad",
+            "weight": 2100,
+            "seats": 5,
+            "trunk": 1,
+            "url": "https://ev-database.de/pkw/1719/Hyundai-IONIQ-6-774-kWh-Allrad",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 233.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 221.3
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 214.4
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 209.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 191.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 146.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 104.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 81.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 237,
+            "available": "Aktuell verfügbar",
+            "brand": "Audi",
+            "model": "Q4 Sportback e-tron 45 quattro",
+            "price": 55900,
+            "body": "SUV",
+            "battery_size": 76.6,
+            "range": 400,
+            "consumption": 19.2,
+            "engine_power": 195,
+            "newton_meter": 425,
+            "acceleration": 6.9,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 2215,
+            "seats": 5,
+            "trunk": 535,
+            "url": "https://ev-database.de/pkw/1720/Audi-Q4-Sportback-e-tron-45-quattro",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 135.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 108.2
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 128.1
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 124.4
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 121.5
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 110.7
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 96.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 85.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 60.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 47.3
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 27.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 238,
+            "available": "Aktuell verfügbar",
+            "brand": "Fiat",
+            "model": "E-Ulysse L2 50 kWh",
+            "price": 55900,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 180,
+            "consumption": 25.0,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1969,
+            "seats": 8,
+            "trunk": 450,
+            "url": "https://ev-database.de/pkw/1721/Fiat-E-Ulysse-L2-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 239,
+            "available": "Aktuell verfügbar",
+            "brand": "Fiat",
+            "model": "E-Ulysse L2 75 kWh",
+            "price": 61990,
+            "body": "Kleinbus",
+            "battery_size": 68.0,
+            "range": 265,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2140,
+            "seats": 8,
+            "trunk": 450,
+            "url": "https://ev-database.de/pkw/1722/Fiat-E-Ulysse-L2-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 240,
+            "available": "Aktuell verfügbar",
+            "brand": "Fiat",
+            "model": "E-Ulysse L3 50 kWh",
+            "price": 56990,
+            "body": "Kleinbus",
+            "battery_size": 45.0,
+            "range": 175,
+            "consumption": 25.7,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 12.1,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 1989,
+            "seats": 8,
+            "trunk": 800,
+            "url": "https://ev-database.de/pkw/1723/Fiat-E-Ulysse-L3-50-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 241,
+            "available": "Aktuell verfügbar",
+            "brand": "Fiat",
+            "model": "E-Ulysse L3 75 kWh",
+            "price": 62990,
+            "body": "Kleinbus",
+            "battery_size": 68.0,
+            "range": 260,
+            "consumption": 26.2,
+            "engine_power": 100,
+            "newton_meter": 260,
+            "acceleration": 13.3,
+            "speed": 130,
+            "drive_train": "Front",
+            "weight": 2167,
+            "seats": 8,
+            "trunk": 800,
+            "url": "https://ev-database.de/pkw/1724/Fiat-E-Ulysse-L3-75-kWh",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 99.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 75.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 70.3
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 70.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 50.0
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 30.0
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 20.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 242,
+            "available": "Bald verfügbar",
+            "brand": "Genesis",
+            "model": "GV70 Electrified Sport",
+            "price": 67300,
+            "body": "SUV",
+            "battery_size": 74.0,
+            "range": 350,
+            "consumption": 21.1,
+            "engine_power": 360,
+            "newton_meter": 700,
+            "acceleration": 4.2,
+            "speed": 235,
+            "drive_train": "Allrad",
+            "weight": 2310,
+            "seats": 5,
+            "trunk": 503,
+            "url": "https://ev-database.de/pkw/1725/Genesis-GV70-Electrified-Sport",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 233.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 186.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 221.3
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 214.4
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 209.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 191.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 165.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 146.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 104.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 81.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 46.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 243,
+            "available": "Dieses Jahr verfügbar",
+            "brand": "Tesla",
+            "model": "Model Y",
+            "price": 56965,
+            "body": "SUV",
+            "battery_size": 57.5,
+            "range": 345,
+            "consumption": 16.7,
+            "engine_power": 255,
+            "newton_meter": 420,
+            "acceleration": 6.9,
+            "speed": 217,
+            "drive_train": "Heck",
+            "weight": 1998,
+            "seats": 5,
+            "trunk": 854,
+            "url": "https://ev-database.de/pkw/1743/Tesla-Model-Y",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": false,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 170.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 136.0
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 161.5
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 156.2
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 153.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 139.2
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 120.7
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 107.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 76.5
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 59.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 34.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 244,
+            "available": "Ab 2023",
+            "brand": "Peugeot",
+            "model": "e-308",
+            "price": 44000,
+            "body": "Steilheck",
+            "battery_size": 51.0,
+            "range": 310,
+            "consumption": 16.5,
+            "engine_power": 115,
+            "newton_meter": 260,
+            "acceleration": 9.0,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1650,
+            "seats": 5,
+            "trunk": 412,
+            "url": "https://ev-database.de/pkw/1744/Peugeot-e-308",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.7
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.6
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 93.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 77.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 73.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 63.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 54.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 25.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 17.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 245,
+            "available": "Ab 2023",
+            "brand": "Peugeot",
+            "model": "e-308 SW",
+            "price": 45000,
+            "body": "Steilheck",
+            "battery_size": 51.0,
+            "range": 300,
+            "consumption": 17.0,
+            "engine_power": 115,
+            "newton_meter": 260,
+            "acceleration": 9.0,
+            "speed": 150,
+            "drive_train": "Front",
+            "weight": 1750,
+            "seats": 5,
+            "trunk": 608,
+            "url": "https://ev-database.de/pkw/1745/Peugeot-e-308-SW",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 11.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 11.0,
+                    "22": 11.0,
+                    "43": 11.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 100.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 70.7
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 99.6
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 93.9
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 76.1
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 77.5
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 73.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 63.1
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 54.8
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 25.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 17.2
+                    }
+                ]
+            }
+        },
+        {
+            "id": 246,
+            "available": "Ab 2023",
+            "brand": "Smart",
+            "model": "#1 BRABUS",
+            "price": 48990,
+            "body": "SUV",
+            "battery_size": 64.0,
+            "range": 335,
+            "consumption": 19.1,
+            "engine_power": 315,
+            "newton_meter": 543,
+            "acceleration": 3.9,
+            "speed": 180,
+            "drive_train": "Allrad",
+            "weight": 1900,
+            "seats": 5,
+            "trunk": 313,
+            "url": "https://ev-database.de/pkw/1748/Smart-1-Brabus",
+            "ac_charging": {
+                "ports": [
+                    "Typ2"
+                ],
+                "max_power": 22.0,
+                "power_per_charging_point": {
+                    "1.0": 1.0,
+                    "2.0": 2.0,
+                    "2.3": 2.3,
+                    "3.7": 3.7,
+                    "7.4": 7.4,
+                    "11": 11.0,
+                    "16": 16.0,
+                    "22": 22.0,
+                    "43": 22.0
+                }
+            },
+            "exclusive_charging_curve": true,
+            "dc_charging": {
+                "ports": [
+                    "CCS"
+                ],
+                "max_power": 150.0,
+                "charging_curve": [
+                    {
+                        "percentage": 0,
+                        "power": 120.4
+                    },
+                    {
+                        "percentage": 10,
+                        "power": 142.0
+                    },
+                    {
+                        "percentage": 20,
+                        "power": 138.0
+                    },
+                    {
+                        "percentage": 30,
+                        "power": 135.0
+                    },
+                    {
+                        "percentage": 40,
+                        "power": 123.0
+                    },
+                    {
+                        "percentage": 50,
+                        "power": 106.0
+                    },
+                    {
+                        "percentage": 60,
+                        "power": 94.0
+                    },
+                    {
+                        "percentage": 70,
+                        "power": 67.9
+                    },
+                    {
+                        "percentage": 80,
+                        "power": 52.5
+                    },
+                    {
+                        "percentage": 90,
+                        "power": 30.7
                     }
                 ]
             }
